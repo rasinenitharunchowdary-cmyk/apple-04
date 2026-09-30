@@ -1,0 +1,176 @@
+const imgFrame = "https://www.figma.com/api/mcp/asset/da83395d-96d5-42be-9a3b-87327bacd3a1.svg";
+const imgFrame1 = "https://www.figma.com/api/mcp/asset/3772dd78-2ece-47ce-8313-6a538bc79079.svg";
+const imgFrame2 = "https://www.figma.com/api/mcp/asset/302ad69a-87fa-40ff-a167-9667b8c9dde6.svg";
+const imgFrame3 = "https://www.figma.com/api/mcp/asset/19da2ede-4563-4665-b2ec-73301c7327da.svg";
+const imgFrame4 = "https://www.figma.com/api/mcp/asset/761c0b78-8959-449c-a318-1eb7c777fdc2.svg";
+const imgFrame5 = "https://www.figma.com/api/mcp/asset/132c5ebb-1fb3-4364-9f29-db3558df8c66.svg";
+const imgFrame6 = "https://www.figma.com/api/mcp/asset/e6a2188f-dc21-4d75-a8e4-0fbf2342f16d.svg";
+const imgFrame7 = "https://www.figma.com/api/mcp/asset/f70a57e6-6989-4372-9be7-63bf5c0ac868.svg";
+const imgFrame8 = "https://www.figma.com/api/mcp/asset/ad50249d-4b6a-45c1-abf8-84e882fb1116.svg";
+const imgFrame9 = "https://www.figma.com/api/mcp/asset/e5229391-1be5-44d4-9d20-f5aef73f5d1e.svg";
+const imgFrame10 = "https://www.figma.com/api/mcp/asset/510371a3-35be-4a06-b12e-4aed401e4b8a.svg";
+const imgFrame11 = "https://www.figma.com/api/mcp/asset/06cab649-120d-4ec9-8032-67f5552db957.svg";
+const imgFrame12 = "https://www.figma.com/api/mcp/asset/2db142bb-6159-4ca0-98f6-dfa309e4a5ba.svg";
+
+export default function UlGlobalnavList() {
+  return (
+    <div className="relative size-full" data-node-id="0:2654" data-name="ul#globalnav-list">
+      <div className="absolute content-stretch flex items-start left-0 px-[9px] top-0" data-node-id="0:2655" data-name="Apple">
+        <div className="h-[44px] overflow-clip relative shrink-0 w-[14px]" data-node-id="0:2656" data-name="svg">
+          <div className="-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[14px]" data-node-id="0:2657" data-name="Frame">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame} />
+          </div>
+        </div>
+        <div className="absolute bottom-[21.5px] overflow-clip right-[13.5px] size-px" data-node-id="0:2659" data-name="span">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[20px] justify-center leading-[0] left-0 not-italic text-[17px] text-[rgba(0,0,0,0.8)] top-[10px] tracking-[-0.374px] w-[46.763px]" data-node-id="0:2660">
+            <p className="leading-[21.001px]">Apple</p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute bottom-0 content-stretch flex gap-[22.906px] items-start left-[-221px] pl-[275.906px] top-0" data-node-id="0:2661" data-name="div">
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2662" data-name="Store">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2663" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[30px]" data-node-id="0:2664" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame1} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[38px] size-px" data-node-id="0:2666" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[29.872px]" data-node-id="0:2667">
+              <p className="leading-[12px]">Store</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2668" data-name="Mac">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2669" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[23px]" data-node-id="0:2670" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[31px] size-px" data-node-id="0:2672" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[23.669px]" data-node-id="0:2673">
+              <p className="leading-[12px]">Mac</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2674" data-name="iPad">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2675" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[24px]" data-node-id="0:2676" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame3} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[32px] size-px" data-node-id="0:2678" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[24.075px]" data-node-id="0:2679">
+              <p className="leading-[12px]">iPad</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2680" data-name="iPhone">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2681" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[38px]" data-node-id="0:2682" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame4} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[46px] size-px" data-node-id="0:2684" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[38.091px]" data-node-id="0:2685">
+              <p className="leading-[12px]">iPhone</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2686" data-name="Watch">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2687" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[35px]" data-node-id="0:2688" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame5} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[43px] size-px" data-node-id="0:2690" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[35.309px]" data-node-id="0:2691">
+              <p className="leading-[12px]">Watch</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2692" data-name="AirPods">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2693" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[43px]" data-node-id="0:2694" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[51px] size-px" data-node-id="0:2696" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[43.184px]" data-node-id="0:2697">
+              <p className="leading-[12px]">AirPods</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2698" data-name="TV and Home">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2699" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[65px]" data-node-id="0:2700" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame7} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[73px] size-px" data-node-id="0:2702" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[63.403px]" data-node-id="0:2703">
+              <p className="leading-[12px]">{`TV & Home`}</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2704" data-name="Entertainment">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2705" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[77px]" data-node-id="0:2706" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame8} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[85px] size-px" data-node-id="0:2708" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[78.216px]" data-node-id="0:2709">
+              <p className="leading-[12px]">Entertainment</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2710" data-name="Accessories">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2711" data-name="svg">
+            <div className="h-[44px] relative shrink-0 w-[67px]" data-node-id="0:2712" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame9} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[75px] size-px" data-node-id="0:2714" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[67.122px]" data-node-id="0:2715">
+              <p className="leading-[12px]">Accessories</p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex items-start px-[9px] relative shrink-0" data-node-id="0:2716" data-name="Support">
+          <div className="content-stretch flex items-start overflow-clip relative shrink-0" data-node-id="0:2717" data-name="svg">
+            <div className="relative shrink-0 size-[44px]" data-node-id="0:2718" data-name="Frame">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame10} />
+            </div>
+          </div>
+          <div className="absolute bottom-[43px] overflow-clip right-[52px] size-px" data-node-id="0:2720" data-name="span">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[44.794px]" data-node-id="0:2721">
+              <p className="leading-[12px]">Support</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[44px] left-[918.97px] overflow-clip top-0 w-[15px]" data-node-id="0:2722" data-name="svg">
+        <div className="-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[15px]" data-node-id="0:2723" data-name="Frame">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame11} />
+        </div>
+      </div>
+      <div className="absolute h-[44px] left-[974.88px] overflow-clip top-0 w-[14px]" data-node-id="0:2725" data-name="svg">
+        <div className="-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[14px]" data-node-id="0:2726" data-name="Frame">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame12} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

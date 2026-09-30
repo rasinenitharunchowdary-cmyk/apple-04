@@ -1,0 +1,75 @@
+const imgDiv = "https://www.figma.com/api/mcp/asset/bbd71643-d62c-479a-ae00-4a0e4f3a74a1.png";
+const imgFigure = "https://www.figma.com/api/mcp/asset/7384c190-8f20-4a15-8582-c10047825c6e.png";
+
+export default function Section() {
+  return (
+    <div className="relative size-full" data-node-id="0:2004" data-name="section">
+      <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.09px] not-italic text-[#1d1d1f] text-[51px] text-center top-[139.5px] tracking-[-0.28px] w-[836.372px]" data-node-id="0:2005">
+        <p className="leading-[60px]">What makes an iPhone an iPhone?</p>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[1253px] left-1/2 overflow-clip top-[240px] w-[1440px]" data-node-id="0:2006" data-name="div">
+        <div className="absolute h-[600px] left-[30px] top-0 w-[1380px]" data-node-id="0:2007" data-name="div">
+          <div aria-hidden className="absolute inset-0 pointer-events-none">
+            <div className="absolute bg-white inset-0" />
+            <div className="absolute inset-0 overflow-hidden">
+              <img alt="" className="absolute h-[71.33%] left-[18.48%] max-w-none top-[28.67%] w-[63.04%]" src={imgDiv} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute h-[137px] left-1/2 top-[80px] w-[750px]" data-node-id="0:2008" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[375.1px] not-italic text-[#1d1d1f] text-[45px] text-center top-[26px] tracking-[-0.144px] w-[138.356px]" data-node-id="0:2009">
+              <p className="leading-[52.008px]">iOS 16</p>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[25px] justify-center leading-[0] left-[375.09px] not-italic text-[#1d1d1f] text-[19px] text-center top-[77.5px] tracking-[0.231px] w-[184.591px]" data-node-id="0:2010">
+              <p className="leading-[29.001px]">Personal is powerful.</p>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[93px]" data-node-id="0:2011" data-name="Learn more about iOS 16">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:2012">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-white inset-[630px_390px_30px_375px] overflow-clip" data-node-id="0:2013" data-name="div">
+          <div className="absolute bottom-0 left-0 top-0 w-[675px]" data-node-id="0:2014" data-name="div">
+            <div className="absolute content-stretch flex flex-col gap-px items-center left-0 pt-[61px] top-0" data-node-id="0:2015" data-name="div">
+              <div className="content-stretch flex items-start pl-[129.313px] pr-[128.688px] relative shrink-0" data-node-id="0:2016" data-name="h3">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[44px] text-center tracking-[-0.144px] whitespace-nowrap" data-node-id="0:2017">
+                  <p className="leading-[52.008px] mb-0">Switching to iPhone</p>
+                  <p className="leading-[52.008px]">is super simple.</p>
+                </div>
+              </div>
+              <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:2018" data-name="Learn more about switching to iPhone.">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:2019">
+                  <p>
+                    <span className="leading-[29.001px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="absolute h-[357px] left-0 top-[236px] w-[675px]" data-node-id="0:2020" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

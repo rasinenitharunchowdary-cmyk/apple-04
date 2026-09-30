@@ -1,0 +1,576 @@
+const imgSeperator = "https://www.figma.com/api/mcp/asset/4b38602a-fd8d-4873-af80-546efd526ab1.svg";
+const imgSeperator1 = "https://www.figma.com/api/mcp/asset/13fe38f0-d00d-4c46-91e2-092c112a3c00.svg";
+const imgApple = "https://www.figma.com/api/mcp/asset/76bd7846-790b-4289-a3fb-324a74c9bd10.svg";
+const imgApple1 = "https://www.figma.com/api/mcp/asset/77dc2384-7108-4c69-93c4-733246eadf59.svg";
+const imgApple2 = "https://www.figma.com/api/mcp/asset/2b678ebc-18b9-4adb-b284-def5facc3391.svg";
+const imgApple3 = "https://www.figma.com/api/mcp/asset/57013e66-cba0-4eab-a014-12de0bab7908.svg";
+
+export default function FooterAcGlobalfooter() {
+  return (
+    <div className="bg-[#f5f5f7] relative size-full" data-node-id="0:2394" data-name="footer#ac-globalfooter">
+      <div className="-translate-x-1/2 absolute h-[2975.125px] left-1/2 top-0 w-[1024px]" data-node-id="0:2395" data-name="div">
+        <div className="absolute border-[#d2d2d7] border-b border-solid h-[2390.469px] left-[22px] top-0 w-[980px]" data-node-id="0:2396" data-name="Footnotes">
+          <div className="absolute h-[307.156px] left-0 top-[17px] w-[980px]" data-node-id="0:2397" data-name="ul">
+            <div className="absolute h-[25.594px] left-0 top-0 w-[980px]" data-node-id="0:2398" data-name="li#footnote-1">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] w-[565.184px]" data-node-id="0:2399">
+                <p>
+                  <span className="leading-[16px]">*</span>
+                  <span className="leading-[16px] tracking-[-0.12px]">{` Pricing includes a $30 connectivity discount that requires activation with AT&T, T‑Mobile, or Verizon.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[281.563px] left-0 top-[25.59px] w-[980px]" data-node-id="0:2400" data-name="li#footnote-2">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] w-[11.528px]" data-node-id="0:2401">
+                <p className="leading-[16px]">**</p>
+              </div>
+              <div className="absolute content-stretch flex items-start left-0 pt-[8.594px] top-[-8.59px]" data-node-id="0:2402" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[12px] tracking-[-0.12px] w-[969.45px]" data-node-id="0:2403">
+                  <p className="indent-[14.59375px]">
+                    <span className="leading-[16px]">{`Apple Card Monthly Installments (ACMI) is a 0% APR payment option available only in the U.S. to select at checkout for certain Apple products purchased at Apple Store locations, `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com</span>
+                    <span className="leading-[16px]">{`, the Apple Store app, or by calling 1-800-MY-APPLE and is subject to credit approval and credit limit. See `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">support.apple.com/kb/HT211204</span>
+                    <span className="leading-[16px]">{` for more information about eligible products. Variable APRs for Apple Card other than ACMI range from 15.49% to 26.49% based on creditworthiness. Rates as of March 1, 2023. If you choose the pay‑in‑full or one‑time‑payment option for an ACMI‑eligible purchase instead of choosing ACMI as the payment option at checkout, that purchase will be subject to the variable APR assigned to your Apple Card. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. See the `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">Apple Card Customer Agreement</span>
+                    <span className="leading-[16px]">{` for more information. ACMI is not available for purchases made online at the following special stores: Apple Employee Purchase Plan; participating corporate Employee Purchase Programs; Apple at Work for small businesses; Government, and Veterans and Military Purchase Programs, or on refurbished devices. iPhone activation required on iPhone purchases made at an Apple Store with one of these national carriers: AT&T, Verizon, or T‑Mobile.`}</span>
+                  </p>
+                </div>
+              </div>
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[153.59px] tracking-[-0.12px] w-[979.841px]" data-node-id="0:2404">
+                <p className="leading-[16px]">{`To access and use all the features of Apple Card, you must add Apple Card to Wallet on an iPhone or iPad with the latest version of iOS or iPadOS. Update to the latest version by going to Settings > General > Software Update. Tap Download and Install.`}</p>
+              </div>
+              <div className="absolute h-[25.594px] left-0 top-[169.59px] w-[980px]" data-node-id="0:2405" data-name="p">
+                <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[17.59px] tracking-[-0.12px] w-[544.638px]" data-node-id="0:2406">
+                  <p>
+                    <span className="leading-[16px]">{`Learn more about how Apple Card applications are evaluated at `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">support.apple.com/kb/HT209218</span>
+                    <span className="leading-[16px]">.</span>
+                  </p>
+                </div>
+              </div>
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[212.78px] tracking-[-0.12px] w-[301.122px]" data-node-id="0:2407">
+                <p className="leading-[16px]">Available for qualifying applicants in the United States.</p>
+              </div>
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[238.38px] tracking-[-0.12px] w-[406.481px]" data-node-id="0:2408">
+                <p className="leading-[16px]">Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch.</p>
+              </div>
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[263.97px] tracking-[-0.12px] w-[628.544px]" data-node-id="0:2409">
+                <p className="leading-[16px]">If you reside in the U.S. territories, please call Goldman Sachs at 877‑255‑5923 with questions about Apple Card.</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[2054.313px] left-0 top-[324.16px] w-[980px]" data-node-id="0:2410" data-name="ol">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[110px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[56px] tracking-[-0.12px] w-[943.669px]" data-node-id="0:2411">
+              <p className="leading-[16px]">Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply.</p>
+            </div>
+            <div className="absolute h-[105.594px] left-[17px] top-[121.59px] w-[946px]" data-node-id="0:2412" data-name="li#footnote-4">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] tracking-[-0.12px] w-[743.622px]" data-node-id="0:2413">
+                <p className="leading-[16px]">{`Pricing for iPhone 14 and iPhone 14 Plus includes a $30 connectivity discount that requires activation with AT&T, T‑Mobile, or Verizon.`}</p>
+              </div>
+              <div className="absolute content-stretch flex items-start left-0 top-0" data-node-id="0:2414" data-name="span">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[12px] w-[939.872px]" data-node-id="0:2415">
+                  <p className="indent-[743.421875px]">
+                    <span className="leading-[16px]">{`Available to qualified customers and requires 24‑month installment loan when you select Citizens One or Apple Card Monthly Installments (ACMI) as payment type at checkout at Apple. iPhone activation required with AT&T, T‑Mobile, or Verizon for purchases made with ACMI at an Apple Store. Subject to credit approval and credit limit. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. Additional Apple Card Monthly Installments terms are in the `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">Apple Card Customer Agreement</span>
+                    <span className="leading-[16px]">{`. Additional iPhone Payments terms are `}</span>
+                    <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">here</span>
+                    <span className="leading-[16px]">. ACMI is not available for purchases made online at special storefronts. The last month’s payment for each product will be the product’s purchase price, less all other payments at the monthly payment amount.</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[62px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[259.19px] tracking-[-0.12px] w-[912.544px]" data-node-id="0:2416">
+              <p className="leading-[16px]">The display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 5.42 inches (iPhone 13 mini, iPhone 12 mini), 5.85 inches (iPhone 11 Pro, iPhone XS, iPhone X), 6.06 inches (iPhone 14, iPhone 13 Pro, iPhone 13, iPhone 12 Pro, iPhone 12, iPhone 11, iPhone XR), 6.12 inches (iPhone 14 Pro), 6.46 inches (iPhone 11 Pro Max, iPhone XS Max), 6.68 inches (iPhone 14 Plus, iPhone 13 Pro Max, iPhone 12 Pro Max), or 6.69 inches (iPhone 14 Pro Max) diagonally. Actual viewable area is less.</p>
+            </div>
+            <div className="absolute h-[41.594px] left-[17px] top-[300.78px] w-[946px]" data-node-id="0:2417" data-name="li#footnote-6">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[918.106px]" data-node-id="0:2418">
+                <p>
+                  <span className="leading-[16px]">{`Service is included for free for two years with the activation of any iPhone 14 model. Connection and response times vary based on location, site conditions, and other factors. See `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com/iphone-14</span>
+                  <span className="leading-[16px]">{` or `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com/iphone-14-pro</span>
+                  <span className="leading-[16px]">{` for more information.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[350.38px] tracking-[-0.12px] w-[678.95px]" data-node-id="0:2419">
+              <p className="leading-[16px]">iPhone 14 and iPhone 14 Pro can detect a severe car crash and call for help. Requires a cellular connection or Wi‑Fi calling.</p>
+            </div>
+            <div className="absolute h-[41.594px] left-[17px] top-[367.97px] w-[946px]" data-node-id="0:2420" data-name="li#footnote-8">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[915.559px]" data-node-id="0:2421">
+                <p>
+                  <span className="leading-[16px]">{`All battery claims depend on network configuration and many other factors; actual results will vary. Battery has limited recharge cycles and may eventually need to be replaced. Battery life and charge cycles vary by use and settings. See `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com/batteries</span>
+                  <span className="leading-[16px]">{` and `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com/iphone/battery.html</span>
+                  <span className="leading-[16px]">{` for more information.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[41.594px] left-[17px] top-[409.56px] w-[946px]" data-node-id="0:2422" data-name="li#footnote-9">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[939.106px]" data-node-id="0:2423">
+                <p>
+                  <span className="leading-[16px]">{`Data plan required. 5G is available in select markets and through select carriers. Speeds vary based on site conditions and carrier. For details on 5G support, contact your carrier and see `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">apple.com/iphone/cellular</span>
+                  <span className="leading-[16px]">.</span>
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[1337.594px] left-[17px] top-[451.16px] w-[946px]" data-node-id="0:2424" data-name="li#footnote-10">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[1326px] justify-center leading-[0] left-0 not-italic text-[#424245] text-[12px] top-[664px] w-[946.169px] whitespace-pre-wrap" data-node-id="0:2425">
+                <p className="mb-0">
+                  <span className="leading-[16px]">{`AT&T iPhone 14 Special Deal:`}</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of AT&T trade‑in credit applied over 36 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max of either $800, or $350 (based upon the model and condition of your trade‑in smartphone), max bill credits will not exceed the cost of the device. Requires upgrade of an existing line or activation of a new line and purchase of a new iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max on qualifying 36 month 0% APR installment plan, subject to carrier credit qualification. AT&T Installment Plan with Next Up is not eligible for this promotion. $0 down for well qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. Requires activation on eligible unlimited plan. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Trade in device may not be on existing installment plan. Bill credits are applied as a monthly credit over the 36 month installment plan. Credits start within 3 bills. Will receive catchup credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one trade‑in per qualifying purchase and one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Price for iPhone 14 and iPhone 14 Plus includes $30 AT&T connectivity discount. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">{`AT&T iPhone 13 Special Deal:`}</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Buy an iPhone 13 128 GB and get $370 in bill credits applied over 36 months. Buy an iPhone 13 256 GB and get $290 in bill credits applied over 36 months. Buy an iPhone 13 512 GB and get $310 in bill credits applied over 36 months. Requires upgrade of an existing line (or activation of a new line) and purchase on qualifying 36‑month 0% APR installment plan, subject to carrier credit qualification. $0 down for well‑qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Bill credits are applied as a monthly credit over the 36‑month installment plan. Credits start within 3 bills. Will receive catch‑up credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">{`AT&T iPhone SE Special Deal:`}</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Buy an iPhone SE 64 GB and get $250 in bill credits applied over 36 months. Buy an iPhone SE 128 GB and get $120 in bill credits applied over 36 months. Buy an iPhone SE 256 GB and get $40 in bill credits applied over 36 months. Requires upgrade of an existing line (or activation of a new line) and purchase on qualifying 36‑month 0% APR installment plan, subject to carrier credit qualification. $0 down for well‑qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Bill credits are applied as a monthly credit over the 36‑month installment plan. Credits start within 3 bills. Will receive catch‑up credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">T‑Mobile iPhone 14 Special Deal:</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple instant trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade‑in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone 14 and iPhone 14 Plus includes $30 T‑Mobile connectivity discount. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">T‑Mobile iPhone 13 Special Deal:</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone 13 or iPhone 13 mini and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 13 or iPhone 13 mini of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone 13 and iPhone 13 mini includes $30 T‑Mobile connectivity discount. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">T‑Mobile iPhone SE 3 Special Deal:</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone SE 3 and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone SE 3 of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone SE 3 includes $30 T‑Mobile connectivity discount. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p className="mb-0">
+                  <span className="leading-[16px]">Verizon iPhone 14 Special Deal:</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of Verizon trade‑in credit applied over 36 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus with credit of $800 or $400 for customers on a Get More or One Unlimited plan (based upon the model and condition of your trade‑in smartphone); or $440 or $220 for customers on a Do More or Play More plan (based upon the model and condition of your trade‑in smartphone). Credit comprised of (i) Apple instant trade‑in credit at checkout and (ii) Verizon monthly bill credits applied over 36 months. Customer must remain in the Verizon Device Payment Program for 36 months to receive the full benefit of the Verizon bill credits. Bill credits may take 1‑2 bill cycles to appear. If it takes two cycles for bill credits to appear, you’ll see the credit for the first cycle on your second bill in addition to that month’s credit. Requires purchase and activation of a new iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max with the Verizon Device Payment Program at 0% APR for 36 months, subject to carrier credit qualification, and iPhone availability and limits. Taxes and shipping not included in monthly price. Sales tax may be assessed on full value of new iPhone. Requires eligible unlimited service plan. Requires trade‑in of eligible device in eligible condition. Must be at least 18 to trade‑in. Apple or its trade‑in partners reserve the right to refuse or limit any trade‑in transaction for any reason. In‑store trade‑in requires presentation of a valid, government‑issued photo ID (local law may require saving this information). In‑store promotion availability subject to local law; speak to a Specialist to learn more. Limited‑time offer; subject to change. Additional terms from Apple, Verizon, and Apple’s trade‑in partners may apply. Price for iPhone 14 and iPhone 14 Plus includes $30 Verizon connectivity discount. Activation required.`}</span>
+                </p>
+                <p className="leading-[16px] mb-0">​</p>
+                <p>
+                  <span className="leading-[16px]">Verizon iPhone 13 Special Deal:</span>
+                  <span className="leading-[16px] text-[#6e6e73] tracking-[-0.12px]">{` Monthly price reflects net monthly payment, after application of Verizon trade‑in credit applied over 36 months with purchase of an iPhone 13 or iPhone 13 mini with credit of $600 or $300 for customers on a Do More, Play More, Get More, or One Unlimited plan (based upon the model and condition of your trade‑in smartphone). Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) Verizon monthly bill credits applied over 36 months. Customer must remain in the Verizon Device Payment Program for 36 months to receive the full benefit of the Verizon bill credits. Bill credits may take 1‑2 bill cycles to appear. If it takes two cycles for bill credits to appear, you’ll see the credit for the first cycle on your second bill in addition to that month’s credit. Requires purchase and activation of a new iPhone 13 mini or iPhone 13 with the Verizon Device Payment Program at 0% APR for 36 months, subject to carrier credit qualification, and iPhone availability and limits. Taxes and shipping not included in monthly price. Sales tax may be assessed on full value of new iPhone. Requires eligible unlimited service plan. Requires trade‑in of eligible device in eligible condition. Must be at least 18 to trade‑in. Apple or its trade‑in partners reserve the right to refuse or limit any trade‑in transaction for any reason. In‑store trade‑in requires presentation of a valid, government‑issued photo ID (local law may require saving this information). In‑store promotion availability subject to local law; speak to a Specialist to learn more. Limited‑time offer; subject to change. Additional terms from Apple, Verizon, and Apple’s trade‑in partners may apply. Price for iPhone 13 and iPhone 13 mini includes $30 Verizon connectivity discount. Activation required.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[1804.75px] tracking-[-0.12px] w-[926.856px]" data-node-id="0:2426">
+              <p className="leading-[16px]">The Apple One free trial includes only services that you are not currently using through a free trial or a subscription. Plan automatically renews after trial until cancelled. Restrictions and other terms apply.</p>
+            </div>
+            <div className="absolute h-[57.594px] left-[17px] top-[1830.34px] w-[946px]" data-node-id="0:2427" data-name="li#footnote-12">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[46px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[24px] tracking-[-0.12px] w-[931.653px]" data-node-id="0:2428">
+                <p>
+                  <span className="leading-[16px]">{`$6.99/month after free trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. This offer is not available if you or your Family have previously accepted an Apple TV+ one year free offer. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">terms</span>
+                  <span className="leading-[16px]">{` apply.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[1895.94px] tracking-[-0.12px] w-[571.606px]" data-node-id="0:2429">
+              <p className="leading-[16px]">New subscribers only. $10.99/month after free trial. Plan automatically renews after trial until cancelled.</p>
+            </div>
+            <div className="absolute h-[57.594px] left-[17px] top-[1913.53px] w-[946px]" data-node-id="0:2430" data-name="li#footnote-14">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[46px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[24px] tracking-[-0.12px] w-[930.606px]" data-node-id="0:2431">
+                <p>
+                  <span className="leading-[16px]">{`Offer available to new subscribers who purchase an eligible device on or after September 7, 2022. $9.99/month after trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. Offer good for 3 months after eligible device activation, from December 12, 2022. Plan automatically renews until cancelled. Restrictions and other `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">terms</span>
+                  <span className="leading-[16px]">{` apply.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[41.594px] left-[17px] top-[1971.13px] w-[946px]" data-node-id="0:2432" data-name="li#footnote-15">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[931.731px]" data-node-id="0:2433">
+                <p>
+                  <span className="leading-[16px]">{`$4.99/month after free trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">terms</span>
+                  <span className="leading-[16px]">{` apply.`}</span>
+                </p>
+              </div>
+            </div>
+            <div className="absolute h-[41.594px] left-[17px] top-[2012.72px] w-[946px]" data-node-id="0:2434" data-name="li#footnote-16">
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[936.216px]" data-node-id="0:2435">
+                <p>
+                  <span className="leading-[16px]">{`Apple Fitness+ requires iPhone 8 or later, or Apple Watch Series 3 or later paired with iPhone 6s or later. New subscribers only. $9.99/month after trial. Plan automatically renews until cancelled. `}</span>
+                  <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#424245] underline">Terms</span>
+                  <span className="leading-[16px]">{` apply.`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute h-[414.313px] leading-[0] left-[22px] not-italic text-[12px] top-[2447.81px] w-[980px] whitespace-nowrap" data-node-id="0:2436" data-name="Apple Directory">
+          <div className="absolute content-stretch flex flex-col items-start left-0 top-0" data-node-id="0:2437" data-name="div">
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] relative shrink-0" data-node-id="0:2438" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2439">
+                <p className="leading-[16px]">Shop and Learn</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[110px] relative shrink-0 text-[#424245]" data-node-id="0:2440" data-name="ul#footer-directory-column-section-products">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2441">
+                  <p className="leading-[16px]">Store</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2442">
+                  <p className="leading-[16px]">Mac</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2443">
+                  <p className="leading-[16px]">iPad</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2444">
+                  <p className="leading-[16px]">iPhone</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2445">
+                  <p className="leading-[16px]">Watch</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2446">
+                  <p className="leading-[16px]">AirPods</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2447">
+                  <p className="leading-[16px]">{`TV & Home`}</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2448">
+                  <p className="leading-[16px]">AirTag</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2449">
+                  <p className="leading-[16px]">Accessories</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2450">
+                  <p className="leading-[16px]">Gift Cards</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2451" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2452">
+                <p className="leading-[16px]">Apple Wallet</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[113px] relative shrink-0 text-[#424245]" data-node-id="0:2453" data-name="ul#footer-directory-column-section-applewallet">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2454">
+                  <p className="leading-[16px]">Wallet</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2455">
+                  <p className="leading-[16px]">Apple Card</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2456">
+                  <p className="leading-[16px]">Apple Pay</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2457">
+                  <p className="leading-[16px]">Apple Cash</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[196px] pb-[51.188px] top-0" data-node-id="0:2458" data-name="div">
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] relative shrink-0" data-node-id="0:2459" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2460">
+                <p className="leading-[16px]">Account</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[55px] relative shrink-0 text-[#424245]" data-node-id="0:2461" data-name="ul#footer-directory-column-section-accounts">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2462">
+                  <p className="leading-[16px]">Manage Your Apple ID</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2463">
+                  <p className="leading-[16px]">Apple Store Account</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2464">
+                  <p className="leading-[16px]">iCloud.com</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2465" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2466">
+                <p className="leading-[16px]">Entertainment</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[91px] relative shrink-0 text-[#424245]" data-node-id="0:2467" data-name="ul#footer-directory-column-section-entertainment">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2468">
+                  <p className="leading-[16px]">Apple One</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2469">
+                  <p className="leading-[16px]">Apple TV+</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2470">
+                  <p className="leading-[16px]">Apple Music</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2471">
+                  <p className="leading-[16px]">Apple Arcade</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2472">
+                  <p className="leading-[16px]">Apple Fitness+</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2473">
+                  <p className="leading-[16px]">Apple News+</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2474">
+                  <p className="leading-[16px]">Apple Podcasts</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2475">
+                  <p className="leading-[16px]">Apple Books</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2476">
+                  <p className="leading-[16px]">App Store</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col gap-[9.594px] items-start left-[392px] pr-[20px] top-0" data-node-id="0:2477" data-name="div">
+            <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2478">
+              <p className="leading-[16px]">Apple Store</p>
+            </div>
+            <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[58px] relative shrink-0 text-[#424245]" data-node-id="0:2479" data-name="ul#footer-directory-column-section-storeservices">
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2480">
+                <p className="leading-[16px]">Find a Store</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2481">
+                <p className="leading-[16px]">Genius Bar</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2482">
+                <p className="leading-[16px]">Today at Apple</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2483">
+                <p className="leading-[16px]">Apple Camp</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2484">
+                <p className="leading-[16px]">Apple Store App</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2485">
+                <p className="leading-[16px]">Certified Refurbished</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2486">
+                <p className="leading-[16px]">Apple Trade In</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2487">
+                <p className="leading-[16px]">Financing</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2488">
+                <p className="leading-[16px]">Carrier Deals at Apple</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2489">
+                <p className="leading-[16px]">Order Status</p>
+              </div>
+              <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2490">
+                <p className="leading-[16px]">Shopping Help</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[588px] pb-[22.375px] top-0" data-node-id="0:2491" data-name="div">
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] relative shrink-0" data-node-id="0:2492" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2493">
+                <p className="leading-[16px]">For Business</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[69px] relative shrink-0 text-[#424245]" data-node-id="0:2494" data-name="ul#footer-directory-column-section-business">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2495">
+                  <p className="leading-[16px]">Apple and Business</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2496">
+                  <p className="leading-[16px]">Shop for Business</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2497" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2498">
+                <p className="leading-[16px]">For Education</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[63px] relative shrink-0 text-[#424245]" data-node-id="0:2499" data-name="ul#footer-directory-column-section-education">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2500">
+                  <p className="leading-[16px]">Apple and Education</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2501">
+                  <p className="leading-[16px]">Shop for K-12</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2502">
+                  <p className="leading-[16px]">Shop for College</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2503" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2504">
+                <p className="leading-[16px]">For Healthcare</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[35px] relative shrink-0 text-[#424245]" data-node-id="0:2505" data-name="ul#footer-directory-column-section-healthcare">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2506">
+                  <p className="leading-[16px]">Apple in Healthcare</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2507">
+                  <p className="leading-[16px]">Health on Apple Watch</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2508">
+                  <p className="leading-[16px]">Health Records on iPhone</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2509" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2510">
+                <p className="leading-[16px]">For Government</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[14px] relative shrink-0 text-[#424245]" data-node-id="0:2511" data-name="ul#footer-directory-column-section-government">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2512">
+                  <p className="leading-[16px]">Shop for Government</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2513">
+                  <p className="leading-[16px]">Shop for Veterans and Military</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[784px] top-0" data-node-id="0:2514" data-name="div">
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] relative shrink-0" data-node-id="0:2515" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2516">
+                <p className="leading-[16px]">Apple Values</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[41px] relative shrink-0 text-[#424245]" data-node-id="0:2517" data-name="ul#footer-directory-column-section-responsibility">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2518">
+                  <p className="leading-[16px]">Accessibility</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2519">
+                  <p className="leading-[16px]">Education</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2520">
+                  <p className="leading-[16px]">Environment</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2521">
+                  <p className="leading-[16px]">Inclusion and Diversity</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2522">
+                  <p className="leading-[16px]">Privacy</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2523">
+                  <p className="leading-[16px]">Racial Equity and Justice</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2524">
+                  <p className="leading-[16px]">Supplier Responsibility</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col gap-[9.594px] items-start pr-[20px] pt-[24px] relative shrink-0" data-node-id="0:2525" data-name="div">
+              <div className="flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]" data-node-id="0:2526">
+                <p className="leading-[16px]">About Apple</p>
+              </div>
+              <div className="content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[63px] relative shrink-0 text-[#424245]" data-node-id="0:2527" data-name="ul#footer-directory-column-section-about">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2528">
+                  <p className="leading-[16px]">Newsroom</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2529">
+                  <p className="leading-[16px]">Apple Leadership</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2530">
+                  <p className="leading-[16px]">Career Opportunities</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2531">
+                  <p className="leading-[16px]">Investors</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2532">
+                  <p className="leading-[16px]">{`Ethics & Compliance`}</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2533">
+                  <p className="leading-[16px]">Events</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2534">
+                  <p className="leading-[16px]">Contact Apple</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[113px] left-[22px] top-[2862.13px] w-[980px]" data-node-id="0:2535" data-name="section">
+          <div className="[word-break:break-word] absolute border-[#d2d2d7] border-b border-solid font-['Helvetica_Neue:Regular'] h-[25px] leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[34px] w-[980px]" data-node-id="0:2536" data-name="div">
+            <div className="-translate-y-1/2 absolute flex flex-col h-[14px] justify-center left-0 top-[8px] w-[374.684px]" data-node-id="0:2537">
+              <p>
+                <span className="leading-[16px]">{`More ways to shop: `}</span>
+                <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#06c] underline">Find an Apple Store</span>
+                <span className="leading-[16px]">{` or `}</span>
+                <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[16px] text-[#06c] underline">other retailer</span>
+                <span className="leading-[16px]">{` near you.`}</span>
+              </p>
+            </div>
+            <div className="-translate-y-1/2 absolute flex flex-col h-[14px] justify-center left-[374.48px] top-[8px] w-[143.622px]" data-node-id="0:2538">
+              <p className="leading-[16px]">Or call 1-800-MY-APPLE.</p>
+            </div>
+          </div>
+          <div className="absolute h-[26px] left-0 top-[63px] w-[980px]" data-node-id="0:2539" data-name="div">
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[13px] w-[272.45px]" data-node-id="0:2540">
+              <p className="leading-[16px]">Copyright © 2023 Apple Inc. All rights reserved.</p>
+            </div>
+            <div className="absolute h-[21px] left-[302.25px] top-0 w-[433.406px]" data-node-id="0:2541" data-name="ul">
+              <div className="absolute border-[#86868b] border-r border-solid content-stretch flex items-start left-0 pr-[13.422px] top-[5px]" data-node-id="0:2542" data-name="li">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap" data-node-id="0:2543">
+                  <p className="leading-[16px]">Privacy Policy</p>
+                </div>
+              </div>
+              <div className="absolute border-[#86868b] border-r border-solid content-stretch flex items-start left-[99.8px] pr-[14.875px] top-[5px]" data-node-id="0:2544" data-name="li">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap" data-node-id="0:2545">
+                  <p className="leading-[16px]">Terms of Use</p>
+                </div>
+              </div>
+              <div className="absolute border-[#86868b] border-r border-solid content-stretch flex items-start left-[196.05px] pr-[14.703px] top-[5px]" data-node-id="0:2546" data-name="li">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap" data-node-id="0:2547">
+                  <p className="leading-[16px]">Sales and Refunds</p>
+                </div>
+              </div>
+              <div className="absolute border-[#86868b] border-r border-solid content-stretch flex items-start left-[322.13px] pr-[11.359px] top-[5px]" data-node-id="0:2548" data-name="li">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap" data-node-id="0:2549">
+                  <p className="leading-[16px]">Legal</p>
+                </div>
+              </div>
+              <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[373.86px] not-italic text-[#424245] text-[12px] top-[13px] w-[49.747px]" data-node-id="0:2550">
+                <p className="leading-[16px]">Site Map</p>
+              </div>
+            </div>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[903.27px] not-italic text-[#424245] text-[12px] top-[76px] w-[76.934px]" data-node-id="0:2551">
+            <p className="leading-[16px]">United States</p>
+          </div>
+        </div>
+        <div className="absolute h-[57.344px] left-[22px] top-[2390.47px] w-[980px]" data-node-id="0:2552" data-name="Breadcrumbs">
+          <div className="absolute h-[23.344px] left-[25px] overflow-clip top-[17px] w-[64.984px]" data-node-id="0:2553" data-name="li">
+            <div className="-translate-y-1/2 absolute h-[18px] left-0 top-[calc(50%-0.33px)] w-[8px]" data-node-id="0:2554" data-name="pseudo">
+              <div className="absolute bottom-0 h-[36px] left-0 overflow-clip w-[8px]" data-node-id="0:2555" data-name="icon_large.svg">
+                <div className="absolute inset-[2.72%_6.25%_52.75%_7.63%]" data-node-id="0:2556" data-name="seperator">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeperator} />
+                </div>
+                <div className="absolute inset-[52.72%_6.25%_2.75%_7.63%]" data-node-id="0:2558" data-name="seperator">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSeperator1} />
+                </div>
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[22.38px] not-italic text-[#424245] text-[12px] top-[11px] w-[38.809px]" data-node-id="0:2560">
+              <p className="leading-[16px]">iPhone</p>
+            </div>
+          </div>
+          <div className="absolute h-[18px] left-0 top-[17px] w-[14px]" data-node-id="0:2561" data-name="span">
+            <div className="absolute h-[72px] left-0 overflow-clip top-[-36px] w-[14px]" data-node-id="0:2562" data-name="icon_large.svg">
+              <div className="absolute inset-[2.31%_6.43%_77.07%_7.36%]" data-node-id="0:2563" data-name="apple">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgApple} />
+              </div>
+              <div className="absolute inset-[27.31%_6.43%_52.07%_7.36%]" data-node-id="0:2565" data-name="apple">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgApple1} />
+              </div>
+              <div className="absolute inset-[52.31%_6.43%_27.07%_7.36%]" data-node-id="0:2567" data-name="apple">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgApple2} />
+              </div>
+              <div className="absolute inset-[77.31%_6.43%_2.07%_7.36%]" data-node-id="0:2569" data-name="apple">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgApple3} />
+              </div>
+            </div>
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[transparent] top-[8px] w-[11.106px]" data-node-id="0:2571">
+              <p className="leading-[16px]">{`\uF8FF`}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

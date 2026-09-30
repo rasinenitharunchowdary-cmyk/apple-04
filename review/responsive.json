@@ -1,0 +1,242 @@
+[
+  {
+    "bodyOverflow": "visible",
+    "documentWidth": 305,
+    "openDialogs": 0,
+    "sections": [
+      {
+        "height": 622,
+        "id": "iphone-14"
+      },
+      {
+        "height": 435,
+        "id": "iphone-14-pro"
+      },
+      {
+        "height": 812,
+        "id": "iphone-se"
+      },
+      {
+        "height": 550,
+        "id": ""
+      },
+      {
+        "height": 3887,
+        "id": "compare"
+      },
+      {
+        "height": 2743,
+        "id": "savings"
+      },
+      {
+        "height": 1980,
+        "id": "accessories"
+      },
+      {
+        "height": 806,
+        "id": ""
+      },
+      {
+        "height": 1195,
+        "id": "ios"
+      },
+      {
+        "height": 4851,
+        "id": "entertainment"
+      }
+    ],
+    "width": 320
+  },
+  {
+    "bodyOverflow": "visible",
+    "documentWidth": 375,
+    "openDialogs": 0,
+    "sections": [
+      {
+        "height": 657,
+        "id": "iphone-14"
+      },
+      {
+        "height": 464,
+        "id": "iphone-14-pro"
+      },
+      {
+        "height": 800,
+        "id": "iphone-se"
+      },
+      {
+        "height": 550,
+        "id": ""
+      },
+      {
+        "height": 3887,
+        "id": "compare"
+      },
+      {
+        "height": 2743,
+        "id": "savings"
+      },
+      {
+        "height": 1942,
+        "id": "accessories"
+      },
+      {
+        "height": 781,
+        "id": ""
+      },
+      {
+        "height": 1157,
+        "id": "ios"
+      },
+      {
+        "height": 4851,
+        "id": "entertainment"
+      }
+    ],
+    "width": 390
+  },
+  {
+    "bodyOverflow": "visible",
+    "documentWidth": 753,
+    "openDialogs": 0,
+    "sections": [
+      {
+        "height": 1069,
+        "id": "iphone-14"
+      },
+      {
+        "height": 788,
+        "id": "iphone-14-pro"
+      },
+      {
+        "height": 830,
+        "id": "iphone-se"
+      },
+      {
+        "height": 838,
+        "id": ""
+      },
+      {
+        "height": 2275,
+        "id": "compare"
+      },
+      {
+        "height": 2349,
+        "id": "savings"
+      },
+      {
+        "height": 2079,
+        "id": "accessories"
+      },
+      {
+        "height": 325,
+        "id": ""
+      },
+      {
+        "height": 1500,
+        "id": "ios"
+      },
+      {
+        "height": 3205,
+        "id": "entertainment"
+      }
+    ],
+    "width": 768
+  },
+  {
+    "bodyOverflow": "visible",
+    "documentWidth": 1009,
+    "openDialogs": 0,
+    "sections": [
+      {
+        "height": 1069,
+        "id": "iphone-14"
+      },
+      {
+        "height": 788,
+        "id": "iphone-14-pro"
+      },
+      {
+        "height": 830,
+        "id": "iphone-se"
+      },
+      {
+        "height": 838,
+        "id": ""
+      },
+      {
+        "height": 2275,
+        "id": "compare"
+      },
+      {
+        "height": 2349,
+        "id": "savings"
+      },
+      {
+        "height": 2079,
+        "id": "accessories"
+      },
+      {
+        "height": 296,
+        "id": ""
+      },
+      {
+        "height": 1448,
+        "id": "ios"
+      },
+      {
+        "height": 3205,
+        "id": "entertainment"
+      }
+    ],
+    "width": 1024
+  },
+  {
+    "bodyOverflow": "visible",
+    "documentWidth": 1425,
+    "openDialogs": 0,
+    "sections": [
+      {
+        "height": 1069,
+        "id": "iphone-14"
+      },
+      {
+        "height": 788,
+        "id": "iphone-14-pro"
+      },
+      {
+        "height": 830,
+        "id": "iphone-se"
+      },
+      {
+        "height": 838,
+        "id": ""
+      },
+      {
+        "height": 2314,
+        "id": "compare"
+      },
+      {
+        "height": 2364,
+        "id": "savings"
+      },
+      {
+        "height": 2089,
+        "id": "accessories"
+      },
+      {
+        "height": 281,
+        "id": ""
+      },
+      {
+        "height": 1493,
+        "id": "ios"
+      },
+      {
+        "height": 3334,
+        "id": "entertainment"
+      }
+    ],
+    "width": 1440
+  }
+]

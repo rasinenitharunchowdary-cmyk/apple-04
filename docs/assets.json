@@ -1,0 +1,602 @@
+[
+  {
+    "key": "accessories/imgFigure",
+    "file": "accessories-imgFigure.png",
+    "bytes": 45225,
+    "sha256": "9af2b92dd2c97c033843479fd0b6e51aa2c7d6e9fd4446f7fcf850124587eb92"
+  },
+  {
+    "key": "accessories/imgFigure1",
+    "file": "accessories-imgFigure1.png",
+    "bytes": 75167,
+    "sha256": "ba330733cc3745d80f0f8ea37e210cc2ef6699cdab70899a83aee62d7fd601c9"
+  },
+  {
+    "key": "accessories/imgFigure2",
+    "file": "accessories-imgFigure2.png",
+    "bytes": 104883,
+    "sha256": "57dbbdeb48cef2bf685813ebcfe9d5c42ba7550331cc515e03ddcfaf86e579f4"
+  },
+  {
+    "key": "chapter-nav/imgIphone14ProLightDfhcc00Ur2OiLargeSvg",
+    "file": "chapter-nav-imgIphone14ProLightDfhcc00Ur2OiLargeSvg.svg",
+    "bytes": 6267,
+    "sha256": "892588d2e534bd41cc66b3ce72d34c8ebebd0b68f55c0df424d59b5804535a29"
+  },
+  {
+    "key": "chapter-nav/imgIphone14LightFwknsxkf80UqLargeSvg",
+    "file": "chapter-nav-imgIphone14LightFwknsxkf80UqLargeSvg.svg",
+    "bytes": 7634,
+    "sha256": "4faa2b2e297f585d900d80158b5f422c578514cfda31a87b816efb9897f430c8"
+  },
+  {
+    "key": "chapter-nav/imgIphone13LightEwo3E0Sf67O2LargeSvg",
+    "file": "chapter-nav-imgIphone13LightEwo3E0Sf67O2LargeSvg.svg",
+    "bytes": 6997,
+    "sha256": "e487a3d8e3ac25915f1a4106d757cec004794250c4d26e5c9a10127974e6b7f8"
+  },
+  {
+    "key": "chapter-nav/imgIphoneSeLightFhg8Duy6FfauLargeSvg",
+    "file": "chapter-nav-imgIphoneSeLightFhg8Duy6FfauLargeSvg.svg",
+    "bytes": 2311,
+    "sha256": "2a97698d32d7bef5fe581c3558b5edb403f988b6aaea34c84a3c3d53ea266a26"
+  },
+  {
+    "key": "chapter-nav/imgIphone12LightCxh2Ll1Zwpw2LargeSvg",
+    "file": "chapter-nav-imgIphone12LightCxh2Ll1Zwpw2LargeSvg.svg",
+    "bytes": 2552,
+    "sha256": "0d5a5f96609d28c81d91bbfe5c2f604f38414437a912e3e75630d6d09373b7b2"
+  },
+  {
+    "key": "chapter-nav/imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg",
+    "file": "chapter-nav-imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg.svg",
+    "bytes": 2164,
+    "sha256": "7b5626fbbfe5e4a77e848342bd094855af7df4ef6cd8833829d7d69a2b397d83"
+  },
+  {
+    "key": "chapter-nav/imgAirpodsLight8Oj157P2476ALargeSvg",
+    "file": "chapter-nav-imgAirpodsLight8Oj157P2476ALargeSvg.svg",
+    "bytes": 6322,
+    "sha256": "53fba0f3399da95a0f3cb40f84014fea6b4182b9da19328c9c49c6f411a3b050"
+  },
+  {
+    "key": "chapter-nav/imgAirtagLightCb2Bmnv6AoeuLargeSvg",
+    "file": "chapter-nav-imgAirtagLightCb2Bmnv6AoeuLargeSvg.svg",
+    "bytes": 3113,
+    "sha256": "3a7b38255401433ddbc0140c1101002d017aeef768623cf1fb5eb87620c1cbe0"
+  },
+  {
+    "key": "chapter-nav/imgAccessoriesLightEd5L6IpsevquLargeSvg",
+    "file": "chapter-nav-imgAccessoriesLightEd5L6IpsevquLargeSvg.svg",
+    "bytes": 7398,
+    "sha256": "f0248b7810892fd7c7dd9207fc22ab8a92b3bba6cafab58d0431a594eea2b232"
+  },
+  {
+    "key": "chapter-nav/imgGroup",
+    "file": "chapter-nav-imgGroup.svg",
+    "bytes": 939,
+    "sha256": "2e26b44a6137fab6bb52728090340222d6016b7559d4e5307d48bf37e4118a22"
+  },
+  {
+    "key": "chapter-nav/imgGroup1",
+    "file": "chapter-nav-imgGroup1.svg",
+    "bytes": 1755,
+    "sha256": "4ee56ce92237e91da36a9b083c6c43d87b191b58e14581d9a3ccc2da500c7791"
+  },
+  {
+    "key": "chapter-nav/imgShopIphoneLightB2ToggskllleLargeSvg",
+    "file": "chapter-nav-imgShopIphoneLightB2ToggskllleLargeSvg.svg",
+    "bytes": 10898,
+    "sha256": "9a98da7b37ab332f895f1fe8e2a03d77cddb0ac88ea6fe36706378d512ba32ef"
+  },
+  {
+    "key": "comparison/imgFigure",
+    "file": "comparison-imgFigure.png",
+    "bytes": 23382,
+    "sha256": "7a998a074f138bcf9bbd0a0578938b233329f1ac3174d5d2cba856744166cf8c"
+  },
+  {
+    "key": "comparison/imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack",
+    "file": "comparison-imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack.png",
+    "bytes": 853,
+    "sha256": "a2aa62bb77f4e2af042f5f2fd1453455ef7adafbcc8bfbcbcd0f5ff8dbfa604d"
+  },
+  {
+    "key": "comparison/imgFigure1",
+    "file": "comparison-imgFigure1.png",
+    "bytes": 1413,
+    "sha256": "36aa03bfafa588f1105c708e589b3cb876460c3f62ac72a9c6ec63ef8a149c00"
+  },
+  {
+    "key": "comparison/imgFigure2",
+    "file": "comparison-imgFigure2.png",
+    "bytes": 240,
+    "sha256": "6a7bc18a614883e8d99e4d6af58dbaadf4eaf12eb146eabdbc421855dd0251c7"
+  },
+  {
+    "key": "comparison/imgFigure3",
+    "file": "comparison-imgFigure3.png",
+    "bytes": 924,
+    "sha256": "134ef6b1f56f496252d0ee7df75bf8d3ec394791e825eca0b4313d60fddda137"
+  },
+  {
+    "key": "comparison/imgFigure4",
+    "file": "comparison-imgFigure4.png",
+    "bytes": 859,
+    "sha256": "34adf22317abb8dffb5c2f3e672845b9b20227c0f293b1f30cc4cc2acd485be4"
+  },
+  {
+    "key": "comparison/imgFigure5",
+    "file": "comparison-imgFigure5.png",
+    "bytes": 887,
+    "sha256": "e284dab9a9041b97c34e6cf889510e1cfbfbea6af69178778c7caa30a5ae84c4"
+  },
+  {
+    "key": "comparison/imgFigure6",
+    "file": "comparison-imgFigure6.png",
+    "bytes": 397,
+    "sha256": "e62a8db82beede352ae274b7dc650c60a57ba720eacfac942285aebeebfe797f"
+  },
+  {
+    "key": "comparison/imgFigure7",
+    "file": "comparison-imgFigure7.png",
+    "bytes": 470,
+    "sha256": "5d08b16f00758f2861c5143ecdb7fa91fcf6d505405e503b05741171e33bd513"
+  },
+  {
+    "key": "comparison/imgFigure8",
+    "file": "comparison-imgFigure8.png",
+    "bytes": 560,
+    "sha256": "a2fce8d79141dc675ce0c826d9784aaad5634390dfef3ea030760199b125302e"
+  },
+  {
+    "key": "comparison/imgFigure9",
+    "file": "comparison-imgFigure9.png",
+    "bytes": 1051,
+    "sha256": "d9235b8174fc3a0c4b4da45f3df4fd379a314bc438a1e41e758266b9f79f07ee"
+  },
+  {
+    "key": "comparison/imgFigure10",
+    "file": "comparison-imgFigure10.png",
+    "bytes": 21594,
+    "sha256": "26513d984883cfe6011580abb1fbc5eef4e144b6a5ffbcbaf67fb792c15b25ce"
+  },
+  {
+    "key": "comparison/imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed",
+    "file": "comparison-imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed.png",
+    "bytes": 1376,
+    "sha256": "3145295c5047a4528abaa4fbd0c8ff5412a57190eca61f253926f884bbace773"
+  },
+  {
+    "key": "comparison/imgFigure11",
+    "file": "comparison-imgFigure11.png",
+    "bytes": 1068,
+    "sha256": "28a554cd54d4781541339c10aa0a88225016aad34652dc614ec0623e2815efb6"
+  },
+  {
+    "key": "comparison/imgFigure12",
+    "file": "comparison-imgFigure12.png",
+    "bytes": 815,
+    "sha256": "d87a80b4e6a9fb63fd124c11bbc00c531119b0e995b878d1f2c54a08de5b7053"
+  },
+  {
+    "key": "comparison/imgFigure13",
+    "file": "comparison-imgFigure13.png",
+    "bytes": 540,
+    "sha256": "2ea53bb927bbe9e130998fe11b8432088f604b0242f8f680a16a1dd6b245f0c9"
+  },
+  {
+    "key": "comparison/imgFigure14",
+    "file": "comparison-imgFigure14.png",
+    "bytes": 18099,
+    "sha256": "2fff1f9aed489f20a65b25e8a4578309ec4eb51501520b854e96e0f6449bf18b"
+  },
+  {
+    "key": "comparison/imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed",
+    "file": "comparison-imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed.png",
+    "bytes": 1223,
+    "sha256": "caf5f3fa964dda494dafd602569e4b65cff80939886e62273551e8db9a1980fe"
+  },
+  {
+    "key": "comparison/imgFigure15",
+    "file": "comparison-imgFigure15.png",
+    "bytes": 1373,
+    "sha256": "35c06dbb742f2ed786fcf0e65b854a166fb513cbd85ee6b2a86b1ad0a53d60ea"
+  },
+  {
+    "key": "comparison/imgFigure16",
+    "file": "comparison-imgFigure16.png",
+    "bytes": 797,
+    "sha256": "c4bda3f81f20946113e0a29f236f629d9bfd8975b5302a6fbb3f1685a4d3f922"
+  },
+  {
+    "key": "comparison/imgFigure17",
+    "file": "comparison-imgFigure17.png",
+    "bytes": 15189,
+    "sha256": "1fd1ee455321f379458bb4cae0c9153590764aeddbcc6824b7923e9cbe117b7b"
+  },
+  {
+    "key": "comparison/imgIPhoneSeAvailableInMidnightStarlightAndProductRed",
+    "file": "comparison-imgIPhoneSeAvailableInMidnightStarlightAndProductRed.png",
+    "bytes": 681,
+    "sha256": "2e87c30dc1554694d18ce5cbab57c7fb1e92a4e54d60dd26c7653415a93c8f5a"
+  },
+  {
+    "key": "comparison/imgFigure18",
+    "file": "comparison-imgFigure18.png",
+    "bytes": 931,
+    "sha256": "8c3111efb8740916de0e147378ab9164b35641741829e4eb83bc01e2c4df846b"
+  },
+  {
+    "key": "comparison/imgFigure19",
+    "file": "comparison-imgFigure19.png",
+    "bytes": 416,
+    "sha256": "c9e921307d078f34324a748c1e32438e3a0405569d259cbb473a0b687c8242e1"
+  },
+  {
+    "key": "comparison/imgFigure20",
+    "file": "comparison-imgFigure20.png",
+    "bytes": 1357,
+    "sha256": "5c5d1fc3f2297bb25ca03a4fe8e0a4eba04de25ec7f3c0fd811edc46060f93fd"
+  },
+  {
+    "key": "ecosystem/imgFigure",
+    "file": "ecosystem-imgFigure.png",
+    "bytes": 44443,
+    "sha256": "ea40d2335d309906348f1c17a784ac5295ea3005e155de9faaff023a9cc94c8e"
+  },
+  {
+    "key": "ecosystem/imgH2",
+    "file": "ecosystem-imgH2.png",
+    "bytes": 8741,
+    "sha256": "3e2e61f447d2a5514d15996ddd4a26023087c43bb87ade86d1a62602f9ec30cf"
+  },
+  {
+    "key": "ecosystem/imgH3",
+    "file": "ecosystem-imgH3.png",
+    "bytes": 956,
+    "sha256": "51ad0f8b07bb10d2701b28de4efbf328809fb69fe78ac31547db39ca5cec1c83"
+  },
+  {
+    "key": "ecosystem/imgLi",
+    "file": "ecosystem-imgLi.png",
+    "bytes": 32905,
+    "sha256": "83bfc1022bc1d42cf9b5239d4438faa271bd093f45e8d948d658b6a70e403acc"
+  },
+  {
+    "key": "ecosystem/imgLi1",
+    "file": "ecosystem-imgLi1.png",
+    "bytes": 46549,
+    "sha256": "0752121b93a7fb7cde67be87ab7e557c5f7f224b96cc29d726317fad5e5bbe00"
+  },
+  {
+    "key": "ecosystem/imgLi2",
+    "file": "ecosystem-imgLi2.png",
+    "bytes": 52663,
+    "sha256": "ec6d39b06e7ba08334a9471c8bbf40432dab7cc90c0be843386a9f8dc1e4553e"
+  },
+  {
+    "key": "ecosystem/imgLi3",
+    "file": "ecosystem-imgLi3.png",
+    "bytes": 46094,
+    "sha256": "725b143fab6c2d7bc0102363e25ab6b60da1c561e930ef69eebfad42c6819868"
+  },
+  {
+    "key": "ecosystem/imgLi4",
+    "file": "ecosystem-imgLi4.png",
+    "bytes": 49794,
+    "sha256": "1dbf17125dc22c6f1f4e8e563eb2e942c42523ac5934e42c602ffa4e576f6790"
+  },
+  {
+    "key": "ecosystem/imgLi5",
+    "file": "ecosystem-imgLi5.png",
+    "bytes": 36915,
+    "sha256": "69200fe7ff5df1da438bb44a2c1c1c75f4db8176ef4a4e9571f0b9002b3113b4"
+  },
+  {
+    "key": "ecosystem/imgLi6",
+    "file": "ecosystem-imgLi6.png",
+    "bytes": 28458,
+    "sha256": "0ee287b4f78d07a43d0f7ae2b92ac96b1d3e2b901fff5b87895dbae58ee35631"
+  },
+  {
+    "key": "ecosystem/imgMusicAlbumLeftErm7O9E8F9MeLargeJpg",
+    "file": "ecosystem-imgMusicAlbumLeftErm7O9E8F9MeLargeJpg.png",
+    "bytes": 56514,
+    "sha256": "fb18dee40854a8f96cfab65f93d646d27c0d3589a248f43ee4a59c048dfc249c"
+  },
+  {
+    "key": "ecosystem/imgMusicAlbumMiddleEo1Xuly5GmqaLargeJpg",
+    "file": "ecosystem-imgMusicAlbumMiddleEo1Xuly5GmqaLargeJpg.png",
+    "bytes": 14603,
+    "sha256": "aa5833ede9a85b339780ff0542b6f4354a4e91472f64e6b5a9de58f5b1df69c8"
+  },
+  {
+    "key": "ecosystem/imgMusicAlbumRightCtoplsymatsiLargeJpg",
+    "file": "ecosystem-imgMusicAlbumRightCtoplsymatsiLargeJpg.png",
+    "bytes": 43787,
+    "sha256": "aec3ddf17975e2e36406e59754e933bbd3530e48bbb232ee8ee67dda339ba63e"
+  },
+  {
+    "key": "ecosystem/imgDiv",
+    "file": "ecosystem-imgDiv.png",
+    "bytes": 90983,
+    "sha256": "f7d937e11c7c7c4d6861e75e858cc508412ec47b41cf4b7bc15a7517342a8172"
+  },
+  {
+    "key": "ecosystem/imgDiv1",
+    "file": "ecosystem-imgDiv1.png",
+    "bytes": 1960,
+    "sha256": "faf143f06b1a643554e8e4a36d9f9b9e5c9dd8c2ac6f7c7789f7216120f512a1"
+  },
+  {
+    "key": "ecosystem/imgDiv2",
+    "file": "ecosystem-imgDiv2.png",
+    "bytes": 12708,
+    "sha256": "928f45fce9019e939eb3da625a14fd566db7b26c5411144331ba0122aae45b59"
+  },
+  {
+    "key": "ecosystem/imgDiv3",
+    "file": "ecosystem-imgDiv3.png",
+    "bytes": 3018,
+    "sha256": "b61ad902b3d1cc5b17201aebb050e08029f88bb7c1d99401b82c528343ad1be5"
+  },
+  {
+    "key": "ecosystem/imgDiv4",
+    "file": "ecosystem-imgDiv4.png",
+    "bytes": 4792,
+    "sha256": "93696fdc818122fa2bb14d01974c324bcaefb910c76883e7705e4829aff83326"
+  },
+  {
+    "key": "ecosystem/imgFigure1",
+    "file": "ecosystem-imgFigure1.png",
+    "bytes": 69046,
+    "sha256": "654692955f090836ef85d062626597d7fabc6d676a71b01e9b1c569d65cb9e80"
+  },
+  {
+    "key": "ecosystem/imgDiv5",
+    "file": "ecosystem-imgDiv5.png",
+    "bytes": 2673,
+    "sha256": "df17d26a3ea9adfe70b310472e05f4f6755fd985a1296aedf10c124b868fece8"
+  },
+  {
+    "key": "ecosystem/imgFigure2",
+    "file": "ecosystem-imgFigure2.png",
+    "bytes": 65478,
+    "sha256": "8cb7bbefe79f7c660c4b5cf00e8b95e45117e626b3bf9da94a5e60d368889610"
+  },
+  {
+    "key": "ecosystem/imgFigure3",
+    "file": "ecosystem-imgFigure3.png",
+    "bytes": 77987,
+    "sha256": "feff2a2f5a46f486ce9f71b64f24d7226351119c5be6e8dc5f5b69c6436da727"
+  },
+  {
+    "key": "ecosystem/imgAppleMusicLogo",
+    "file": "ecosystem-imgAppleMusicLogo.svg",
+    "bytes": 2901,
+    "sha256": "4795b61fe59bf159b7b4ad9e512becee1a0de77614ee5cb7d70963f9c829c16c"
+  },
+  {
+    "key": "footer/imgSeperator",
+    "file": "footer-imgSeperator.svg",
+    "bytes": 317,
+    "sha256": "3f06e4ae3566326989c9137b03d366ad3d1abd28826316aeb96de8fd047314c6"
+  },
+  {
+    "key": "footer/imgSeperator1",
+    "file": "footer-imgSeperator1.svg",
+    "bytes": 317,
+    "sha256": "2abf5853fe487723c97ab3bdbef5161f6e2681574617f3bedb8758fac4761719"
+  },
+  {
+    "key": "footer/imgApple",
+    "file": "footer-imgApple.svg",
+    "bytes": 1696,
+    "sha256": "0d85c2a339ce182efcf74364a5fb26f706e6cde510cd50ef32bc16316b4dfe23"
+  },
+  {
+    "key": "footer/imgApple1",
+    "file": "footer-imgApple1.svg",
+    "bytes": 1696,
+    "sha256": "384b367c30a88b8db61f9550ac315cc677984f401f81a6cc72c407ce6d8e868a"
+  },
+  {
+    "key": "footer/imgApple2",
+    "file": "footer-imgApple2.svg",
+    "bytes": 1696,
+    "sha256": "a29a01c258d43825c2033326efaae823f1a692b6f3b3aa2eed7989e8065f0b17"
+  },
+  {
+    "key": "footer/imgApple3",
+    "file": "footer-imgApple3.svg",
+    "bytes": 1696,
+    "sha256": "9ef0d4dc1f27483063aac9d156ca0880c490de1c46ddd30dc571062fcdcd0190"
+  },
+  {
+    "key": "global-nav/imgFrame",
+    "file": "global-nav-imgFrame.svg",
+    "bytes": 1341,
+    "sha256": "4a644e96859266186007f20e233227546598819f8490dc01dc57d7a47a5269c8"
+  },
+  {
+    "key": "global-nav/imgFrame1",
+    "file": "global-nav-imgFrame1.svg",
+    "bytes": 2291,
+    "sha256": "01e7ac6171a3e270a24deb391e37d87815c8c70043558b16f793d1ddff2e4cec"
+  },
+  {
+    "key": "global-nav/imgFrame2",
+    "file": "global-nav-imgFrame2.svg",
+    "bytes": 1419,
+    "sha256": "3c2e1423834b23be512d4c6114fbabfa89e3fc0d3d20cf05aab955042d60eb1b"
+  },
+  {
+    "key": "global-nav/imgFrame3",
+    "file": "global-nav-imgFrame3.svg",
+    "bytes": 1839,
+    "sha256": "d308039e2b24adb2b0b548ecad0f4c7a5ea6e47b67d7a073dc198b4c3214ec1f"
+  },
+  {
+    "key": "global-nav/imgFrame4",
+    "file": "global-nav-imgFrame4.svg",
+    "bytes": 2201,
+    "sha256": "57a6b080c3e8b7ba6e294fdf4444184784300ccf5d25e104fc78bc425325f818"
+  },
+  {
+    "key": "global-nav/imgFrame5",
+    "file": "global-nav-imgFrame5.svg",
+    "bytes": 2049,
+    "sha256": "acff14a5e30691f00550182a621783348faba089bb011b63b1c1467d8c60efb1"
+  },
+  {
+    "key": "global-nav/imgFrame6",
+    "file": "global-nav-imgFrame6.svg",
+    "bytes": 2747,
+    "sha256": "a13c905d7e637d67596b3daf062bbd0da171e44359caeced850c81e622fbde37"
+  },
+  {
+    "key": "global-nav/imgFrame7",
+    "file": "global-nav-imgFrame7.svg",
+    "bytes": 2871,
+    "sha256": "a9d784744939fff1b18d6962d13b562f9c1861451b331c3b80ee9aaac373ea33"
+  },
+  {
+    "key": "global-nav/imgFrame8",
+    "file": "global-nav-imgFrame8.svg",
+    "bytes": 4636,
+    "sha256": "3cfc38c24c676d7238da5551db2912e1a0d83ca6d5055b6b604db0401e20e0ae"
+  },
+  {
+    "key": "global-nav/imgFrame9",
+    "file": "global-nav-imgFrame9.svg",
+    "bytes": 4970,
+    "sha256": "0cc862673d869b4b0b98b16e234ac36d423c85d063aca5db323ae283259e659a"
+  },
+  {
+    "key": "global-nav/imgFrame10",
+    "file": "global-nav-imgFrame10.svg",
+    "bytes": 3061,
+    "sha256": "eb45f765168752d6629cd9c5a5c9d934aa7a693c7c819d99c85cbba820689538"
+  },
+  {
+    "key": "global-nav/imgFrame11",
+    "file": "global-nav-imgFrame11.svg",
+    "bytes": 724,
+    "sha256": "4d4db405e4586e6cb5075b1f2d0a5b1d8a4a8f45d804b10cb41f2f8f1c303c69"
+  },
+  {
+    "key": "global-nav/imgFrame12",
+    "file": "global-nav-imgFrame12.svg",
+    "bytes": 1475,
+    "sha256": "29fbb09b17ab7e989f6bf6f9566d2c92e4216c51e1646eec87fbcf46c7084bfc"
+  },
+  {
+    "key": "heroes/imgFigure",
+    "file": "heroes-imgFigure.png",
+    "bytes": 2045,
+    "sha256": "edb686be242e9441dceff634e5e5e3738a7e4b8d0d5bfdf37c0c918a469cbe0f"
+  },
+  {
+    "key": "heroes/imgFigure1",
+    "file": "heroes-imgFigure1.png",
+    "bytes": 158604,
+    "sha256": "86947ebb2b7a67e189d0615d514e533650b55959c1205ff578b0a99e0b5fccf5"
+  },
+  {
+    "key": "heroes/imgFigure2",
+    "file": "heroes-imgFigure2.png",
+    "bytes": 2658,
+    "sha256": "8f32a9215918616f1f50b0d109a20af9f95e2d055ca72a656792f6bc4ecd6826"
+  },
+  {
+    "key": "heroes/imgFigure3",
+    "file": "heroes-imgFigure3.png",
+    "bytes": 84408,
+    "sha256": "8da920fed1f50fdc385a0edda2375b408035d23f0e26afb338763353c130dfe2"
+  },
+  {
+    "key": "heroes/imgFigure4",
+    "file": "heroes-imgFigure4.png",
+    "bytes": 1926,
+    "sha256": "24ebd9e2e975d987d2c345d91ddbcbcde149201ef1381d21bbe3c0e150a1470b"
+  },
+  {
+    "key": "heroes/imgFigure5",
+    "file": "heroes-imgFigure5.png",
+    "bytes": 68201,
+    "sha256": "8331c03af8364ac78d9fd41e7e3ab3878e4db0649308a8cadbf0c46686bf2f3e"
+  },
+  {
+    "key": "savings/imgFigure",
+    "file": "savings-imgFigure.png",
+    "bytes": 547447,
+    "sha256": "381a0f2aaf81d6e24133703e761f171263314d553b7501c0dfe373b90b8eb5eb"
+  },
+  {
+    "key": "savings/imgH4",
+    "file": "savings-imgH4.png",
+    "bytes": 6144,
+    "sha256": "e462bce0317c98fc20eb7247adf2fe1b43da101869491f1079e6f61f7e841382"
+  },
+  {
+    "key": "savings/imgH5",
+    "file": "savings-imgH5.png",
+    "bytes": 6548,
+    "sha256": "e7c698fac3f80f86389eee21ea776a5c364aa09ac876d6590f955a16f02bd8b1"
+  },
+  {
+    "key": "savings/imgH6",
+    "file": "savings-imgH6.png",
+    "bytes": 4103,
+    "sha256": "dd860cd99b8e740cc375b7bae81184a7df9a3bf06c3cd8cb11408796ea016504"
+  },
+  {
+    "key": "savings/imgFigure1",
+    "file": "savings-imgFigure1.png",
+    "bytes": 42908,
+    "sha256": "ca51d66aa076f0db7ef9bef46a66f11051b86650ddc14d704e7a3c5eaa780e23"
+  },
+  {
+    "key": "savings/imgDiv",
+    "file": "savings-imgDiv.png",
+    "bytes": 107661,
+    "sha256": "8968ed9f340b17a9908631094d70380bd652e9cbb6119e13b8bfd801986ddb2e"
+  },
+  {
+    "key": "services/imgFigure",
+    "file": "services-imgFigure.png",
+    "bytes": 981,
+    "sha256": "1a0b542aa5a270fbd1ed13385261ce89cf2015a3994dcc427902f8c2494a9965"
+  },
+  {
+    "key": "services/imgFigure1",
+    "file": "services-imgFigure1.png",
+    "bytes": 1343,
+    "sha256": "80d496c8bacbb66c6a95580e08f6744c43c7d008eed7e119f0b5eafe50f8e845"
+  },
+  {
+    "key": "services/imgFigure2",
+    "file": "services-imgFigure2.png",
+    "bytes": 1324,
+    "sha256": "fe986b20e6fa24e901913d80489a0c4feeca547f489fecde4fbc24f69122667a"
+  },
+  {
+    "key": "tour/imgFigure",
+    "file": "tour-imgFigure.png",
+    "bytes": 328497,
+    "sha256": "d2797f58202e50bd8f4df96b1d2df6774c0b40305433c2d335daa8a51d5dc131"
+  },
+  {
+    "key": "why-iphone/imgDiv",
+    "file": "why-iphone-imgDiv.png",
+    "bytes": 94681,
+    "sha256": "dcc3db6cd4c8b1f6795455fbac0ce23dc49ba557a41c6b4b91d8045adb5bd674"
+  },
+  {
+    "key": "why-iphone/imgFigure",
+    "file": "why-iphone-imgFigure.png",
+    "bytes": 87743,
+    "sha256": "4d6182141e35dacd8e0718c186b635617f80ad107fa9bb09c2d26471b02d83ae"
+  }
+]

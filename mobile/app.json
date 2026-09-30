@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Apple 04 Review",
+    "slug": "apple-04-review",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pshr.apple04review"
+    },
+    "android": { "package": "com.pshr.apple04review" },
+    "web": { "bundler": "metro", "name": "Apple 04 Mobile" }
+  }
+}

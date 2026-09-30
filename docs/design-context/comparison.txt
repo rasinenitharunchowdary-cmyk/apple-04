@@ -1,0 +1,703 @@
+const imgFigure = "https://www.figma.com/api/mcp/asset/8111704d-bc17-4dca-8fd5-bc10d4e82432.png";
+const imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack = "https://www.figma.com/api/mcp/asset/8343ce7a-9835-45bb-9f68-4f5a18a5de84.png";
+const imgFigure1 = "https://www.figma.com/api/mcp/asset/36724ddf-94c4-4bc6-a77d-a057a03ac0ef.png";
+const imgFigure2 = "https://www.figma.com/api/mcp/asset/415d95ec-0069-46fb-9d49-c2a0c3e61e13.png";
+const imgFigure3 = "https://www.figma.com/api/mcp/asset/d5288ca9-512a-447e-85d1-62fd647969eb.png";
+const imgFigure4 = "https://www.figma.com/api/mcp/asset/7e6a066b-eb15-4fa2-8941-7741e9755268.png";
+const imgFigure5 = "https://www.figma.com/api/mcp/asset/830dbd96-8cf0-42ec-8ac1-3ee1d922ae41.png";
+const imgFigure6 = "https://www.figma.com/api/mcp/asset/bb53d723-6582-41d3-8793-279838e6aa3c.png";
+const imgFigure7 = "https://www.figma.com/api/mcp/asset/10eb055f-dbb9-4684-adf7-42469b1bedd5.png";
+const imgFigure8 = "https://www.figma.com/api/mcp/asset/f12479bd-ca1e-48dc-bb6d-656974d1981a.png";
+const imgFigure9 = "https://www.figma.com/api/mcp/asset/c75b5600-1a63-477d-aeec-6403a10830c4.png";
+const imgFigure10 = "https://www.figma.com/api/mcp/asset/a453d991-ce34-4719-a83a-8ffeb669225d.png";
+const imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed = "https://www.figma.com/api/mcp/asset/d21a3362-25a2-4302-96b3-1b195610501f.png";
+const imgFigure11 = "https://www.figma.com/api/mcp/asset/160bc9ee-9dde-46e6-83cf-836bd31eba6a.png";
+const imgFigure12 = "https://www.figma.com/api/mcp/asset/116633e4-68b7-446e-9527-90de3aea5709.png";
+const imgFigure13 = "https://www.figma.com/api/mcp/asset/a647ebca-666d-4f52-ba20-2755a2e663ff.png";
+const imgFigure14 = "https://www.figma.com/api/mcp/asset/328292c3-96a6-4ea5-ab53-10e17a765122.png";
+const imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed = "https://www.figma.com/api/mcp/asset/641f9e76-7dfd-4830-b8a5-3f4a4e588dcd.png";
+const imgFigure15 = "https://www.figma.com/api/mcp/asset/d58dadb5-0125-45ea-b750-e5249ca9e32f.png";
+const imgFigure16 = "https://www.figma.com/api/mcp/asset/01b20288-fa37-4d7b-8777-f6e6b9546467.png";
+const imgFigure17 = "https://www.figma.com/api/mcp/asset/1a1520e6-ffa7-41e6-83f1-862cce5c08f1.png";
+const imgIPhoneSeAvailableInMidnightStarlightAndProductRed = "https://www.figma.com/api/mcp/asset/d6d370eb-e766-4d3f-ac61-658429edd862.png";
+const imgFigure18 = "https://www.figma.com/api/mcp/asset/9ccb4f33-ac73-4252-97f9-f995b915f50f.png";
+const imgFigure19 = "https://www.figma.com/api/mcp/asset/4553b19f-8eb0-407e-a261-cbbda908bda3.png";
+const imgFigure20 = "https://www.figma.com/api/mcp/asset/fcf1dcb1-cedd-418e-8031-89ceae81ff6a.png";
+
+export default function Section() {
+  return (
+    <div className="bg-white relative size-full" data-node-id="0:2160" data-name="section">
+      <div className="absolute overflow-clip right-[458.5px] size-px top-[12px]" data-node-id="0:2161" data-name="span">
+        <div className="absolute bg-[#1d1d1f] h-px left-[-2.5px] rounded-[50px] top-[-0.5px] w-[6px]" data-node-id="0:2162" data-name="pseudo" />
+      </div>
+      <div className="-translate-x-1/2 absolute h-[2078.75px] left-1/2 top-[116px] w-[980px]" data-node-id="0:2163" data-name="div">
+        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[490.1px] not-italic text-[#1d1d1f] text-[43px] text-center top-[26px] tracking-[-0.144px] w-[620.2px]" data-node-id="0:2164">
+          <p className="leading-[52.008px]">Which iPhone is right for you?</p>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[1887.75px] left-1/2 top-[120px] w-[940px]" data-node-id="0:2165" data-name="div">
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[547px] left-0 top-0 w-[209.5px]" data-node-id="0:2166" data-name="div">
+            <div className="absolute h-[257px] left-[9.75px] top-0 w-[190px]" data-node-id="0:2167" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[68px]" data-node-id="0:2168" data-name="iPhone 14 Pro - Available in Deep Purple, Gold, Silver and Space Black">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack} />
+              </div>
+            </div>
+            <div className="absolute h-[183px] left-0 top-[328px] w-[209.5px]" data-node-id="0:2169" data-name="div">
+              <div className="absolute h-[20px] left-[36.25px] top-0 w-[137px]" data-node-id="0:2170" data-name="figure">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure1} />
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[157.028px]" data-node-id="0:2171">
+                <p className="leading-[25px]">The ultimate iPhone.</p>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[102px] tracking-[-0.224px] w-[71.278px]" data-node-id="0:2172">
+                <p className="leading-[20px]">From $999</p>
+              </div>
+              <div className="-translate-x-1/2 absolute bg-[#0071e3] content-stretch flex items-start left-1/2 pl-[11.969px] pr-[12.031px] py-[4px] rounded-[980px] top-[128px]" data-node-id="0:2173" data-name="Buy iPhone 14 Pro">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2174">
+                  <p className="leading-[16px]">Buy</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.1px)] top-[152px]" data-node-id="0:2175" data-name="Learn more about iPhone 14 Pro">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]" data-node-id="0:2176">
+                  <p>
+                    <span className="leading-[20px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[20px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[104.85px] not-italic text-[#bf4800] text-[12px] text-center top-[-14px] tracking-[-0.12px] w-[24.903px]" data-node-id="0:2177">
+                <p className="leading-[16px]">New</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[110.375px] left-0 right-[730.5px] top-[587px]" data-node-id="0:2178" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[95.434px]" data-node-id="0:2179">
+              <p className="leading-[22px]">6.7″ or 6.1″</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[22.297px] pr-[23.203px] top-[28px]" data-node-id="0:2180" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2181">
+                <p className="leading-[20px]">Super Retina XDR display3</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[69.19px] tracking-[-0.224px] w-[140.887px]" data-node-id="0:2182">
+              <p className="leading-[20px]">ProMotion technology</p>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[100.38px] tracking-[-0.224px] w-[118.216px]" data-node-id="0:2183">
+              <p className="leading-[20px]">Always-On display</p>
+            </div>
+          </div>
+          <div className="absolute h-[110px] left-0 right-[730.5px] top-[737.38px]" data-node-id="0:2184" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2185" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure2} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[97.262px]" data-node-id="0:2186">
+              <p className="leading-[20px]">Dynamic Island</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[44.359px] pr-[45.141px] top-[70px]" data-node-id="0:2187" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2188">
+                <p className="leading-[20px] mb-0">A new way to</p>
+                <p className="leading-[20px]">interact with iPhone</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[133.375px] left-0 right-[730.5px] top-[887.38px]" data-node-id="0:2189" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2190" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure3} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[15.047px] pr-[16.453px] top-[51px]" data-node-id="0:2191" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2192">
+                <p className="leading-[20px]">Emergency SOS via satellite4</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]" data-node-id="0:2193">
+              <p className="leading-[20px]">Emergency SOS</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[51.734px] pr-[51.766px] top-[113.38px]" data-node-id="0:2194" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2195">
+                <p className="leading-[20px]">Crash Detection5</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[188px] left-0 right-[730.5px] top-[1060.75px]" data-node-id="0:2196" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]" data-node-id="0:2197" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure4} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[45.688px] pr-[45.813px] top-[48px]" data-node-id="0:2198" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2199">
+                <p className="leading-[20px]">Pro camera system</p>
+              </div>
+            </div>
+            <div className="[word-break:break-word] absolute font-['Helvetica_Neue:Regular'] h-[120px] leading-[0] left-0 not-italic text-[#6e6e73] text-[14px] text-center top-[68px] tracking-[-0.224px] w-[209.5px] whitespace-nowrap" data-node-id="0:2200" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[67.38px] top-[10px]" data-node-id="0:2201">
+                <p className="leading-[20px]">48MP Main</p>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex gap-[3.125px] items-start left-[calc(50%+38.16px)] pl-px pr-[2.313px] top-0" data-node-id="0:2202" data-name="span">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2203">
+                  <p className="leading-[20px]">|</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2204">
+                  <p className="leading-[20px]">Ultra Wide</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[104.08px] top-[30px]" data-node-id="0:2205">
+                <p className="leading-[20px]">Telephoto</p>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 absolute flex flex-col justify-center left-[104.23px] top-[80px]" data-node-id="0:2206">
+                <p className="leading-[20px] mb-0">Photonic Engine for incredible</p>
+                <p className="leading-[20px] mb-0">detail and color</p>
+                <p className="leading-[20px] mb-0">Autofocus on TrueDepth</p>
+                <p className="leading-[20px]">front camera</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[91px] left-0 right-[730.5px] top-[1288.75px]" data-node-id="0:2207" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2208" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure5} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[36px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[71px] tracking-[-0.224px] w-[205.216px]" data-node-id="0:2209">
+              <p className="leading-[20px]">Action mode smooths out shaky handheld videos</p>
+            </div>
+          </div>
+          <div className="absolute h-[74px] left-0 right-[730.5px] top-[1419.75px]" data-node-id="0:2210" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]" data-node-id="0:2211" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure6} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[54.516px] pr-[54.984px] top-[34px]" data-node-id="0:2212" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2213">
+                <p className="leading-[20px] mb-0">Up to 29 hours</p>
+                <p className="leading-[20px]">video playback6</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[90px] left-0 right-[730.5px] top-[1533.75px]" data-node-id="0:2214" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2215" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure7} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[97.559px]" data-node-id="0:2216">
+              <p className="leading-[20px]">A16 Bionic chip</p>
+            </div>
+          </div>
+          <div className="absolute h-[70px] left-0 right-[730.5px] top-[1663.75px]" data-node-id="0:2217" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2218" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure8} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]" data-node-id="0:2219">
+              <p className="leading-[20px]">Face ID</p>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[114px] left-0 right-[730.5px] top-[1773.75px]" data-node-id="0:2220" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]" data-node-id="0:2221" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure9} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[37.469px] pr-[38.031px] top-[48px]" data-node-id="0:2222" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2223">
+                <p className="leading-[20px]">Superfast 5G cellular7</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[547px] left-[243.5px] top-0 w-[209.5px]" data-node-id="0:2224" data-name="div">
+            <div className="absolute h-[257px] left-[14.75px] top-0 w-[180px]" data-node-id="0:2225" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure10} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[104px]" data-node-id="0:2226" data-name="iPhone 14 - Available in Blue, Purple, Yellow, Midnight, Starlight, and (PRODUCT)RED">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed} />
+              </div>
+            </div>
+            <div className="absolute h-[183px] left-0 top-[328px] w-[209.5px]" data-node-id="0:2227" data-name="div">
+              <div className="absolute h-[20px] left-[55.75px] top-0 w-[98px]" data-node-id="0:2228" data-name="figure">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure11} />
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[152.794px]" data-node-id="0:2229">
+                <p className="leading-[25px]">A total powerhouse.</p>
+              </div>
+              <div className="-translate-x-1/2 absolute bg-[#0071e3] content-stretch flex items-start left-1/2 pl-[11.969px] pr-[12.031px] py-[4px] rounded-[980px] top-[128px]" data-node-id="0:2230" data-name="Buy iPhone 14">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2231">
+                  <p className="leading-[16px]">Buy</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.1px)] top-[152px]" data-node-id="0:2232" data-name="Learn more about iPhone 14">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]" data-node-id="0:2233">
+                  <p>
+                    <span className="leading-[20px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[20px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-1/2 pl-[3px] pr-[2.25px] top-[92px]" data-node-id="0:2234" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2235">
+                  <p className="leading-[20px]">From $799*</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[104.85px] not-italic text-[#bf4800] text-[12px] text-center top-[-14px] tracking-[-0.12px] w-[24.903px]" data-node-id="0:2236">
+                <p className="leading-[16px]">New</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[110.375px] left-[243.5px] right-[487px] top-[587px]" data-node-id="0:2237" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[95.434px]" data-node-id="0:2238">
+              <p className="leading-[22px]">6.7″ or 6.1″</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[22.297px] pr-[23.203px] top-[28px]" data-node-id="0:2239" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2240">
+                <p className="leading-[20px]">Super Retina XDR display3</p>
+              </div>
+            </div>
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[68.69px] w-[6px]" data-node-id="0:2241" data-name="pseudo" />
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[99.88px] w-[6px]" data-node-id="0:2242" data-name="pseudo" />
+          </div>
+          <div className="absolute bg-[#1d1d1f] h-px left-[345.25px] rounded-[50px] top-[793.88px] w-[6px]" data-node-id="0:2243" data-name="pseudo" />
+          <div className="absolute h-[133.375px] left-[243.5px] right-[487px] top-[887.38px]" data-node-id="0:2244" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2245" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure3} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[15.047px] pr-[16.453px] top-[51px]" data-node-id="0:2246" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2247">
+                <p className="leading-[20px]">Emergency SOS via satellite4</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]" data-node-id="0:2248">
+              <p className="leading-[20px]">Emergency SOS</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[51.734px] pr-[51.766px] top-[113.38px]" data-node-id="0:2249" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2250">
+                <p className="leading-[20px]">Crash Detection5</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[188px] left-[243.5px] right-[487px] top-[1060.75px]" data-node-id="0:2251" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]" data-node-id="0:2252" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure12} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[10.016px] pr-[10.484px] top-[48px]" data-node-id="0:2253" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2254">
+                <p className="leading-[20px]">Advanced dual-camera system</p>
+              </div>
+            </div>
+            <div className="absolute h-[120px] left-0 top-[68px] w-[209.5px]" data-node-id="0:2255" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[66.88px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2256">
+                <p className="leading-[20px]">12MP Main</p>
+              </div>
+              <div className="-translate-x-1/2 [word-break:break-word] absolute content-stretch flex font-['Helvetica_Neue:Regular'] gap-[3.125px] items-start leading-[0] left-[calc(50%+36.66px)] not-italic pl-px pr-[2.313px] text-[#6e6e73] text-[14px] text-center top-0 tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2257" data-name="span">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2258">
+                  <p className="leading-[20px]">|</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2259">
+                  <p className="leading-[20px]">Ultra Wide</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[31.5px] w-[6px]" data-node-id="0:2260" data-name="pseudo" />
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.23px] not-italic text-[#6e6e73] text-[14px] text-center top-[70px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2261">
+                <p className="leading-[20px] mb-0">​</p>
+                <p className="leading-[20px] mb-0">Photonic Engine for incredible</p>
+                <p className="leading-[20px] mb-0">detail and color</p>
+                <p className="leading-[20px] mb-0">Autofocus on TrueDepth</p>
+                <p className="leading-[20px]">front camera</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[91px] left-[243.5px] right-[487px] top-[1288.75px]" data-node-id="0:2262" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2263" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure5} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[36px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[71px] tracking-[-0.224px] w-[205.216px]" data-node-id="0:2264">
+              <p className="leading-[20px]">Action mode smooths out shaky handheld videos</p>
+            </div>
+          </div>
+          <div className="absolute h-[74px] left-[243.5px] right-[487px] top-[1419.75px]" data-node-id="0:2265" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]" data-node-id="0:2266" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure6} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[54.516px] pr-[54.984px] top-[34px]" data-node-id="0:2267" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2268">
+                <p className="leading-[20px] mb-0">Up to 26 hours</p>
+                <p className="leading-[20px]">video playback6</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[90px] left-[243.5px] right-[487px] top-[1533.75px]" data-node-id="0:2269" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2270" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure13} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[53.594px] pr-[53.906px] top-[50px]" data-node-id="0:2271" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2272">
+                <p className="leading-[20px] mb-0">A15 Bionic chip</p>
+                <p className="leading-[20px]">with 5-core GPU</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[70px] left-[243.5px] right-[487px] top-[1663.75px]" data-node-id="0:2273" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2274" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure8} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]" data-node-id="0:2275">
+              <p className="leading-[20px]">Face ID</p>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[114px] left-[243.5px] right-[487px] top-[1773.75px]" data-node-id="0:2276" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]" data-node-id="0:2277" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure9} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[37.469px] pr-[38.031px] top-[48px]" data-node-id="0:2278" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2279">
+                <p className="leading-[20px]">Superfast 5G cellular7</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[547px] left-[487px] top-0 w-[209.5px]" data-node-id="0:2280" data-name="div">
+            <div className="absolute h-[257px] left-[24.25px] top-0 w-[161px]" data-node-id="0:2281" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure14} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[104px]" data-node-id="0:2282" data-name="iPhone 13 - Available in Green, Pink, Blue, Midnight, Starlight, and (PRODUCT)RED">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed} />
+              </div>
+            </div>
+            <div className="absolute h-[183px] left-0 top-[328px] w-[209.5px]" data-node-id="0:2283" data-name="div">
+              <div className="absolute h-[20px] left-[56.75px] top-0 w-[96px]" data-node-id="0:2284" data-name="figure">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure15} />
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[151.684px]" data-node-id="0:2285">
+                <p className="leading-[25px]">As amazing as ever.</p>
+              </div>
+              <div className="-translate-x-1/2 absolute bg-[#0071e3] content-stretch flex items-start left-1/2 pl-[11.969px] pr-[12.031px] py-[4px] rounded-[980px] top-[128px]" data-node-id="0:2286" data-name="Buy iPhone 13">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2287">
+                  <p className="leading-[16px]">Buy</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%-0.01px)] pl-[3px] pr-[3.078px] top-[92px]" data-node-id="0:2288" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2289">
+                  <p className="leading-[20px]">From $599*</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.1px)] top-[152px]" data-node-id="0:2290" data-name="Learn more about iPhone 13">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]" data-node-id="0:2291">
+                  <p>
+                    <span className="leading-[20px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[20px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[110.375px] left-[487px] right-[243.5px] top-[587px]" data-node-id="0:2292" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[96.7px]" data-node-id="0:2293">
+              <p className="leading-[22px]">6.1″ or 5.4″</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[22.297px] pr-[23.203px] top-[28px]" data-node-id="0:2294" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2295">
+                <p className="leading-[20px]">Super Retina XDR display3</p>
+              </div>
+            </div>
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[68.69px] w-[6px]" data-node-id="0:2296" data-name="pseudo" />
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[99.88px] w-[6px]" data-node-id="0:2297" data-name="pseudo" />
+          </div>
+          <div className="absolute bg-[#1d1d1f] h-px left-[588.75px] rounded-[50px] top-[793.88px] w-[6px]" data-node-id="0:2298" data-name="pseudo" />
+          <div className="absolute h-[133.375px] left-[487px] right-[243.5px] top-[887.38px]" data-node-id="0:2299" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2300" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure3} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]" data-node-id="0:2301">
+              <p className="leading-[20px]">Emergency SOS</p>
+            </div>
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[60.5px] w-[6px]" data-node-id="0:2302" data-name="pseudo" />
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[122.88px] w-[6px]" data-node-id="0:2303" data-name="pseudo" />
+          </div>
+          <div className="absolute h-[188px] left-[487px] right-[243.5px] top-[1060.75px]" data-node-id="0:2304" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]" data-node-id="0:2305" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure16} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[58px] tracking-[-0.224px] w-[132.059px]" data-node-id="0:2306">
+              <p className="leading-[20px]">Dual‑camera system</p>
+            </div>
+            <div className="absolute h-[100px] left-0 top-[68px] w-[209.5px]" data-node-id="0:2307" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[66.88px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2308">
+                <p className="leading-[20px]">12MP Main</p>
+              </div>
+              <div className="-translate-x-1/2 [word-break:break-word] absolute content-stretch flex font-['Helvetica_Neue:Regular'] gap-[3.125px] items-start leading-[0] left-[calc(50%+36.66px)] not-italic pl-px pr-[2.313px] text-[#6e6e73] text-[14px] text-center top-0 tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2309" data-name="span">
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2310">
+                  <p className="leading-[20px]">|</p>
+                </div>
+                <div className="flex flex-col justify-center relative shrink-0" data-node-id="0:2311">
+                  <p className="leading-[20px]">Ultra Wide</p>
+                </div>
+              </div>
+              <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[31.5px] w-[6px]" data-node-id="0:2312" data-name="pseudo" />
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.75px] not-italic text-[#6e6e73] text-[14px] text-center top-[30px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2313">
+                <p className="leading-[20px]">​</p>
+              </div>
+              <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[61.5px] w-[6px]" data-node-id="0:2314" data-name="pseudo" />
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.31px] not-italic text-[#6e6e73] text-[14px] text-center top-[80px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2315">
+                <p className="leading-[20px] mb-0">​</p>
+                <p className="leading-[20px]">TrueDepth front camera</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#1d1d1f] h-px left-[588.75px] rounded-[50px] top-[1335.75px] w-[6px]" data-node-id="0:2316" data-name="pseudo" />
+          <div className="absolute h-[74px] left-[487px] right-[243.5px] top-[1419.75px]" data-node-id="0:2317" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]" data-node-id="0:2318" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure6} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[54.516px] pr-[54.984px] top-[34px]" data-node-id="0:2319" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2320">
+                <p className="leading-[20px] mb-0">Up to 19 hours</p>
+                <p className="leading-[20px]">video playback6</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[90px] left-[487px] right-[243.5px] top-[1533.75px]" data-node-id="0:2321" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2322" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure13} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[53.422px] pr-[54.078px] top-[50px]" data-node-id="0:2323" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2324">
+                <p className="leading-[20px] mb-0">A15 Bionic chip</p>
+                <p className="leading-[20px]">with 4-core GPU</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[70px] left-[487px] right-[243.5px] top-[1663.75px]" data-node-id="0:2325" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2326" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure8} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]" data-node-id="0:2327">
+              <p className="leading-[20px]">Face ID</p>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[114px] left-[487px] right-[243.5px] top-[1773.75px]" data-node-id="0:2328" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]" data-node-id="0:2329" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure9} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[37.469px] pr-[38.031px] top-[48px]" data-node-id="0:2330" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2331">
+                <p className="leading-[20px]">Superfast 5G cellular7</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[547px] left-[730.5px] top-0 w-[209.5px]" data-node-id="0:2332" data-name="div">
+            <div className="absolute h-[257px] left-[29.25px] top-0 w-[151px]" data-node-id="0:2333" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure17} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[50px]" data-node-id="0:2334" data-name="iPhone SE - Available in Midnight, Starlight and (PRODUCT)RED">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgIPhoneSeAvailableInMidnightStarlightAndProductRed} />
+              </div>
+            </div>
+            <div className="absolute h-[183px] left-0 top-[328px] w-[209.5px]" data-node-id="0:2335" data-name="div">
+              <div className="absolute h-[20px] left-[55.75px] top-0 w-[98px]" data-node-id="0:2336" data-name="figure">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure18} />
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.86px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[224.184px]" data-node-id="0:2337">
+                <p className="leading-[25px]">Serious power. Serious value.</p>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[102px] tracking-[-0.224px] w-[70.919px]" data-node-id="0:2338">
+                <p className="leading-[20px]">From $429</p>
+              </div>
+              <div className="-translate-x-1/2 absolute bg-[#0071e3] content-stretch flex items-start left-1/2 pl-[11.969px] pr-[12.031px] py-[4px] rounded-[980px] top-[128px]" data-node-id="0:2339" data-name="Buy iPhone SE">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2340">
+                  <p className="leading-[16px]">Buy</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.1px)] top-[152px]" data-node-id="0:2341" data-name="Learn more about iPhone SE">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]" data-node-id="0:2342">
+                  <p>
+                    <span className="leading-[20px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[20px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[110.375px] left-[730.5px] right-0 top-[587px]" data-node-id="0:2343" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[18px] text-center top-[15px] w-[36.325px]" data-node-id="0:2344">
+              <p className="leading-[22px]">4.7″</p>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[50.469px] pr-[50.031px] top-[28px]" data-node-id="0:2345" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2346">
+                <p className="leading-[20px]">Retina HD display</p>
+              </div>
+            </div>
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[68.69px] w-[6px]" data-node-id="0:2347" data-name="pseudo" />
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[99.88px] w-[6px]" data-node-id="0:2348" data-name="pseudo" />
+          </div>
+          <div className="absolute bg-[#1d1d1f] h-px left-[832.25px] rounded-[50px] top-[793.88px] w-[6px]" data-node-id="0:2349" data-name="pseudo" />
+          <div className="absolute h-[133.375px] left-[730.5px] right-0 top-[887.38px]" data-node-id="0:2350" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]" data-node-id="0:2351" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure3} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]" data-node-id="0:2352">
+              <p className="leading-[20px]">Emergency SOS</p>
+            </div>
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[60.5px] w-[6px]" data-node-id="0:2353" data-name="pseudo" />
+            <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[122.88px] w-[6px]" data-node-id="0:2354" data-name="pseudo" />
+          </div>
+          <div className="absolute h-[188px] left-[730.5px] right-0 top-[1060.75px]" data-node-id="0:2355" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]" data-node-id="0:2356" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure19} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[58px] tracking-[-0.224px] w-[164.153px]" data-node-id="0:2357">
+              <p className="leading-[20px]">Advanced camera system</p>
+            </div>
+            <div className="absolute h-[100px] left-0 top-[68px] w-[209.5px]" data-node-id="0:2358" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[103.95px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2359">
+                <p className="leading-[20px]">12MP Main</p>
+              </div>
+              <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[31.5px] w-[6px]" data-node-id="0:2360" data-name="pseudo" />
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.75px] not-italic text-[#6e6e73] text-[14px] text-center top-[30px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2361">
+                <p className="leading-[20px]">​</p>
+              </div>
+              <div className="absolute bg-[#1d1d1f] h-px left-[101.75px] rounded-[50px] top-[61.5px] w-[6px]" data-node-id="0:2362" data-name="pseudo" />
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.89px] not-italic text-[#6e6e73] text-[14px] text-center top-[80px] tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2363">
+                <p className="leading-[20px] mb-0">​</p>
+                <p className="leading-[20px]">Front camera</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#1d1d1f] h-px left-[832.25px] rounded-[50px] top-[1335.75px] w-[6px]" data-node-id="0:2364" data-name="pseudo" />
+          <div className="absolute h-[74px] left-[730.5px] right-0 top-[1419.75px]" data-node-id="0:2365" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]" data-node-id="0:2366" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure6} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[54.516px] pr-[54.984px] top-[34px]" data-node-id="0:2367" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2368">
+                <p className="leading-[20px] mb-0">Up to 15 hours</p>
+                <p className="leading-[20px]">video playback6</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[90px] left-[730.5px] right-0 top-[1533.75px]" data-node-id="0:2369" data-name="div">
+            <div className="-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]" data-node-id="0:2370" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure13} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[53.422px] pr-[54.078px] top-[50px]" data-node-id="0:2371" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2372">
+                <p className="leading-[20px] mb-0">A15 Bionic chip</p>
+                <p className="leading-[20px]">with 4-core GPU</p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[70px] left-[730.5px] right-0 top-[1663.75px]" data-node-id="0:2373" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[38px] left-1/2 top-[4px] w-[39px]" data-node-id="0:2374" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure20} />
+              </div>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[56.294px]" data-node-id="0:2375">
+              <p className="leading-[20px]">Touch ID</p>
+            </div>
+          </div>
+          <div className="absolute border-[#d2d2d7] border-b border-solid h-[114px] left-[730.5px] right-0 top-[1773.75px]" data-node-id="0:2376" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]" data-node-id="0:2377" data-name="figure">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure9} />
+              </div>
+            </div>
+            <div className="absolute content-stretch flex items-start left-0 pl-[68.469px] pr-[69.031px] top-[48px]" data-node-id="0:2378" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap" data-node-id="0:2379">
+                <p className="leading-[20px]">5G cellular7</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[29px] left-0 top-[2049.75px] w-[980px]" data-node-id="0:2380" data-name="ul">
+          <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%-85.11px)] top-[-15px]" data-node-id="0:2381" data-name="a">
+            <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.231px] w-[260.247px]" data-node-id="0:2382">
+              <p className="text-[20px]">
+                <span className="leading-[29.001px]">{`Compare all iPhone models `}</span>
+                <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+              </p>
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+150.4px)] top-[-15px]" data-node-id="0:2383" data-name="a">
+            <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[130.075px]" data-node-id="0:2384">
+              <p>
+                <span className="leading-[29.001px]">{`Shop iPhone `}</span>
+                <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

@@ -1,0 +1,2180 @@
+{
+  "accessories": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/3774191c-b611-4d7e-ac02-ac2d39aa560c.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/b574f9e0-21ee-46ea-a24c-a3154cf4c966.png",
+      "imgFigure2": "https://www.figma.com/api/mcp/asset/22b149ad-728a-45ab-9b60-4b8d5af18bb7.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:1956",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute bottom-0 h-[463px] left-[648.59px] w-[633px]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:1968",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute bottom-[-1px] h-[531px] right-[579.59px] w-[806px]"
+      },
+      {
+        "asset": "imgFigure2",
+        "node": "0:1976",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-y-1/2 absolute h-[498px] left-[158.5px] top-[calc(50%+61.8px)] w-[1063px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:1948",
+        "text": "Featured accessories",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.09px] not-italic text-[#1d1d1f] text-[51px] text-center top-[29.5px] tracking-[-0.28px] w-[522.059px]"
+      },
+      {
+        "id": "0:1952",
+        "text": "MagSafe",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[199.7px] not-italic text-[#1d1d1f] text-[44px] text-center top-[26px] tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1953",
+        "text": "Snap on a magnetic case, wallet, or both. And get faster wireless charging.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[200.1px] not-italic text-[#1d1d1f] text-[21px] text-center top-[112.3px] tracking-[0.231px] w-[290.013px]"
+      },
+      {
+        "id": "0:1955",
+        "text": "Shop MagSafe accessories  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.231px] w-[259.309px]"
+      },
+      {
+        "id": "0:1960",
+        "text": "AirTag",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[199.61px] not-italic text-[#1d1d1f] text-[43px] text-center top-[26px] tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1962",
+        "text": "Attach one to your keys. Put another in your backpack. If they’re misplaced, just use the Find My app.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[385.622px]"
+      },
+      {
+        "id": "0:1965",
+        "text": "Buy  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[50.684px]"
+      },
+      {
+        "id": "0:1967",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1972",
+        "text": "Magic runs in the family.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[147.59px] not-italic text-[#1d1d1f] text-[46px] text-center top-[52px] tracking-[-0.144px] w-[278.934px]"
+      },
+      {
+        "id": "0:1973",
+        "text": "Explore all AirPods models and find the best ones for you.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[54px] justify-center leading-[0] left-[147.6px] not-italic text-[#1d1d1f] text-[19px] text-center top-[146px] tracking-[0.231px] w-[274.575px]"
+      },
+      {
+        "id": "0:1975",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1978",
+        "text": "Shop all iPhone accessories  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.216px] w-[302.45px]"
+      }
+    ]
+  },
+  "chapter-nav": {
+    "assets": {
+      "imgIphone14ProLightDfhcc00Ur2OiLargeSvg": "https://www.figma.com/api/mcp/asset/638f9575-ec12-44a3-b048-278e9c2a9975.svg",
+      "imgIphone14LightFwknsxkf80UqLargeSvg": "https://www.figma.com/api/mcp/asset/04c1ed7d-eca7-4daf-814a-dc614992bdf0.svg",
+      "imgIphone13LightEwo3E0Sf67O2LargeSvg": "https://www.figma.com/api/mcp/asset/56cbd023-cf07-4b42-adca-1cf1c29a6d13.svg",
+      "imgIphoneSeLightFhg8Duy6FfauLargeSvg": "https://www.figma.com/api/mcp/asset/605ea813-4113-4e53-a117-7f61307b3e1d.svg",
+      "imgIphone12LightCxh2Ll1Zwpw2LargeSvg": "https://www.figma.com/api/mcp/asset/d250a678-2fe5-4288-96ca-3f55f6b37447.svg",
+      "imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg": "https://www.figma.com/api/mcp/asset/7b55c373-a391-420f-992d-5c38908a1cf0.svg",
+      "imgAirpodsLight8Oj157P2476ALargeSvg": "https://www.figma.com/api/mcp/asset/f8729bca-f77f-40e2-b939-bb90a2aafec5.svg",
+      "imgAirtagLightCb2Bmnv6AoeuLargeSvg": "https://www.figma.com/api/mcp/asset/90711f2c-beaf-42ed-8df3-2332ad399cbb.svg",
+      "imgAccessoriesLightEd5L6IpsevquLargeSvg": "https://www.figma.com/api/mcp/asset/74c9e997-9192-474b-9785-651402e0fab9.svg",
+      "imgGroup": "https://www.figma.com/api/mcp/asset/bbca8f4f-8bc5-41ef-af1d-d9423f263f52.svg",
+      "imgGroup1": "https://www.figma.com/api/mcp/asset/7755fb8c-771b-4396-8ae9-9537652b703c.svg",
+      "imgShopIphoneLightB2ToggskllleLargeSvg": "https://www.figma.com/api/mcp/asset/10e6358f-8bb4-4d1e-a789-66b8a0d86067.svg"
+    },
+    "slots": [
+      {
+        "asset": "imgIphone14ProLightDfhcc00Ur2OiLargeSvg",
+        "node": "0:2576",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[40px]"
+      },
+      {
+        "asset": "imgIphone14LightFwknsxkf80UqLargeSvg",
+        "node": "0:2583",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[38px]"
+      },
+      {
+        "asset": "imgIphone13LightEwo3E0Sf67O2LargeSvg",
+        "node": "0:2590",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[36px]"
+      },
+      {
+        "asset": "imgIphoneSeLightFhg8Duy6FfauLargeSvg",
+        "node": "0:2596",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[19px]"
+      },
+      {
+        "asset": "imgIphone12LightCxh2Ll1Zwpw2LargeSvg",
+        "node": "0:2603",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[22px]"
+      },
+      {
+        "asset": "imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg",
+        "node": "0:2609",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[45px]"
+      },
+      {
+        "asset": "imgAirpodsLight8Oj157P2476ALargeSvg",
+        "node": "0:2615",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[39px]"
+      },
+      {
+        "asset": "imgAirtagLightCb2Bmnv6AoeuLargeSvg",
+        "node": "0:2621",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[29px]"
+      },
+      {
+        "asset": "imgAccessoriesLightEd5L6IpsevquLargeSvg",
+        "node": "0:2628",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[40px]"
+      },
+      {
+        "asset": "imgGroup",
+        "node": "0:2635",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute contents inset-0"
+      },
+      {
+        "asset": "imgGroup1",
+        "node": "0:2643",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute contents inset-0"
+      },
+      {
+        "asset": "imgShopIphoneLightB2ToggskllleLargeSvg",
+        "node": "0:2650",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[58px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2579",
+        "text": "iPhone 14 Pro",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[38.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2580",
+        "text": "New",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[38.27px] not-italic text-[#bf4800] text-[10px] text-center top-[83px] tracking-[-0.08px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2586",
+        "text": "iPhone 14",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2587",
+        "text": "New",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.27px] not-italic text-[#bf4800] text-[10px] text-center top-[83px] tracking-[-0.08px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2593",
+        "text": "iPhone 13",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2600",
+        "text": "iPhone SE",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2606",
+        "text": "iPhone 12",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2612",
+        "text": "Compare",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2618",
+        "text": "AirPods",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[21px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2625",
+        "text": "AirTag",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2631",
+        "text": "Accessories",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[33px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2639",
+        "text": "Apple Card",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[30px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2647",
+        "text": "iOS 16",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[17px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2653",
+        "text": "Shop iPhone",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[34px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap"
+      }
+    ]
+  },
+  "comparison": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/8111704d-bc17-4dca-8fd5-bc10d4e82432.png",
+      "imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack": "https://www.figma.com/api/mcp/asset/8343ce7a-9835-45bb-9f68-4f5a18a5de84.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/36724ddf-94c4-4bc6-a77d-a057a03ac0ef.png",
+      "imgFigure2": "https://www.figma.com/api/mcp/asset/415d95ec-0069-46fb-9d49-c2a0c3e61e13.png",
+      "imgFigure3": "https://www.figma.com/api/mcp/asset/d5288ca9-512a-447e-85d1-62fd647969eb.png",
+      "imgFigure4": "https://www.figma.com/api/mcp/asset/7e6a066b-eb15-4fa2-8941-7741e9755268.png",
+      "imgFigure5": "https://www.figma.com/api/mcp/asset/830dbd96-8cf0-42ec-8ac1-3ee1d922ae41.png",
+      "imgFigure6": "https://www.figma.com/api/mcp/asset/bb53d723-6582-41d3-8793-279838e6aa3c.png",
+      "imgFigure7": "https://www.figma.com/api/mcp/asset/10eb055f-dbb9-4684-adf7-42469b1bedd5.png",
+      "imgFigure8": "https://www.figma.com/api/mcp/asset/f12479bd-ca1e-48dc-bb6d-656974d1981a.png",
+      "imgFigure9": "https://www.figma.com/api/mcp/asset/c75b5600-1a63-477d-aeec-6403a10830c4.png",
+      "imgFigure10": "https://www.figma.com/api/mcp/asset/a453d991-ce34-4719-a83a-8ffeb669225d.png",
+      "imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed": "https://www.figma.com/api/mcp/asset/d21a3362-25a2-4302-96b3-1b195610501f.png",
+      "imgFigure11": "https://www.figma.com/api/mcp/asset/160bc9ee-9dde-46e6-83cf-836bd31eba6a.png",
+      "imgFigure12": "https://www.figma.com/api/mcp/asset/116633e4-68b7-446e-9527-90de3aea5709.png",
+      "imgFigure13": "https://www.figma.com/api/mcp/asset/a647ebca-666d-4f52-ba20-2755a2e663ff.png",
+      "imgFigure14": "https://www.figma.com/api/mcp/asset/328292c3-96a6-4ea5-ab53-10e17a765122.png",
+      "imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed": "https://www.figma.com/api/mcp/asset/641f9e76-7dfd-4830-b8a5-3f4a4e588dcd.png",
+      "imgFigure15": "https://www.figma.com/api/mcp/asset/d58dadb5-0125-45ea-b750-e5249ca9e32f.png",
+      "imgFigure16": "https://www.figma.com/api/mcp/asset/01b20288-fa37-4d7b-8777-f6e6b9546467.png",
+      "imgFigure17": "https://www.figma.com/api/mcp/asset/1a1520e6-ffa7-41e6-83f1-862cce5c08f1.png",
+      "imgIPhoneSeAvailableInMidnightStarlightAndProductRed": "https://www.figma.com/api/mcp/asset/d6d370eb-e766-4d3f-ac61-658429edd862.png",
+      "imgFigure18": "https://www.figma.com/api/mcp/asset/9ccb4f33-ac73-4252-97f9-f995b915f50f.png",
+      "imgFigure19": "https://www.figma.com/api/mcp/asset/4553b19f-8eb0-407e-a261-cbbda908bda3.png",
+      "imgFigure20": "https://www.figma.com/api/mcp/asset/fcf1dcb1-cedd-418e-8031-89ceae81ff6a.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:2167",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[257px] left-[9.75px] top-0 w-[190px]"
+      },
+      {
+        "asset": "imgIPhone14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack",
+        "node": "0:2168",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[68px]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:2170",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[20px] left-[36.25px] top-0 w-[137px]"
+      },
+      {
+        "asset": "imgFigure2",
+        "node": "0:2185",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:2190",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure4",
+        "node": "0:2197",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure5",
+        "node": "0:2208",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure6",
+        "node": "0:2211",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]"
+      },
+      {
+        "asset": "imgFigure7",
+        "node": "0:2215",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure8",
+        "node": "0:2218",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure9",
+        "node": "0:2221",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]"
+      },
+      {
+        "asset": "imgFigure10",
+        "node": "0:2225",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[257px] left-[14.75px] top-0 w-[180px]"
+      },
+      {
+        "asset": "imgIPhone14AvailableInBluePurpleYellowMidnightStarlightAndProductRed",
+        "node": "0:2226",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[104px]"
+      },
+      {
+        "asset": "imgFigure11",
+        "node": "0:2228",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[20px] left-[55.75px] top-0 w-[98px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:2245",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure12",
+        "node": "0:2252",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure5",
+        "node": "0:2263",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure6",
+        "node": "0:2266",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]"
+      },
+      {
+        "asset": "imgFigure13",
+        "node": "0:2270",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure8",
+        "node": "0:2274",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure9",
+        "node": "0:2277",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]"
+      },
+      {
+        "asset": "imgFigure14",
+        "node": "0:2281",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[257px] left-[24.25px] top-0 w-[161px]"
+      },
+      {
+        "asset": "imgIPhone13AvailableInGreenPinkBlueMidnightStarlightAndProductRed",
+        "node": "0:2282",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[104px]"
+      },
+      {
+        "asset": "imgFigure15",
+        "node": "0:2284",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[20px] left-[56.75px] top-0 w-[96px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:2300",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure16",
+        "node": "0:2305",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure6",
+        "node": "0:2318",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]"
+      },
+      {
+        "asset": "imgFigure13",
+        "node": "0:2322",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure8",
+        "node": "0:2326",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure9",
+        "node": "0:2329",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]"
+      },
+      {
+        "asset": "imgFigure17",
+        "node": "0:2333",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[257px] left-[29.25px] top-0 w-[151px]"
+      },
+      {
+        "asset": "imgIPhoneSeAvailableInMidnightStarlightAndProductRed",
+        "node": "0:2334",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute bottom-[253px] h-[14px] left-1/2 w-[50px]"
+      },
+      {
+        "asset": "imgFigure18",
+        "node": "0:2336",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[20px] left-[55.75px] top-0 w-[98px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:2351",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[39px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure19",
+        "node": "0:2356",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[36px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure6",
+        "node": "0:2366",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[22px] left-1/2 top-[4px] w-[43px]"
+      },
+      {
+        "asset": "imgFigure13",
+        "node": "0:2370",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute left-1/2 size-[38px] top-[4px]"
+      },
+      {
+        "asset": "imgFigure20",
+        "node": "0:2374",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[38px] left-1/2 top-[4px] w-[39px]"
+      },
+      {
+        "asset": "imgFigure9",
+        "node": "0:2377",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[36px] left-1/2 top-[4px] w-[50px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2164",
+        "text": "Which iPhone is right for you?",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[490.1px] not-italic text-[#1d1d1f] text-[43px] text-center top-[26px] tracking-[-0.144px] w-[620.2px]"
+      },
+      {
+        "id": "0:2171",
+        "text": "The ultimate iPhone.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[157.028px]"
+      },
+      {
+        "id": "0:2172",
+        "text": "From $999",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[102px] tracking-[-0.224px] w-[71.278px]"
+      },
+      {
+        "id": "0:2174",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2176",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]"
+      },
+      {
+        "id": "0:2177",
+        "text": "New",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[104.85px] not-italic text-[#bf4800] text-[12px] text-center top-[-14px] tracking-[-0.12px] w-[24.903px]"
+      },
+      {
+        "id": "0:2179",
+        "text": "6.7″ or 6.1″",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[95.434px]"
+      },
+      {
+        "id": "0:2181",
+        "text": "Super Retina XDR display3",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2182",
+        "text": "ProMotion technology",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[69.19px] tracking-[-0.224px] w-[140.887px]"
+      },
+      {
+        "id": "0:2183",
+        "text": "Always-On display",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[100.38px] tracking-[-0.224px] w-[118.216px]"
+      },
+      {
+        "id": "0:2186",
+        "text": "Dynamic Island",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[97.262px]"
+      },
+      {
+        "id": "0:2188",
+        "text": "A new way to interact with iPhone",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2192",
+        "text": "Emergency SOS via satellite4",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2193",
+        "text": "Emergency SOS",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]"
+      },
+      {
+        "id": "0:2195",
+        "text": "Crash Detection5",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2199",
+        "text": "Pro camera system",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2200",
+        "text": "48MP Main | Ultra Wide Telephoto Photonic Engine for incredible detail and color Autofocus on TrueDepth front camera",
+        "className": "[word-break:break-word] absolute font-['Helvetica_Neue:Regular'] h-[120px] leading-[0] left-0 not-italic text-[#6e6e73] text-[14px] text-center top-[68px] tracking-[-0.224px] w-[209.5px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2209",
+        "text": "Action mode smooths out shaky handheld videos",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[36px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[71px] tracking-[-0.224px] w-[205.216px]"
+      },
+      {
+        "id": "0:2213",
+        "text": "Up to 29 hours video playback6",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2216",
+        "text": "A16 Bionic chip",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[97.559px]"
+      },
+      {
+        "id": "0:2219",
+        "text": "Face ID",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]"
+      },
+      {
+        "id": "0:2223",
+        "text": "Superfast 5G cellular7",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2229",
+        "text": "A total powerhouse.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[152.794px]"
+      },
+      {
+        "id": "0:2231",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2233",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]"
+      },
+      {
+        "id": "0:2235",
+        "text": "From $799*",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2236",
+        "text": "New",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[104.85px] not-italic text-[#bf4800] text-[12px] text-center top-[-14px] tracking-[-0.12px] w-[24.903px]"
+      },
+      {
+        "id": "0:2238",
+        "text": "6.7″ or 6.1″",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[95.434px]"
+      },
+      {
+        "id": "0:2240",
+        "text": "Super Retina XDR display3",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2247",
+        "text": "Emergency SOS via satellite4",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2248",
+        "text": "Emergency SOS",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]"
+      },
+      {
+        "id": "0:2250",
+        "text": "Crash Detection5",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2254",
+        "text": "Advanced dual-camera system",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2256",
+        "text": "12MP Main",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[66.88px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2257",
+        "text": "| Ultra Wide",
+        "className": "-translate-x-1/2 [word-break:break-word] absolute content-stretch flex font-['Helvetica_Neue:Regular'] gap-[3.125px] items-start leading-[0] left-[calc(50%+36.66px)] not-italic pl-px pr-[2.313px] text-[#6e6e73] text-[14px] text-center top-0 tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2261",
+        "text": "​ Photonic Engine for incredible detail and color Autofocus on TrueDepth front camera",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.23px] not-italic text-[#6e6e73] text-[14px] text-center top-[70px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2264",
+        "text": "Action mode smooths out shaky handheld videos",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[36px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[71px] tracking-[-0.224px] w-[205.216px]"
+      },
+      {
+        "id": "0:2268",
+        "text": "Up to 26 hours video playback6",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2272",
+        "text": "A15 Bionic chip with 5-core GPU",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2275",
+        "text": "Face ID",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]"
+      },
+      {
+        "id": "0:2279",
+        "text": "Superfast 5G cellular7",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2285",
+        "text": "As amazing as ever.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[151.684px]"
+      },
+      {
+        "id": "0:2287",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2289",
+        "text": "From $599*",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2291",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]"
+      },
+      {
+        "id": "0:2293",
+        "text": "6.1″ or 5.4″",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[17px] text-center top-[15px] w-[96.7px]"
+      },
+      {
+        "id": "0:2295",
+        "text": "Super Retina XDR display3",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2301",
+        "text": "Emergency SOS",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]"
+      },
+      {
+        "id": "0:2306",
+        "text": "Dual‑camera system",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[58px] tracking-[-0.224px] w-[132.059px]"
+      },
+      {
+        "id": "0:2308",
+        "text": "12MP Main",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[66.88px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2309",
+        "text": "| Ultra Wide",
+        "className": "-translate-x-1/2 [word-break:break-word] absolute content-stretch flex font-['Helvetica_Neue:Regular'] gap-[3.125px] items-start leading-[0] left-[calc(50%+36.66px)] not-italic pl-px pr-[2.313px] text-[#6e6e73] text-[14px] text-center top-0 tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2313",
+        "text": "​",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.75px] not-italic text-[#6e6e73] text-[14px] text-center top-[30px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2315",
+        "text": "​ TrueDepth front camera",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.31px] not-italic text-[#6e6e73] text-[14px] text-center top-[80px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2320",
+        "text": "Up to 19 hours video playback6",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2324",
+        "text": "A15 Bionic chip with 4-core GPU",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2327",
+        "text": "Face ID",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[47.591px]"
+      },
+      {
+        "id": "0:2331",
+        "text": "Superfast 5G cellular7",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2337",
+        "text": "Serious power. Serious value.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[20px] justify-center leading-[0] left-[104.86px] not-italic text-[#1d1d1f] text-[17px] text-center top-[43px] tracking-[-0.374px] w-[224.184px]"
+      },
+      {
+        "id": "0:2338",
+        "text": "From $429",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[102px] tracking-[-0.224px] w-[70.919px]"
+      },
+      {
+        "id": "0:2340",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[12px] text-center text-white tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2342",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[14px] text-center tracking-[-0.224px] w-[82.606px]"
+      },
+      {
+        "id": "0:2344",
+        "text": "4.7″",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[24px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[18px] text-center top-[15px] w-[36.325px]"
+      },
+      {
+        "id": "0:2346",
+        "text": "Retina HD display",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2352",
+        "text": "Emergency SOS",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[92.19px] tracking-[-0.224px] w-[103.653px]"
+      },
+      {
+        "id": "0:2357",
+        "text": "Advanced camera system",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.84px] not-italic text-[#1d1d1f] text-[14px] text-center top-[58px] tracking-[-0.224px] w-[164.153px]"
+      },
+      {
+        "id": "0:2359",
+        "text": "12MP Main",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[103.95px] not-italic text-[#6e6e73] text-[14px] text-center top-[10px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2361",
+        "text": "​",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.75px] not-italic text-[#6e6e73] text-[14px] text-center top-[30px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2363",
+        "text": "​ Front camera",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[104.89px] not-italic text-[#6e6e73] text-[14px] text-center top-[80px] tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2368",
+        "text": "Up to 15 hours video playback6",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2372",
+        "text": "A15 Bionic chip with 4-core GPU",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2375",
+        "text": "Touch ID",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[16px] justify-center leading-[0] left-[104.85px] not-italic text-[#1d1d1f] text-[14px] text-center top-[60px] tracking-[-0.224px] w-[56.294px]"
+      },
+      {
+        "id": "0:2379",
+        "text": "5G cellular7",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2382",
+        "text": "Compare all iPhone models  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.231px] w-[260.247px]"
+      },
+      {
+        "id": "0:2384",
+        "text": "Shop iPhone  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[130.075px]"
+      }
+    ]
+  },
+  "ecosystem": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/29a654b7-d6d9-4874-898e-95977ceb41ae.png",
+      "imgH2": "https://www.figma.com/api/mcp/asset/67737296-58b2-479b-9232-5d49513da532.png",
+      "imgH3": "https://www.figma.com/api/mcp/asset/11cf1835-8997-46b8-8190-6b3b67c9f292.png",
+      "imgLi": "https://www.figma.com/api/mcp/asset/0f3c5a09-644f-47e1-8525-9d78862a7186.png",
+      "imgLi1": "https://www.figma.com/api/mcp/asset/be57c0dc-9cdd-4635-9cd7-bedc3fbe5dd1.png",
+      "imgLi2": "https://www.figma.com/api/mcp/asset/46d846d0-5b29-4c6c-acd8-aa9a6406eb30.png",
+      "imgLi3": "https://www.figma.com/api/mcp/asset/35040e80-1430-4ae2-a6a3-08588abe34a7.png",
+      "imgLi4": "https://www.figma.com/api/mcp/asset/02c9cf34-7fef-4a91-9f67-a886dc8b128f.png",
+      "imgLi5": "https://www.figma.com/api/mcp/asset/0a3f408d-f374-4572-b88c-6dc907d860e1.png",
+      "imgLi6": "https://www.figma.com/api/mcp/asset/b928bfc9-6432-406c-9100-5e71da7bc6bf.png",
+      "imgMusicAlbumLeftErm7O9E8F9MeLargeJpg": "https://www.figma.com/api/mcp/asset/7565e9d4-05f1-487f-b7f2-a5c83ba9fa3a.png",
+      "imgMusicAlbumMiddleEo1Xuly5GmqaLargeJpg": "https://www.figma.com/api/mcp/asset/2e595a48-d00a-49a1-8444-cf1e56d99a5f.png",
+      "imgMusicAlbumRightCtoplsymatsiLargeJpg": "https://www.figma.com/api/mcp/asset/b3c18830-51b8-41fb-a146-2bae5a3dd95f.png",
+      "imgDiv": "https://www.figma.com/api/mcp/asset/224dc698-ee16-476b-bf60-19e29189a83b.png",
+      "imgDiv1": "https://www.figma.com/api/mcp/asset/9504d9d6-383d-4906-b772-87d2b33aa12e.png",
+      "imgDiv2": "https://www.figma.com/api/mcp/asset/689be31d-3eff-4b9f-879d-22867c96d682.png",
+      "imgDiv3": "https://www.figma.com/api/mcp/asset/e1bccffc-b1a5-42ec-bd70-54148db1c818.png",
+      "imgDiv4": "https://www.figma.com/api/mcp/asset/c89bb88c-9262-4fdb-91e7-c6a5121027fe.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/3d228135-1e4e-45af-aba1-427f55173403.png",
+      "imgDiv5": "https://www.figma.com/api/mcp/asset/9831a433-df7c-4625-81c5-45b5aea949d3.png",
+      "imgFigure2": "https://www.figma.com/api/mcp/asset/daf0eb7c-c605-4215-81c3-399e0d755237.png",
+      "imgFigure3": "https://www.figma.com/api/mcp/asset/bd1dd578-f9ad-482c-9d28-bb8c5533d367.png",
+      "imgAppleMusicLogo": "https://www.figma.com/api/mcp/asset/6d33572e-9f1d-4e4d-b78e-1b0e98fbb56a.svg"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:2027",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[329px] left-[calc(50%-254.73px)] top-[150px] w-[542px]"
+      },
+      {
+        "asset": "imgH2",
+        "node": "0:2029",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[100px] left-1/2 top-0 w-[317px]"
+      },
+      {
+        "asset": "imgH3",
+        "node": "0:2040",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[39px] left-[288.5px] top-0 w-[98px]"
+      },
+      {
+        "asset": "imgLi",
+        "node": "0:2050",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi1",
+        "node": "0:2052",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi2",
+        "node": "0:2057",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi3",
+        "node": "0:2062",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi4",
+        "node": "0:2067",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi5",
+        "node": "0:2072",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgLi6",
+        "node": "0:2077",
+        "className": "absolute h-full left-0 max-w-none top-0 w-[100.91%]",
+        "slot": "h-[135px] relative rounded-[10px] shrink-0 w-[238px]"
+      },
+      {
+        "asset": "imgAppleMusicLogo",
+        "node": "0:2087",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[0_0.01%]"
+      },
+      {
+        "asset": "imgMusicAlbumLeftErm7O9E8F9MeLargeJpg",
+        "node": "0:2100",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute left-0 size-[250px] top-0"
+      },
+      {
+        "asset": "imgMusicAlbumMiddleEo1Xuly5GmqaLargeJpg",
+        "node": "0:2102",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute left-0 size-[283px] top-0"
+      },
+      {
+        "asset": "imgMusicAlbumRightCtoplsymatsiLargeJpg",
+        "node": "0:2104",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute left-0 size-[250px] top-0"
+      },
+      {
+        "asset": "imgDiv",
+        "node": "0:2105",
+        "className": "absolute h-[97.4%] left-0 max-w-none top-[2.6%] w-full",
+        "slot": "-translate-x-1/2 absolute bottom-[1179px] left-[calc(50%-352.5px)] top-[1299.42px] w-[675px]"
+      },
+      {
+        "asset": "imgDiv1",
+        "node": "0:2107",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[39px] left-1/2 top-[69px] w-[184px]"
+      },
+      {
+        "asset": "imgDiv2",
+        "node": "0:2113",
+        "className": "absolute h-[30.52%] left-[34.96%] max-w-none top-[47.4%] w-[30.07%]",
+        "slot": "-translate-x-1/2 absolute bottom-0 left-[calc(50%+7.5px)] overflow-clip top-0 w-[675px]"
+      },
+      {
+        "asset": "imgDiv3",
+        "node": "0:2117",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[39px] left-1/2 top-[69px] w-[180px]"
+      },
+      {
+        "asset": "imgDiv4",
+        "node": "0:2130",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[40px] left-1/2 top-[68px] w-[214px]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:2139",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 -translate-y-1/2 absolute h-[299px] left-[calc(50%+3.5px)] top-[calc(50%+115px)] w-[602px]"
+      },
+      {
+        "asset": "imgDiv5",
+        "node": "0:2142",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute h-[40px] left-[calc(50%-0.01px)] top-[68px] w-[213px]"
+      },
+      {
+        "asset": "imgFigure2",
+        "node": "0:2150",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-y-1/2 absolute h-[319px] left-0 top-[calc(50%+92px)] w-[675px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:2159",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "-translate-x-1/2 absolute bottom-0 h-[388px] left-[calc(50%+287.5px)] w-[766px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2024",
+        "text": "Get more out of your iPhone.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.1px] not-italic text-[#1d1d1f] text-[50px] text-center top-[139.5px] tracking-[-0.28px] w-[689.544px]"
+      },
+      {
+        "id": "0:2030",
+        "text": "Bundle up to six Apple services. And enjoy more for less.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[66px] justify-center leading-[0] left-[210.1px] not-italic text-[#1d1d1f] text-[25px] text-center top-[162px] tracking-[0.196px] w-[394.763px]"
+      },
+      {
+        "id": "0:2034",
+        "text": "Try it free9",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[18px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2035",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[97.17px] not-italic text-[#06c] text-[21px] text-center top-[14.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2037",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2042",
+        "text": "Get 3 months of Apple TV+ free when you buy an iPhone.10",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#f5f5f7] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2045",
+        "text": "Try it free  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#2997ff] text-[21px] text-center tracking-[0.231px] w-[104.387px]"
+      },
+      {
+        "id": "0:2047",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#2997ff] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2055",
+        "text": "Stream now",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center left-[56.5px] top-[18px]"
+      },
+      {
+        "id": "0:2056",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-[109.97px] top-[19px]"
+      },
+      {
+        "id": "0:2060",
+        "text": "Stream now",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center left-[56.5px] top-[18px]"
+      },
+      {
+        "id": "0:2061",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-[109.97px] top-[19px]"
+      },
+      {
+        "id": "0:2065",
+        "text": "Stream now",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[14px] text-center tracking-[-0.224px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2070",
+        "text": "Stream now",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center left-[56.5px] top-[18px]"
+      },
+      {
+        "id": "0:2071",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-[109.97px] top-[19px]"
+      },
+      {
+        "id": "0:2075",
+        "text": "Stream now",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center left-[56.5px] top-[18px]"
+      },
+      {
+        "id": "0:2076",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-[109.97px] top-[19px]"
+      },
+      {
+        "id": "0:2080",
+        "text": "Stream now",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center left-[56.5px] top-[18px]"
+      },
+      {
+        "id": "0:2081",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Bold'] font-bold justify-center left-[109.97px] top-[19px]"
+      },
+      {
+        "id": "0:2090",
+        "text": "Over 100 million songs. Start listening for free today.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[54px] justify-center leading-[0] left-[225.09px] not-italic text-[#1d1d1f] text-[19px] text-center top-[29px] tracking-[0.231px] w-[249.497px]"
+      },
+      {
+        "id": "0:2094",
+        "text": "Try it free11",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[17px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2095",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[106.74px] not-italic text-[#06c] text-[21px] text-center top-[14.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2097",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2109",
+        "text": "Get 3 months of Apple News+ free when you buy an iPhone.12",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2111",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2115",
+        "text": "Apple Arcade",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[142.49px] not-italic text-[#1d1d1f] text-[44px] text-center top-[26px] tracking-[-0.144px] w-[284.981px]"
+      },
+      {
+        "id": "0:2118",
+        "text": "Get 3 months of Apple Arcade free when you buy an iPhone.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[54px] justify-center leading-[0] left-[180.09px] not-italic text-[#1d1d1f] text-[21px] text-center top-[152px] tracking-[0.231px] w-[310.091px]"
+      },
+      {
+        "id": "0:2122",
+        "text": "Try it free13",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[17px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2123",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[102.09px] not-italic text-[#06c] text-[21px] text-center top-[16.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2125",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2128",
+        "text": "Fitness+",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[91.36px] not-italic text-[#1d1d1f] text-[45px] text-center top-[26px] tracking-[-0.144px] w-[182.716px]"
+      },
+      {
+        "id": "0:2132",
+        "text": "Fitness for everyone. Now all you need is iPhone.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2134",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2137",
+        "text": "Try it free14",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[17px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2138",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Regular'] font-normal justify-center leading-[0] left-[108.53px] not-italic text-[#06c] text-[21px] text-center top-[16.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2143",
+        "text": "For everything and everyone.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[25px] justify-center leading-[0] left-[129.2px] not-italic text-[#1d1d1f] text-[19px] text-center top-[136.5px] tracking-[0.231px] w-[258.403px]"
+      },
+      {
+        "id": "0:2145",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2147",
+        "text": "Buy  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[50.684px]"
+      },
+      {
+        "id": "0:2149",
+        "text": "Apple Gift Card",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[162px] justify-center leading-[0] left-[61.99px] not-italic text-[#1d1d1f] text-[48px] text-center top-[78px] tracking-[-0.144px] w-[123.981px]"
+      },
+      {
+        "id": "0:2154",
+        "text": "Introducing the Apple Research app.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[43px] text-center tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2156",
+        "text": "The future of health research is you.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2158",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      }
+    ]
+  },
+  "footer": {
+    "assets": {
+      "imgSeperator": "https://www.figma.com/api/mcp/asset/4b38602a-fd8d-4873-af80-546efd526ab1.svg",
+      "imgSeperator1": "https://www.figma.com/api/mcp/asset/13fe38f0-d00d-4c46-91e2-092c112a3c00.svg",
+      "imgApple": "https://www.figma.com/api/mcp/asset/76bd7846-790b-4289-a3fb-324a74c9bd10.svg",
+      "imgApple1": "https://www.figma.com/api/mcp/asset/77dc2384-7108-4c69-93c4-733246eadf59.svg",
+      "imgApple2": "https://www.figma.com/api/mcp/asset/2b678ebc-18b9-4adb-b284-def5facc3391.svg",
+      "imgApple3": "https://www.figma.com/api/mcp/asset/57013e66-cba0-4eab-a014-12de0bab7908.svg"
+    },
+    "slots": [
+      {
+        "asset": "imgSeperator",
+        "node": "0:2556",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[2.72%_6.25%_52.75%_7.63%]"
+      },
+      {
+        "asset": "imgSeperator1",
+        "node": "0:2558",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[52.72%_6.25%_2.75%_7.63%]"
+      },
+      {
+        "asset": "imgApple",
+        "node": "0:2563",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[2.31%_6.43%_77.07%_7.36%]"
+      },
+      {
+        "asset": "imgApple1",
+        "node": "0:2565",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[27.31%_6.43%_52.07%_7.36%]"
+      },
+      {
+        "asset": "imgApple2",
+        "node": "0:2567",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[52.31%_6.43%_27.07%_7.36%]"
+      },
+      {
+        "asset": "imgApple3",
+        "node": "0:2569",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "absolute inset-[77.31%_6.43%_2.07%_7.36%]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2399",
+        "text": "*  Pricing includes a $30 connectivity discount that requires activation with AT&T, T‑Mobile, or Verizon.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] w-[565.184px]"
+      },
+      {
+        "id": "0:2401",
+        "text": "**",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] w-[11.528px]"
+      },
+      {
+        "id": "0:2403",
+        "text": "Apple Card Monthly Installments (ACMI) is a 0% APR payment option available only in the U.S. to select at checkout for certain Apple products purchased at Apple Store locations,  apple.com , the Apple Store app, or by calling 1-800-MY-APPLE and is subject to credit approval and credit limit. See  support.apple.com/kb/HT211204  for more information about eligible products. Variable APRs for Apple Card other than ACMI range from 15.49% to 26.49% based on creditworthiness. Rates as of March 1, 2023. If you choose the pay‑in‑full or one‑time‑payment option for an ACMI‑eligible purchase instead of choosing ACMI as the payment option at checkout, that purchase will be subject to the variable APR assigned to your Apple Card. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. See the  Apple Card Customer Agreement  for more information. ACMI is not available for purchases made online at the following special stores: Apple Employee Purchase Plan; participating corporate Employee Purchase Programs; Apple at Work for small businesses; Government, and Veterans and Military Purchase Programs, or on refurbished devices. iPhone activation required on iPhone purchases made at an Apple Store with one of these national carriers: AT&T, Verizon, or T‑Mobile.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[12px] tracking-[-0.12px] w-[969.45px]"
+      },
+      {
+        "id": "0:2404",
+        "text": "To access and use all the features of Apple Card, you must add Apple Card to Wallet on an iPhone or iPad with the latest version of iOS or iPadOS. Update to the latest version by going to Settings > General > Software Update. Tap Download and Install.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[153.59px] tracking-[-0.12px] w-[979.841px]"
+      },
+      {
+        "id": "0:2406",
+        "text": "Learn more about how Apple Card applications are evaluated at  support.apple.com/kb/HT209218 .",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[17.59px] tracking-[-0.12px] w-[544.638px]"
+      },
+      {
+        "id": "0:2407",
+        "text": "Available for qualifying applicants in the United States.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[212.78px] tracking-[-0.12px] w-[301.122px]"
+      },
+      {
+        "id": "0:2408",
+        "text": "Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[238.38px] tracking-[-0.12px] w-[406.481px]"
+      },
+      {
+        "id": "0:2409",
+        "text": "If you reside in the U.S. territories, please call Goldman Sachs at 877‑255‑5923 with questions about Apple Card.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[263.97px] tracking-[-0.12px] w-[628.544px]"
+      },
+      {
+        "id": "0:2411",
+        "text": "Trade-in values will vary based on the condition, year, and configuration of your eligible trade-in device. Not all devices are eligible for credit. You must be at least 18 years old to be eligible to trade in for credit or for an Apple Gift Card. Trade-in value may be applied toward qualifying new device purchase, or added to an Apple Gift Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade-in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in-store and online trade-in. Some stores may have additional requirements. Apple or its trade-in partners reserve the right to refuse or limit quantity of any trade-in transaction for any reason. More details are available from Apple’s trade-in partner for trade-in and recycling of eligible devices. Restrictions and limitations may apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[110px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[56px] tracking-[-0.12px] w-[943.669px]"
+      },
+      {
+        "id": "0:2413",
+        "text": "Pricing for iPhone 14 and iPhone 14 Plus includes a $30 connectivity discount that requires activation with AT&T, T‑Mobile, or Verizon.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[8px] tracking-[-0.12px] w-[743.622px]"
+      },
+      {
+        "id": "0:2415",
+        "text": "Available to qualified customers and requires 24‑month installment loan when you select Citizens One or Apple Card Monthly Installments (ACMI) as payment type at checkout at Apple. iPhone activation required with AT&T, T‑Mobile, or Verizon for purchases made with ACMI at an Apple Store. Subject to credit approval and credit limit. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. Additional Apple Card Monthly Installments terms are in the  Apple Card Customer Agreement . Additional iPhone Payments terms are  here . ACMI is not available for purchases made online at special storefronts. The last month’s payment for each product will be the product’s purchase price, less all other payments at the monthly payment amount.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#6e6e73] text-[12px] w-[939.872px]"
+      },
+      {
+        "id": "0:2416",
+        "text": "The display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 5.42 inches (iPhone 13 mini, iPhone 12 mini), 5.85 inches (iPhone 11 Pro, iPhone XS, iPhone X), 6.06 inches (iPhone 14, iPhone 13 Pro, iPhone 13, iPhone 12 Pro, iPhone 12, iPhone 11, iPhone XR), 6.12 inches (iPhone 14 Pro), 6.46 inches (iPhone 11 Pro Max, iPhone XS Max), 6.68 inches (iPhone 14 Plus, iPhone 13 Pro Max, iPhone 12 Pro Max), or 6.69 inches (iPhone 14 Pro Max) diagonally. Actual viewable area is less.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[62px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[259.19px] tracking-[-0.12px] w-[912.544px]"
+      },
+      {
+        "id": "0:2418",
+        "text": "Service is included for free for two years with the activation of any iPhone 14 model. Connection and response times vary based on location, site conditions, and other factors. See  apple.com/iphone-14  or  apple.com/iphone-14-pro  for more information.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[918.106px]"
+      },
+      {
+        "id": "0:2419",
+        "text": "iPhone 14 and iPhone 14 Pro can detect a severe car crash and call for help. Requires a cellular connection or Wi‑Fi calling.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[350.38px] tracking-[-0.12px] w-[678.95px]"
+      },
+      {
+        "id": "0:2421",
+        "text": "All battery claims depend on network configuration and many other factors; actual results will vary. Battery has limited recharge cycles and may eventually need to be replaced. Battery life and charge cycles vary by use and settings. See  apple.com/batteries  and  apple.com/iphone/battery.html  for more information.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[915.559px]"
+      },
+      {
+        "id": "0:2423",
+        "text": "Data plan required. 5G is available in select markets and through select carriers. Speeds vary based on site conditions and carrier. For details on 5G support, contact your carrier and see  apple.com/iphone/cellular .",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[939.106px]"
+      },
+      {
+        "id": "0:2425",
+        "text": "AT&T iPhone 14 Special Deal:  Monthly price reflects net monthly payment, after application of AT&T trade‑in credit applied over 36 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max of either $800, or $350 (based upon the model and condition of your trade‑in smartphone), max bill credits will not exceed the cost of the device. Requires upgrade of an existing line or activation of a new line and purchase of a new iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max on qualifying 36 month 0% APR installment plan, subject to carrier credit qualification. AT&T Installment Plan with Next Up is not eligible for this promotion. $0 down for well qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. Requires activation on eligible unlimited plan. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Trade in device may not be on existing installment plan. Bill credits are applied as a monthly credit over the 36 month installment plan. Credits start within 3 bills. Will receive catchup credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one trade‑in per qualifying purchase and one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Price for iPhone 14 and iPhone 14 Plus includes $30 AT&T connectivity discount. Activation required. ​ AT&T iPhone 13 Special Deal:  Buy an iPhone 13 128 GB and get $370 in bill credits applied over 36 months. Buy an iPhone 13 256 GB and get $290 in bill credits applied over 36 months. Buy an iPhone 13 512 GB and get $310 in bill credits applied over 36 months. Requires upgrade of an existing line (or activation of a new line) and purchase on qualifying 36‑month 0% APR installment plan, subject to carrier credit qualification. $0 down for well‑qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Bill credits are applied as a monthly credit over the 36‑month installment plan. Credits start within 3 bills. Will receive catch‑up credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Activation required. ​ AT&T iPhone SE Special Deal:  Buy an iPhone SE 64 GB and get $250 in bill credits applied over 36 months. Buy an iPhone SE 128 GB and get $120 in bill credits applied over 36 months. Buy an iPhone SE 256 GB and get $40 in bill credits applied over 36 months. Requires upgrade of an existing line (or activation of a new line) and purchase on qualifying 36‑month 0% APR installment plan, subject to carrier credit qualification. $0 down for well‑qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $35. Bill credits are applied as a monthly credit over the 36‑month installment plan. Credits start within 3 bills. Will receive catch‑up credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Activation required. ​ T‑Mobile iPhone 14 Special Deal:  Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple instant trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade‑in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone 14 and iPhone 14 Plus includes $30 T‑Mobile connectivity discount. Activation required. ​ T‑Mobile iPhone 13 Special Deal:  Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone 13 or iPhone 13 mini and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone 13 or iPhone 13 mini of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone 13 and iPhone 13 mini includes $30 T‑Mobile connectivity discount. Activation required. ​ T‑Mobile iPhone SE 3 Special Deal:  Monthly price reflects net monthly payment, after application of T‑Mobile trade‑in credit applied over 24 months with purchase of an iPhone SE 3 and trade‑in of eligible smartphone. Receive credit with purchase of an iPhone SE 3 of $400 or $200 (based upon the model and condition of your trade‑in smartphone) for customers on any eligible rate plan. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) T‑Mobile monthly bill credits applied over 24 months. Customer must remain in the T‑Mobile Equipment Installment Program and on eligible rate plan for 24 months and remain in good standing to receive the full benefit of the bill credits; allow 2 bill cycles from valid submission and validation of trade in. Tax on pre‑credit price due at sale. Limited‑time offer; subject to change. Qualifying credit, data plan, and trade‑in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Price for iPhone SE 3 includes $30 T‑Mobile connectivity discount. Activation required. ​ Verizon iPhone 14 Special Deal:  Monthly price reflects net monthly payment, after application of Verizon trade‑in credit applied over 36 months with purchase of an iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, or iPhone 14 Plus with credit of $800 or $400 for customers on a Get More or One Unlimited plan (based upon the model and condition of your trade‑in smartphone); or $440 or $220 for customers on a Do More or Play More plan (based upon the model and condition of your trade‑in smartphone). Credit comprised of (i) Apple instant trade‑in credit at checkout and (ii) Verizon monthly bill credits applied over 36 months. Customer must remain in the Verizon Device Payment Program for 36 months to receive the full benefit of the Verizon bill credits. Bill credits may take 1‑2 bill cycles to appear. If it takes two cycles for bill credits to appear, you’ll see the credit for the first cycle on your second bill in addition to that month’s credit. Requires purchase and activation of a new iPhone 14, iPhone 14 Plus, iPhone 14 Pro, or iPhone 14 Pro Max with the Verizon Device Payment Program at 0% APR for 36 months, subject to carrier credit qualification, and iPhone availability and limits. Taxes and shipping not included in monthly price. Sales tax may be assessed on full value of new iPhone. Requires eligible unlimited service plan. Requires trade‑in of eligible device in eligible condition. Must be at least 18 to trade‑in. Apple or its trade‑in partners reserve the right to refuse or limit any trade‑in transaction for any reason. In‑store trade‑in requires presentation of a valid, government‑issued photo ID (local law may require saving this information). In‑store promotion availability subject to local law; speak to a Specialist to learn more. Limited‑time offer; subject to change. Additional terms from Apple, Verizon, and Apple’s trade‑in partners may apply. Price for iPhone 14 and iPhone 14 Plus includes $30 Verizon connectivity discount. Activation required. ​ Verizon iPhone 13 Special Deal:  Monthly price reflects net monthly payment, after application of Verizon trade‑in credit applied over 36 months with purchase of an iPhone 13 or iPhone 13 mini with credit of $600 or $300 for customers on a Do More, Play More, Get More, or One Unlimited plan (based upon the model and condition of your trade‑in smartphone). Credit comprised of (i) Apple connectivity trade‑in credit at checkout and (ii) Verizon monthly bill credits applied over 36 months. Customer must remain in the Verizon Device Payment Program for 36 months to receive the full benefit of the Verizon bill credits. Bill credits may take 1‑2 bill cycles to appear. If it takes two cycles for bill credits to appear, you’ll see the credit for the first cycle on your second bill in addition to that month’s credit. Requires purchase and activation of a new iPhone 13 mini or iPhone 13 with the Verizon Device Payment Program at 0% APR for 36 months, subject to carrier credit qualification, and iPhone availability and limits. Taxes and shipping not included in monthly price. Sales tax may be assessed on full value of new iPhone. Requires eligible unlimited service plan. Requires trade‑in of eligible device in eligible condition. Must be at least 18 to trade‑in. Apple or its trade‑in partners reserve the right to refuse or limit any trade‑in transaction for any reason. In‑store trade‑in requires presentation of a valid, government‑issued photo ID (local law may require saving this information). In‑store promotion availability subject to local law; speak to a Specialist to learn more. Limited‑time offer; subject to change. Additional terms from Apple, Verizon, and Apple’s trade‑in partners may apply. Price for iPhone 13 and iPhone 13 mini includes $30 Verizon connectivity discount. Activation required.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[1326px] justify-center leading-[0] left-0 not-italic text-[#424245] text-[12px] top-[664px] w-[946.169px] whitespace-pre-wrap"
+      },
+      {
+        "id": "0:2426",
+        "text": "The Apple One free trial includes only services that you are not currently using through a free trial or a subscription. Plan automatically renews after trial until cancelled. Restrictions and other terms apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[1804.75px] tracking-[-0.12px] w-[926.856px]"
+      },
+      {
+        "id": "0:2428",
+        "text": "$6.99/month after free trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. This offer is not available if you or your Family have previously accepted an Apple TV+ one year free offer. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other  terms  apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[46px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[24px] tracking-[-0.12px] w-[931.653px]"
+      },
+      {
+        "id": "0:2429",
+        "text": "New subscribers only. $10.99/month after free trial. Plan automatically renews after trial until cancelled.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[17px] not-italic text-[#6e6e73] text-[12px] top-[1895.94px] tracking-[-0.12px] w-[571.606px]"
+      },
+      {
+        "id": "0:2431",
+        "text": "Offer available to new subscribers who purchase an eligible device on or after September 7, 2022. $9.99/month after trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. Offer good for 3 months after eligible device activation, from December 12, 2022. Plan automatically renews until cancelled. Restrictions and other  terms  apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[46px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[24px] tracking-[-0.12px] w-[930.606px]"
+      },
+      {
+        "id": "0:2433",
+        "text": "$4.99/month after free trial. Only one offer per Apple ID and only one offer per family if you’re part of a Family Sharing group, regardless of the number of devices you or your family purchases. Offer good for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other  terms  apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[931.731px]"
+      },
+      {
+        "id": "0:2435",
+        "text": "Apple Fitness+ requires iPhone 8 or later, or Apple Watch Series 3 or later paired with iPhone 6s or later. New subscribers only. $9.99/month after trial. Plan automatically renews until cancelled.  Terms  apply.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[30px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[16px] tracking-[-0.12px] w-[936.216px]"
+      },
+      {
+        "id": "0:2439",
+        "text": "Shop and Learn",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2440",
+        "text": "Store Mac iPad iPhone Watch AirPods TV & Home AirTag Accessories Gift Cards",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[110px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2452",
+        "text": "Apple Wallet",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2453",
+        "text": "Wallet Apple Card Apple Pay Apple Cash",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[113px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2460",
+        "text": "Account",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2461",
+        "text": "Manage Your Apple ID Apple Store Account iCloud.com",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[55px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2466",
+        "text": "Entertainment",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2467",
+        "text": "Apple One Apple TV+ Apple Music Apple Arcade Apple Fitness+ Apple News+ Apple Podcasts Apple Books App Store",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[91px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2478",
+        "text": "Apple Store",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2479",
+        "text": "Find a Store Genius Bar Today at Apple Apple Camp Apple Store App Certified Refurbished Apple Trade In Financing Carrier Deals at Apple Order Status Shopping Help",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[58px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2493",
+        "text": "For Business",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2494",
+        "text": "Apple and Business Shop for Business",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[69px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2498",
+        "text": "For Education",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2499",
+        "text": "Apple and Education Shop for K-12 Shop for College",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[63px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2504",
+        "text": "For Healthcare",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2505",
+        "text": "Apple in Healthcare Health on Apple Watch Health Records on iPhone",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[35px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2510",
+        "text": "For Government",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2511",
+        "text": "Shop for Government Shop for Veterans and Military",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[14px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2516",
+        "text": "Apple Values",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2517",
+        "text": "Accessibility Education Environment Inclusion and Diversity Privacy Racial Equity and Justice Supplier Responsibility",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[41px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2526",
+        "text": "About Apple",
+        "className": "flex flex-col font-['Helvetica_Neue:Bold'] justify-center relative shrink-0 text-[#1d1d1f] tracking-[-0.12px]"
+      },
+      {
+        "id": "0:2527",
+        "text": "Newsroom Apple Leadership Career Opportunities Investors Ethics & Compliance Events Contact Apple",
+        "className": "content-stretch flex flex-col font-['Helvetica_Neue:Regular'] gap-[9.594px] items-start pr-[63px] relative shrink-0 text-[#424245]"
+      },
+      {
+        "id": "0:2536",
+        "text": "More ways to shop:  Find an Apple Store  or  other retailer  near you. Or call 1-800-MY-APPLE.",
+        "className": "[word-break:break-word] absolute border-[#d2d2d7] border-b border-solid font-['Helvetica_Neue:Regular'] h-[25px] leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[34px] w-[980px]"
+      },
+      {
+        "id": "0:2540",
+        "text": "Copyright © 2023 Apple Inc. All rights reserved.",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[#6e6e73] text-[12px] top-[13px] w-[272.45px]"
+      },
+      {
+        "id": "0:2543",
+        "text": "Privacy Policy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2545",
+        "text": "Terms of Use",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2547",
+        "text": "Sales and Refunds",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2549",
+        "text": "Legal",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#424245] text-[12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2550",
+        "text": "Site Map",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[373.86px] not-italic text-[#424245] text-[12px] top-[13px] w-[49.747px]"
+      },
+      {
+        "id": "0:2551",
+        "text": "United States",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[903.27px] not-italic text-[#424245] text-[12px] top-[76px] w-[76.934px]"
+      },
+      {
+        "id": "0:2560",
+        "text": "iPhone",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-[22.38px] not-italic text-[#424245] text-[12px] top-[11px] w-[38.809px]"
+      },
+      {
+        "id": "0:2571",
+        "text": "",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[transparent] top-[8px] w-[11.106px]"
+      }
+    ]
+  },
+  "global-nav": {
+    "assets": {
+      "imgFrame": "https://www.figma.com/api/mcp/asset/da83395d-96d5-42be-9a3b-87327bacd3a1.svg",
+      "imgFrame1": "https://www.figma.com/api/mcp/asset/3772dd78-2ece-47ce-8313-6a538bc79079.svg",
+      "imgFrame2": "https://www.figma.com/api/mcp/asset/302ad69a-87fa-40ff-a167-9667b8c9dde6.svg",
+      "imgFrame3": "https://www.figma.com/api/mcp/asset/19da2ede-4563-4665-b2ec-73301c7327da.svg",
+      "imgFrame4": "https://www.figma.com/api/mcp/asset/761c0b78-8959-449c-a318-1eb7c777fdc2.svg",
+      "imgFrame5": "https://www.figma.com/api/mcp/asset/132c5ebb-1fb3-4364-9f29-db3558df8c66.svg",
+      "imgFrame6": "https://www.figma.com/api/mcp/asset/e6a2188f-dc21-4d75-a8e4-0fbf2342f16d.svg",
+      "imgFrame7": "https://www.figma.com/api/mcp/asset/f70a57e6-6989-4372-9be7-63bf5c0ac868.svg",
+      "imgFrame8": "https://www.figma.com/api/mcp/asset/ad50249d-4b6a-45c1-abf8-84e882fb1116.svg",
+      "imgFrame9": "https://www.figma.com/api/mcp/asset/e5229391-1be5-44d4-9d20-f5aef73f5d1e.svg",
+      "imgFrame10": "https://www.figma.com/api/mcp/asset/510371a3-35be-4a06-b12e-4aed401e4b8a.svg",
+      "imgFrame11": "https://www.figma.com/api/mcp/asset/06cab649-120d-4ec9-8032-67f5552db957.svg",
+      "imgFrame12": "https://www.figma.com/api/mcp/asset/2db142bb-6159-4ca0-98f6-dfa309e4a5ba.svg"
+    },
+    "slots": [
+      {
+        "asset": "imgFrame",
+        "node": "0:2657",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[14px]"
+      },
+      {
+        "asset": "imgFrame1",
+        "node": "0:2664",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[30px]"
+      },
+      {
+        "asset": "imgFrame2",
+        "node": "0:2670",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[23px]"
+      },
+      {
+        "asset": "imgFrame3",
+        "node": "0:2676",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[24px]"
+      },
+      {
+        "asset": "imgFrame4",
+        "node": "0:2682",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[38px]"
+      },
+      {
+        "asset": "imgFrame5",
+        "node": "0:2688",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[35px]"
+      },
+      {
+        "asset": "imgFrame6",
+        "node": "0:2694",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[43px]"
+      },
+      {
+        "asset": "imgFrame7",
+        "node": "0:2700",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[65px]"
+      },
+      {
+        "asset": "imgFrame8",
+        "node": "0:2706",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[77px]"
+      },
+      {
+        "asset": "imgFrame9",
+        "node": "0:2712",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "h-[44px] relative shrink-0 w-[67px]"
+      },
+      {
+        "asset": "imgFrame10",
+        "node": "0:2718",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "relative shrink-0 size-[44px]"
+      },
+      {
+        "asset": "imgFrame11",
+        "node": "0:2723",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[15px]"
+      },
+      {
+        "asset": "imgFrame12",
+        "node": "0:2726",
+        "className": "absolute block inset-0 max-w-none size-full",
+        "slot": "-translate-x-1/2 absolute h-[44px] left-1/2 top-0 w-[14px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2660",
+        "text": "Apple",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[20px] justify-center leading-[0] left-0 not-italic text-[17px] text-[rgba(0,0,0,0.8)] top-[10px] tracking-[-0.374px] w-[46.763px]"
+      },
+      {
+        "id": "0:2667",
+        "text": "Store",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[29.872px]"
+      },
+      {
+        "id": "0:2673",
+        "text": "Mac",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[23.669px]"
+      },
+      {
+        "id": "0:2679",
+        "text": "iPad",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[24.075px]"
+      },
+      {
+        "id": "0:2685",
+        "text": "iPhone",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[38.091px]"
+      },
+      {
+        "id": "0:2691",
+        "text": "Watch",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[35.309px]"
+      },
+      {
+        "id": "0:2697",
+        "text": "AirPods",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[43.184px]"
+      },
+      {
+        "id": "0:2703",
+        "text": "TV & Home",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[63.403px]"
+      },
+      {
+        "id": "0:2709",
+        "text": "Entertainment",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[78.216px]"
+      },
+      {
+        "id": "0:2715",
+        "text": "Accessories",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[67.122px]"
+      },
+      {
+        "id": "0:2721",
+        "text": "Support",
+        "className": "-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[14px] justify-center leading-[0] left-0 not-italic text-[12px] text-[rgba(0,0,0,0.8)] top-[6px] tracking-[-0.12px] w-[44.794px]"
+      }
+    ]
+  },
+  "heroes": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/c342adb8-1bc6-4267-bdc0-f35065948cc7.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/18e1a1ee-255e-459d-890c-23e957b35acc.png",
+      "imgFigure2": "https://www.figma.com/api/mcp/asset/6edbbf42-3e4c-4767-ae69-8ce2e67269fb.png",
+      "imgFigure3": "https://www.figma.com/api/mcp/asset/43287d7d-bd79-4507-ad2e-597fb5166296.png",
+      "imgFigure4": "https://www.figma.com/api/mcp/asset/19f96ac7-23ea-4755-b8ce-636f05a6d6a2.png",
+      "imgFigure5": "https://www.figma.com/api/mcp/asset/515fcb9a-5502-47b3-b902-948b138cb2ea.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:1845",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[21px] left-[241.55px] top-[37px] w-[100px]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:1855",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[496px] left-[-0.5px] top-[383px] w-[981px]"
+      },
+      {
+        "asset": "imgFigure2",
+        "node": "0:1860",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[20px] left-[165.3px] top-[8px] w-[140px]"
+      },
+      {
+        "asset": "imgFigure3",
+        "node": "0:1869",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[393px] left-[9.5px] top-[303px] w-[961px]"
+      },
+      {
+        "asset": "imgFigure4",
+        "node": "0:1873",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[22px] left-[252px] top-[8px] w-[96px]"
+      },
+      {
+        "asset": "imgFigure5",
+        "node": "0:1884",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[830px] left-0 top-0 w-[494px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:1844",
+        "text": "New",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[291.36px] not-italic text-[#6e6e73] text-[17px] text-center top-[11.5px] tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1847",
+        "text": "Two great sizes. Now with a splash of yellow.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[43px] text-center tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1849",
+        "text": "From $799 or $33.29/mo. for 24 mo. before trade‑in2",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1852",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[17px] text-center text-white tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1854",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1861",
+        "text": "Pro. Beyond.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[235.39px] not-italic text-[#f5f5f7] text-[42px] text-center top-[70px] tracking-[-0.144px] w-[258.466px]"
+      },
+      {
+        "id": "0:1863",
+        "text": "From $999 or $41.62/mo. for 24 mo. before trade‑in2",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#f5f5f7] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1866",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[17px] text-center text-white tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1868",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#2997ff] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1875",
+        "text": "Love the power. Love the price.",
+        "className": "[word-break:break-word] bg-clip-text flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[43px] text-[transparent] text-center tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1877",
+        "text": "From $429 or $17.87/mo. for 24 mo. before trade‑in2",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1880",
+        "text": "Buy",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[17px] text-center text-white tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1882",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      }
+    ]
+  },
+  "offer": {
+    "assets": {},
+    "slots": [],
+    "texts": [
+      {
+        "id": "0:2389",
+        "text": "Get $200–$600 in credit toward iPhone 14 or iPhone 14 Pro when you trade in iPhone 11 or higher.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2390",
+        "text": "1",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[720.45px] not-italic text-[#1d1d1f] text-[11px] text-center top-[8px] tracking-[-0.12px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2392",
+        "text": "Shop iPhone",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center left-[34px] top-[7px]"
+      },
+      {
+        "id": "0:2393",
+        "text": "",
+        "className": "-translate-x-1/2 -translate-y-1/2 absolute flex flex-col font-['Inter:Regular'] font-normal justify-center left-[75.38px] top-[8px]"
+      }
+    ]
+  },
+  "savings": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/a32f7fc3-2d25-4ecc-91b7-88dd13fe0cd2.png",
+      "imgH4": "https://www.figma.com/api/mcp/asset/c6a90beb-89b1-456d-9d37-10a37a0f0f2e.png",
+      "imgH5": "https://www.figma.com/api/mcp/asset/358c707a-9992-433c-86bc-5483a18de7ab.png",
+      "imgH6": "https://www.figma.com/api/mcp/asset/254bd515-6fd2-4d41-b4dd-b104f7240377.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/c26d87bf-2ffc-4713-8e82-a58f49c32873.png",
+      "imgDiv": "https://www.figma.com/api/mcp/asset/f47d5c62-d8e2-49d1-a0c2-e5bd5588795b.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:1901",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[410px] left-0 top-[307px] w-[1380px]"
+      },
+      {
+        "asset": "imgH4",
+        "node": "0:1919",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "h-[76px] relative shrink-0 w-[165px] z-[2]"
+      },
+      {
+        "asset": "imgH5",
+        "node": "0:1923",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "h-[76px] relative shrink-0 w-[165px] z-[2]"
+      },
+      {
+        "asset": "imgH6",
+        "node": "0:1927",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "h-[76px] relative shrink-0 w-[165px] z-[2]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:1938",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[357px] left-0 top-[400.19px] w-[675px]"
+      },
+      {
+        "asset": "imgDiv",
+        "node": "0:1939",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[560px] left-[30px] top-[1604.19px] w-[1380px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:1898",
+        "text": "Ways to save on iPhone",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.1px] not-italic text-[#1d1d1f] text-[51px] text-center top-[139.5px] tracking-[-0.28px] w-[573.075px]"
+      },
+      {
+        "id": "0:1903",
+        "text": "Trade in your current phone for credit toward a new one.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[325.09px] not-italic text-[#1d1d1f] text-[48px] text-center top-[51.5px] tracking-[-0.144px] w-[640.247px]"
+      },
+      {
+        "id": "0:1906",
+        "text": "Get $200-$600 in credit when you trade in iPhone 11 or higher and upgrade to iPhone 14 or iPhone 14 Pro.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] w-[359.747px]"
+      },
+      {
+        "id": "0:1907",
+        "text": "1",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[322.56px] not-italic text-[#1d1d1f] text-[19px] text-center top-[72.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1909",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1912",
+        "text": "Save up to $800 with select carrier deals at Apple.8",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[45px] text-center tracking-[-0.144px] w-[584.95px]"
+      },
+      {
+        "id": "0:1914",
+        "text": "Get the carrier deals you love and save on a new iPhone when you trade in and purchase right here at Apple.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[393.2px]"
+      },
+      {
+        "id": "0:1916",
+        "text": "Find your deal  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[141.669px]"
+      },
+      {
+        "id": "0:1921",
+        "text": "Get up to $800 credit after trade-in",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1925",
+        "text": "Get up to $400 credit after trade-in",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1929",
+        "text": "Get up to $800 credit after trade-in",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1933",
+        "text": "Get 3% Daily Cash back with Apple Card.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[258.09px] not-italic text-[#1d1d1f] text-[43px] text-center top-[52px] tracking-[-0.144px] w-[458.716px]"
+      },
+      {
+        "id": "0:1935",
+        "text": "And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.**",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[83px] justify-center leading-[0] left-[258.1px] not-italic text-[#1d1d1f] text-[20px] text-center top-[43.5px] tracking-[0.231px] w-[429.888px]"
+      },
+      {
+        "id": "0:1937",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1941",
+        "text": "Why Apple is the best place to buy iPhone.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[375.09px] not-italic text-[#1d1d1f] text-[44px] text-center top-[52px] tracking-[-0.144px] w-[455.622px]"
+      },
+      {
+        "id": "0:1943",
+        "text": "You can choose a payment option that works for you, pay less with a trade‑in, connect your new iPhone to your carrier, and get set up quickly. You can also chat with a Specialist anytime.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[112px] justify-center leading-[0] left-[218.85px] not-italic text-[#1d1d1f] text-[19px] text-center top-[58px] tracking-[0.231px] w-[428.263px]"
+      },
+      {
+        "id": "0:1945",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      }
+    ]
+  },
+  "services": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/669ba457-4052-4a02-bf91-0391b3908882.png",
+      "imgFigure1": "https://www.figma.com/api/mcp/asset/df5db26c-2650-41f8-aaff-533dcf104718.png",
+      "imgFigure2": "https://www.figma.com/api/mcp/asset/9fc9bbc1-ec7a-4ca4-9758-8879885d1541.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:1987",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[75px] left-[159.5px] top-0 w-[51px]"
+      },
+      {
+        "asset": "imgFigure1",
+        "node": "0:1990",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[75px] left-[157.5px] top-0 w-[55px]"
+      },
+      {
+        "asset": "imgFigure2",
+        "node": "0:2003",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[75px] left-[149.5px] top-0 w-[71px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:1982",
+        "text": "Fast, free delivery",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[184.64px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1984",
+        "text": "Or pick up available items at an Apple Store.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] mb-[-6.609px] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[277.497px]"
+      },
+      {
+        "id": "0:1986",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1989",
+        "text": "Pay monthly at 0% APR",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[185.05px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1993",
+        "text": "You can pay over time when you choose to check out with Apple Card Monthly Installments.**",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[286.653px]"
+      },
+      {
+        "id": "0:1995",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:1997",
+        "text": "Get help buying",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[184.5px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2000",
+        "text": "Have a question? Call a Specialist or chat online. Call 1‑800‑MY‑APPLE.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2002",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      }
+    ]
+  },
+  "tour": {
+    "assets": {
+      "imgFigure": "https://www.figma.com/api/mcp/asset/895c0857-38ea-40d7-bf1b-cd95d134bf2b.png"
+    },
+    "slots": [
+      {
+        "asset": "imgFigure",
+        "node": "0:1889",
+        "className": "absolute h-full left-[-0.07%] max-w-none top-0 w-[100.14%]",
+        "slot": "absolute h-[814px] left-0 top-0 w-[1410px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:1892",
+        "text": "A Guided Tour of",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[21px] text-white tracking-[-0.072px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1894",
+        "text": "iPhone 14 & iPhone 14 Pro",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[43px] text-white tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:1896",
+        "text": "Watch the film",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[17px] text-black text-center tracking-[-0.374px] whitespace-nowrap"
+      }
+    ]
+  },
+  "why-iphone": {
+    "assets": {
+      "imgDiv": "https://www.figma.com/api/mcp/asset/bbd71643-d62c-479a-ae00-4a0e4f3a74a1.png",
+      "imgFigure": "https://www.figma.com/api/mcp/asset/7384c190-8f20-4a15-8582-c10047825c6e.png"
+    },
+    "slots": [
+      {
+        "asset": "imgDiv",
+        "node": "0:2007",
+        "className": "absolute h-[71.33%] left-[18.48%] max-w-none top-[28.67%] w-[63.04%]",
+        "slot": "absolute h-[600px] left-[30px] top-0 w-[1380px]"
+      },
+      {
+        "asset": "imgFigure",
+        "node": "0:2020",
+        "className": "absolute left-0 max-w-none size-full top-0",
+        "slot": "absolute h-[357px] left-0 top-[236px] w-[675px]"
+      }
+    ],
+    "texts": [
+      {
+        "id": "0:2005",
+        "text": "What makes an iPhone an iPhone?",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.09px] not-italic text-[#1d1d1f] text-[51px] text-center top-[139.5px] tracking-[-0.28px] w-[836.372px]"
+      },
+      {
+        "id": "0:2009",
+        "text": "iOS 16",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[58px] justify-center leading-[0] left-[375.1px] not-italic text-[#1d1d1f] text-[45px] text-center top-[26px] tracking-[-0.144px] w-[138.356px]"
+      },
+      {
+        "id": "0:2010",
+        "text": "Personal is powerful.",
+        "className": "-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[25px] justify-center leading-[0] left-[375.09px] not-italic text-[#1d1d1f] text-[19px] text-center top-[77.5px] tracking-[0.231px] w-[184.591px]"
+      },
+      {
+        "id": "0:2012",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      },
+      {
+        "id": "0:2017",
+        "text": "Switching to iPhone is super simple.",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[44px] text-center tracking-[-0.144px] whitespace-nowrap"
+      },
+      {
+        "id": "0:2019",
+        "text": "Learn more  ",
+        "className": "[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]"
+      }
+    ]
+  }
+}

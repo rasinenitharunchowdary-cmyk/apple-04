@@ -1,0 +1,176 @@
+const imgFigure = "https://www.figma.com/api/mcp/asset/a32f7fc3-2d25-4ecc-91b7-88dd13fe0cd2.png";
+const imgH4 = "https://www.figma.com/api/mcp/asset/c6a90beb-89b1-456d-9d37-10a37a0f0f2e.png";
+const imgH5 = "https://www.figma.com/api/mcp/asset/358c707a-9992-433c-86bc-5483a18de7ab.png";
+const imgH6 = "https://www.figma.com/api/mcp/asset/254bd515-6fd2-4d41-b4dd-b104f7240377.png";
+const imgFigure1 = "https://www.figma.com/api/mcp/asset/c26d87bf-2ffc-4713-8e82-a58f49c32873.png";
+const imgDiv = "https://www.figma.com/api/mcp/asset/f47d5c62-d8e2-49d1-a0c2-e5bd5588795b.png";
+
+export default function Section() {
+  return (
+    <div className="relative size-full" data-node-id="0:1897" data-name="section">
+      <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.1px] not-italic text-[#1d1d1f] text-[51px] text-center top-[139.5px] tracking-[-0.28px] w-[573.075px]" data-node-id="0:1898">
+        <p className="leading-[60px]">Ways to save on iPhone</p>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[2194.188px] left-1/2 overflow-clip top-[170px] w-[1440px]" data-node-id="0:1899" data-name="div">
+        <div className="-translate-x-1/2 absolute bg-white h-[717px] left-1/2 overflow-clip top-[70px] w-[1380px]" data-node-id="0:1900" data-name="div">
+          <div className="absolute h-[410px] left-0 top-[307px] w-[1380px]" data-node-id="0:1901" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute h-[261px] left-1/2 top-[67px] w-[650px]" data-node-id="0:1902" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[325.09px] not-italic text-[#1d1d1f] text-[48px] text-center top-[51.5px] tracking-[-0.144px] w-[640.247px]" data-node-id="0:1903">
+              <p className="leading-[52.008px]">Trade in your current phone for credit toward a new one.</p>
+            </div>
+            <div className="-translate-x-1/2 absolute h-[87px] left-1/2 top-[129px] w-[379.156px]" data-node-id="0:1904" data-name="p">
+              <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-0" data-node-id="0:1905" data-name="span">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] w-[359.747px]" data-node-id="0:1906">
+                  <p className="leading-[29.001px]">Get $200-$600 in credit when you trade in iPhone 11 or higher and upgrade to iPhone 14 or iPhone 14 Pro.</p>
+                </div>
+              </div>
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[322.56px] not-italic text-[#1d1d1f] text-[19px] text-center top-[72.5px] tracking-[0.231px] whitespace-nowrap" data-node-id="0:1907">
+                <p className="leading-[29.001px]">1</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[217px]" data-node-id="0:1908" data-name="Learn more about Apple Trade-in.">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1909">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-white bottom-[620px] left-[30px] overflow-clip top-[817px] w-[675px]" data-node-id="0:1910" data-name="div">
+          <div className="absolute content-stretch flex items-start left-[40px] pl-[5.125px] pr-[4.925px] top-[51px]" data-node-id="0:1911" data-name="p">
+            <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[45px] text-center tracking-[-0.144px] w-[584.95px]" data-node-id="0:1912">
+              <p className="leading-[52.008px]">Save up to $800 with select carrier deals at Apple.8</p>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col gap-[2px] items-center left-[40px] pb-[61px] pl-[101px] pr-[100.8px] pt-[25px] top-[156px]" data-node-id="0:1913" data-name="div">
+            <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[393.2px]" data-node-id="0:1914">
+              <p className="leading-[29.001px]">Get the carrier deals you love and save on a new iPhone when you trade in and purchase right here at Apple.</p>
+            </div>
+            <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:1915" data-name="Find your offer. Explore carrier deals.">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[141.669px]" data-node-id="0:1916">
+                <p>
+                  <span className="leading-[29.001px]">{`Find your deal `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute h-[331.188px] left-1/2 top-[390px] w-[550px]" data-node-id="0:1917" data-name="div">
+            <div className="absolute content-stretch flex flex-col gap-[13.594px] isolate items-center left-0 top-0" data-node-id="0:1918" data-name="div">
+              <div className="h-[76px] relative shrink-0 w-[165px] z-[2]" data-node-id="0:1919" data-name="h4">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgH4} />
+                </div>
+              </div>
+              <div className="content-stretch flex items-start pl-[68.453px] pr-[67.547px] relative shrink-0 z-[1]" data-node-id="0:1920" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap" data-node-id="0:1921">
+                  <p className="leading-[25px] mb-0">Get up to $800</p>
+                  <p className="leading-[25px]">credit after trade-in</p>
+                </div>
+              </div>
+            </div>
+            <div className="absolute content-stretch flex flex-col gap-[13.594px] isolate items-center left-[275px] top-0" data-node-id="0:1922" data-name="div">
+              <div className="h-[76px] relative shrink-0 w-[165px] z-[2]" data-node-id="0:1923" data-name="h4">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgH5} />
+                </div>
+              </div>
+              <div className="content-stretch flex items-start pl-[68.453px] pr-[67.547px] relative shrink-0 z-[1]" data-node-id="0:1924" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap" data-node-id="0:1925">
+                  <p className="leading-[25px] mb-0">Get up to $400</p>
+                  <p className="leading-[25px]">credit after trade-in</p>
+                </div>
+              </div>
+            </div>
+            <div className="absolute content-stretch flex flex-col gap-[13.594px] isolate items-center left-[137.5px] top-[165.59px]" data-node-id="0:1926" data-name="div">
+              <div className="h-[76px] relative shrink-0 w-[165px] z-[2]" data-node-id="0:1927" data-name="h4">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgH6} />
+                </div>
+              </div>
+              <div className="content-stretch flex items-start pl-[68.453px] pr-[67.547px] relative shrink-0 z-[1]" data-node-id="0:1928" data-name="p">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[17px] text-center tracking-[-0.374px] whitespace-nowrap" data-node-id="0:1929">
+                  <p className="leading-[25px] mb-0">Get up to $800</p>
+                  <p className="leading-[25px]">credit after trade-in</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute bg-white bottom-[620px] left-[calc(50%+352.5px)] overflow-clip top-[817px] w-[675px]" data-node-id="0:1930" data-name="div">
+          <div className="-translate-x-1/2 absolute h-[314px] left-1/2 top-0 w-[516px]" data-node-id="0:1931" data-name="div">
+            <div className="-translate-x-1/2 absolute h-[104px] left-1/2 top-[52px] w-[516px]" data-node-id="0:1932" data-name="h3">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[258.09px] not-italic text-[#1d1d1f] text-[43px] text-center top-[52px] tracking-[-0.144px] w-[458.716px]" data-node-id="0:1933">
+                <p className="leading-[52.008px] mb-0">Get 3% Daily Cash</p>
+                <p className="leading-[52.008px]">back with Apple Card.</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute h-[87px] left-1/2 top-[181px] w-[516px]" data-node-id="0:1934" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[83px] justify-center leading-[0] left-[258.1px] not-italic text-[#1d1d1f] text-[20px] text-center top-[43.5px] tracking-[0.231px] w-[429.888px]" data-node-id="0:1935">
+                <p className="leading-[29.001px]">And pay for your new iPhone over 24 months, interest‑free when you choose to check out with Apple Card Monthly Installments.**</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[270px]" data-node-id="0:1936" data-name="learn more about daily cash back with apple card">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1937">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[357px] left-0 top-[400.19px] w-[675px]" data-node-id="0:1938" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure1} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute h-[560px] left-[30px] top-[1604.19px] w-[1380px]" data-node-id="0:1939" data-name="div">
+          <div aria-hidden className="absolute inset-0 pointer-events-none">
+            <div className="absolute bg-white inset-0" />
+            <div className="absolute inset-0 overflow-hidden">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgDiv} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute h-[290px] left-1/2 top-[134px] w-[750px]" data-node-id="0:1940" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[375.09px] not-italic text-[#1d1d1f] text-[44px] text-center top-[52px] tracking-[-0.144px] w-[455.622px]" data-node-id="0:1941">
+              <p className="leading-[52.008px]">Why Apple is the best place to buy iPhone.</p>
+            </div>
+            <div className="-translate-x-1/2 absolute h-[116px] left-1/2 top-[129px] w-[437.5px]" data-node-id="0:1942" data-name="p">
+              <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[112px] justify-center leading-[0] left-[218.85px] not-italic text-[#1d1d1f] text-[19px] text-center top-[58px] tracking-[0.231px] w-[428.263px]" data-node-id="0:1943">
+                <p className="leading-[29.001px] mb-0">You can choose a payment option that works for you, pay less with a trade‑in, connect your new iPhone to your carrier, and get set up quickly.</p>
+                <p className="leading-[29.001px]">You can also chat with a Specialist anytime.</p>
+              </div>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[246px]" data-node-id="0:1944" data-name="Learn more about buying iPhone from Apple">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1945">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "Apple-04-Project.zip",
+    "bytes": 14042478,
+    "sha256": "0c6366d59acbb509a79d2c2bc99a0f8252a10c7f0fbb276dd07c7c780f695592"
+  },
+  {
+    "file": "Apple-04-Web-Build.zip",
+    "bytes": 2739092,
+    "sha256": "075cb881b279b6a98ea52e22b441ed3212eefb8c29b2c0a39f560d92ffbe4dc4"
+  },
+  {
+    "file": "Apple-04-Mobile-Export.zip",
+    "bytes": 6762578,
+    "sha256": "0c566f9992febe89195e41c6c96ace2c75a00d45051d7bc4608b0bd40294778b"
+  }
+]

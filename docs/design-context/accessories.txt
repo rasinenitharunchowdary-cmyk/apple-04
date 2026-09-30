@@ -1,0 +1,122 @@
+const imgFigure = "https://www.figma.com/api/mcp/asset/3774191c-b611-4d7e-ac02-ac2d39aa560c.png";
+const imgFigure1 = "https://www.figma.com/api/mcp/asset/b574f9e0-21ee-46ea-a24c-a3154cf4c966.png";
+const imgFigure2 = "https://www.figma.com/api/mcp/asset/22b149ad-728a-45ab-9b60-4b8d5af18bb7.png";
+
+export default function Section() {
+  return (
+    <div className="relative size-full" data-node-id="0:1946" data-name="section">
+      <div className="-translate-x-1/2 absolute h-[60px] left-1/2 top-[95px] w-[1440px]" data-node-id="0:1947" data-name="h2">
+        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[67px] justify-center leading-[0] left-[720.09px] not-italic text-[#1d1d1f] text-[51px] text-center top-[29.5px] tracking-[-0.28px] w-[522.059px]" data-node-id="0:1948">
+          <p className="leading-[60px]">Featured accessories</p>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[540px] left-1/2 overflow-clip top-[225px] w-[1440px]" data-node-id="0:1949" data-name="div">
+        <div className="absolute bg-white content-stretch flex items-start left-[30px] overflow-clip pb-[165.813px] pl-[145px] pr-[835px] pt-[165.797px] right-[30px] top-0" data-node-id="0:1950" data-name="div">
+          <div className="h-[198.391px] relative shrink-0 w-[400px]" data-node-id="0:1951" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[199.7px] not-italic text-[#1d1d1f] text-[44px] text-center top-[26px] tracking-[-0.144px] whitespace-nowrap" data-node-id="0:1952">
+              <p className="leading-[52.008px]">MagSafe</p>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[200.1px] not-italic text-[#1d1d1f] text-[21px] text-center top-[112.3px] tracking-[0.231px] w-[290.013px]" data-node-id="0:1953">
+              <p className="leading-[29.001px]">Snap on a magnetic case, wallet, or both. And get faster wireless charging.</p>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[154.39px]" data-node-id="0:1954" data-name="Shop MagSafe accessories">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.231px] w-[259.309px]" data-node-id="0:1955">
+                <p className="text-[20px]">
+                  <span className="leading-[29.001px]">{`Shop MagSafe accessories `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-0 h-[463px] left-[648.59px] w-[633px]" data-node-id="0:1956" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[540px] left-1/2 overflow-clip top-[765px] w-[1440px]" data-node-id="0:1957" data-name="div">
+        <div className="absolute bg-white content-stretch flex items-start left-[30px] overflow-clip pb-[166.813px] pl-[835px] pr-[145px] pt-[164.797px] right-[30px] top-0" data-node-id="0:1958" data-name="div">
+          <div className="h-[198.391px] relative shrink-0 w-[400px]" data-node-id="0:1959" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[199.61px] not-italic text-[#1d1d1f] text-[43px] text-center top-[26px] tracking-[-0.144px] whitespace-nowrap" data-node-id="0:1960">
+              <p className="leading-[52.008px]">AirTag</p>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-1/2 pl-[7.281px] pr-[7.097px] top-[68.8px]" data-node-id="0:1961" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[385.622px]" data-node-id="0:1962">
+                <p className="leading-[29.001px]">Attach one to your keys. Put another in your backpack. If they’re misplaced, just use the Find My app.</p>
+              </div>
+            </div>
+            <div className="absolute content-stretch flex gap-[25.222px] items-start left-0 pl-[103.688px] pr-[103.503px] top-[154.39px]" data-node-id="0:1963" data-name="ul">
+              <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:1964" data-name="Buy AirTag">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[50.684px]" data-node-id="0:1965">
+                  <p>
+                    <span className="leading-[29.001px]">{`Buy `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+              <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:1966" data-name="Learn more about AirTag">
+                <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1967">
+                  <p>
+                    <span className="leading-[29.001px]">{`Learn more `}</span>
+                    <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bottom-[-1px] h-[531px] right-[579.59px] w-[806px]" data-node-id="0:1968" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure1} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute h-[700px] left-1/2 overflow-clip top-[1305px] w-[1440px]" data-node-id="0:1969" data-name="div">
+        <div className="absolute bg-white h-[707.594px] left-[30px] overflow-clip right-[30px] top-0" data-node-id="0:1970" data-name="div">
+          <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[217.594px] left-1/2 top-[calc(50%-197px)] w-[295px]" data-node-id="0:1971" data-name="div">
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] h-[110px] justify-center leading-[0] left-[147.59px] not-italic text-[#1d1d1f] text-[46px] text-center top-[52px] tracking-[-0.144px] w-[278.934px]" data-node-id="0:1972">
+              <p className="leading-[52.008px]">Magic runs in the family.</p>
+            </div>
+            <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] h-[54px] justify-center leading-[0] left-[147.6px] not-italic text-[#1d1d1f] text-[19px] text-center top-[146px] tracking-[0.231px] w-[274.575px]" data-node-id="0:1973">
+              <p className="leading-[29.001px]">Explore all AirPods models and find the best ones for you.</p>
+            </div>
+            <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.09px)] top-[173.59px]" data-node-id="0:1974" data-name="Learn more about Airpods">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1975">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="-translate-y-1/2 absolute h-[498px] left-[158.5px] top-[calc(50%+61.8px)] w-[1063px]" data-node-id="0:1976" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex items-start left-[calc(50%+0.1px)] top-[2040px]" data-node-id="0:1977" data-name="a">
+        <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[0px] text-center tracking-[0.216px] w-[302.45px]" data-node-id="0:1978">
+          <p className="text-[23px]">
+            <span className="leading-[32.002px]">{`Shop all iPhone accessories `}</span>
+            <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[32.002px] not-italic">{`\uF301`}</span>
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

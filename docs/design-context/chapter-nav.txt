@@ -1,0 +1,163 @@
+const imgIphone14ProLightDfhcc00Ur2OiLargeSvg = "https://www.figma.com/api/mcp/asset/638f9575-ec12-44a3-b048-278e9c2a9975.svg";
+const imgIphone14LightFwknsxkf80UqLargeSvg = "https://www.figma.com/api/mcp/asset/04c1ed7d-eca7-4daf-814a-dc614992bdf0.svg";
+const imgIphone13LightEwo3E0Sf67O2LargeSvg = "https://www.figma.com/api/mcp/asset/56cbd023-cf07-4b42-adca-1cf1c29a6d13.svg";
+const imgIphoneSeLightFhg8Duy6FfauLargeSvg = "https://www.figma.com/api/mcp/asset/605ea813-4113-4e53-a117-7f61307b3e1d.svg";
+const imgIphone12LightCxh2Ll1Zwpw2LargeSvg = "https://www.figma.com/api/mcp/asset/d250a678-2fe5-4288-96ca-3f55f6b37447.svg";
+const imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg = "https://www.figma.com/api/mcp/asset/7b55c373-a391-420f-992d-5c38908a1cf0.svg";
+const imgAirpodsLight8Oj157P2476ALargeSvg = "https://www.figma.com/api/mcp/asset/f8729bca-f77f-40e2-b939-bb90a2aafec5.svg";
+const imgAirtagLightCb2Bmnv6AoeuLargeSvg = "https://www.figma.com/api/mcp/asset/90711f2c-beaf-42ed-8df3-2332ad399cbb.svg";
+const imgAccessoriesLightEd5L6IpsevquLargeSvg = "https://www.figma.com/api/mcp/asset/74c9e997-9192-474b-9785-651402e0fab9.svg";
+const imgGroup = "https://www.figma.com/api/mcp/asset/bbca8f4f-8bc5-41ef-af1d-d9423f263f52.svg";
+const imgGroup1 = "https://www.figma.com/api/mcp/asset/7755fb8c-771b-4396-8ae9-9537652b703c.svg";
+const imgShopIphoneLightB2ToggskllleLargeSvg = "https://www.figma.com/api/mcp/asset/10e6358f-8bb4-4d1e-a789-66b8a0d86067.svg";
+
+export default function NavChapternav() {
+  return (
+    <div className="bg-[#fbfbfd] relative size-full" data-node-id="0:2572" data-name="nav#chapternav">
+      <div className="absolute h-[129px] left-[34px] overflow-clip top-[8px] w-[1372px]" data-node-id="0:2573" data-name="ul">
+        <div className="absolute h-[77px] left-[135.67px] top-[3px] w-[76.188px]" data-node-id="0:2574" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-1/2 top-0 w-[40px]" data-node-id="0:2575" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[40px]" data-node-id="0:2576" data-name="iphone_14_pro_light__dfhcc00ur2oi_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphone14ProLightDfhcc00Ur2OiLargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[38.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2579">
+            <p className="leading-[16px]">iPhone 14 Pro</p>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[38.27px] not-italic text-[#bf4800] text-[10px] text-center top-[83px] tracking-[-0.08px] whitespace-nowrap" data-node-id="0:2580">
+            <p className="leading-[12px]">New</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[252.28px] top-[3px] w-[54.188px]" data-node-id="0:2581" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-1/2 top-0 w-[38px]" data-node-id="0:2582" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[38px]" data-node-id="0:2583" data-name="iphone_14_light__fwknsxkf80uq_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphone14LightFwknsxkf80UqLargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2586">
+            <p className="leading-[16px]">iPhone 14</p>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.27px] not-italic text-[#bf4800] text-[10px] text-center top-[83px] tracking-[-0.08px] whitespace-nowrap" data-node-id="0:2587">
+            <p className="leading-[12px]">New</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[346.89px] top-[3px] w-[53.984px]" data-node-id="0:2588" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-[calc(50%-0.01px)] top-0 w-[36px]" data-node-id="0:2589" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[36px]" data-node-id="0:2590" data-name="iphone_13_light__ewo3e0sf67o2_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphone13LightEwo3E0Sf67O2LargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[27.5px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2593">
+            <p className="leading-[16px]">iPhone 13</p>
+          </div>
+        </div>
+        <div className="absolute content-stretch flex flex-col gap-[7px] items-center left-[441.3px] pr-[0.688px] top-[3px]" data-node-id="0:2594" data-name="a">
+          <div className="h-[54px] relative shrink-0 w-[19px]" data-node-id="0:2595" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[19px]" data-node-id="0:2596" data-name="iphone_se_light__fhg8duy6ffau_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphoneSeLightFhg8Duy6FfauLargeSvg} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2600">
+            <p className="leading-[16px]">iPhone SE</p>
+          </div>
+        </div>
+        <div className="absolute content-stretch flex flex-col gap-[7px] items-center left-[537.41px] pr-[0.703px] top-[3px]" data-node-id="0:2601" data-name="a">
+          <div className="h-[54px] relative shrink-0 w-[22px]" data-node-id="0:2602" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[22px]" data-node-id="0:2603" data-name="iphone_12_light__cxh2ll1zwpw2_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphone12LightCxh2Ll1Zwpw2LargeSvg} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2606">
+            <p className="leading-[16px]">iPhone 12</p>
+          </div>
+        </div>
+        <div className="absolute content-stretch flex flex-col gap-[7px] items-center left-[631.53px] pl-px pr-[0.484px] top-[3px]" data-node-id="0:2607" data-name="a">
+          <div className="h-[54px] relative shrink-0 w-[45px]" data-node-id="0:2608" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[45px]" data-node-id="0:2609" data-name="iphone_compare_light__f4jj7brpbvm2_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIphoneCompareLightF4Jj7Brpbvm2LargeSvg} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2612">
+            <p className="leading-[16px]">Compare</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[722.44px] top-[3px] w-[42.984px]" data-node-id="0:2613" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-[calc(50%-0.01px)] top-0 w-[39px]" data-node-id="0:2614" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[39px]" data-node-id="0:2615" data-name="airpods_light__8oj157p2476a_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgAirpodsLight8Oj157P2476ALargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[21px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2618">
+            <p className="leading-[16px]">AirPods</p>
+          </div>
+        </div>
+        <div className="absolute content-stretch flex flex-col gap-[7px] items-center left-[805.84px] pl-px pr-[0.578px] top-[3px]" data-node-id="0:2619" data-name="a">
+          <div className="h-[54px] relative shrink-0 w-[30px]" data-node-id="0:2620" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[29px]" data-node-id="0:2621" data-name="airtag_light__cb2bmnv6aoeu_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgAirtagLightCb2Bmnv6AoeuLargeSvg} />
+            </div>
+          </div>
+          <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[12px] text-center tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2625">
+            <p className="leading-[16px]">AirTag</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[880.84px] top-[3px] w-[66.922px]" data-node-id="0:2626" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-[calc(50%-0.01px)] top-0 w-[40px]" data-node-id="0:2627" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[40px]" data-node-id="0:2628" data-name="accessories_light__ed5l6ipsevqu_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgAccessoriesLightEd5L6IpsevquLargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[33px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2631">
+            <p className="leading-[16px]">Accessories</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[988.19px] top-[3px] w-[61.781px]" data-node-id="0:2632" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-1/2 top-0 w-[36px]" data-node-id="0:2633" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 overflow-clip w-[36px]" data-node-id="0:2634" data-name="iphone_apple_card_light__dtut839e76c2_large.svg">
+              <div className="absolute contents inset-0" data-node-id="0:2635" data-name="Group">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+              </div>
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[30px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2639">
+            <p className="leading-[16px]">Apple Card</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[1090.39px] top-[3px] w-[35.734px]" data-node-id="0:2640" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-[calc(50%-0.01px)] top-0 w-[32px]" data-node-id="0:2641" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 overflow-clip w-[32px]" data-node-id="0:2642" data-name="iphone_ios_light__b8s4ws8o77iq_large.svg">
+              <div className="absolute contents inset-0" data-node-id="0:2643" data-name="Group">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+              </div>
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[17px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2647">
+            <p className="leading-[16px]">iOS 16</p>
+          </div>
+        </div>
+        <div className="absolute h-[77px] left-[1166.55px] top-[3px] w-[69.781px]" data-node-id="0:2648" data-name="a">
+          <div className="-translate-x-1/2 absolute h-[54px] left-1/2 top-0 w-[58px]" data-node-id="0:2649" data-name="figure">
+            <div className="-translate-x-1/2 absolute bottom-0 h-[54px] left-1/2 w-[58px]" data-node-id="0:2650" data-name="shop_iphone_light__b2toggskllle_large.svg">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgShopIphoneLightB2ToggskllleLargeSvg} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] left-[34px] not-italic text-[#1d1d1f] text-[12px] text-center top-[69px] tracking-[-0.12px] whitespace-nowrap" data-node-id="0:2653">
+            <p className="leading-[16px]">Shop iPhone</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

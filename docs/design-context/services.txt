@@ -1,0 +1,99 @@
+const imgFigure = "https://www.figma.com/api/mcp/asset/669ba457-4052-4a02-bf91-0391b3908882.png";
+const imgFigure1 = "https://www.figma.com/api/mcp/asset/df5db26c-2650-41f8-aaff-533dcf104718.png";
+const imgFigure2 = "https://www.figma.com/api/mcp/asset/9fc9bbc1-ec7a-4ca4-9758-8879885d1541.png";
+
+export default function Section() {
+  return (
+    <div className="relative size-full" data-node-id="0:1979" data-name="section">
+      <div className="absolute h-[280.781px] left-0 top-[83px] w-[1440px]" data-node-id="0:1980" data-name="div">
+        <div className="-translate-x-1/2 absolute h-[280.781px] left-[calc(50%-370px)] top-0 w-[370px]" data-node-id="0:1981" data-name="div">
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[184.64px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap" data-node-id="0:1982">
+            <p className="leading-[29.001px]">Fast, free delivery</p>
+          </div>
+          <div className="-translate-x-1/2 absolute content-stretch flex flex-col items-center left-[calc(50%-0.01px)] pl-[15.516px] pr-[15.316px] top-[127.39px]" data-node-id="0:1983" data-name="div">
+            <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] mb-[-6.609px] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[277.497px]" data-node-id="0:1984">
+              <p className="leading-[29.001px]">Or pick up available items at an Apple Store.</p>
+            </div>
+            <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:1985" data-name="Learn more about delivery.">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1986">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[75px] left-[159.5px] top-0 w-[51px]" data-node-id="0:1987" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure} />
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[280.781px] left-1/2 top-0 w-[370px]" data-node-id="0:1988" data-name="div">
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[185.05px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap" data-node-id="0:1989">
+            <p className="leading-[29.001px]">Pay monthly at 0% APR</p>
+          </div>
+          <div className="absolute h-[75px] left-[157.5px] top-0 w-[55px]" data-node-id="0:1990" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure1} />
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute content-stretch flex flex-col items-center left-[calc(50%-0.01px)] top-[127.39px]" data-node-id="0:1991" data-name="div">
+            <div className="content-stretch flex items-start mb-[-6.609px] pl-[10.938px] pr-[10.737px] relative shrink-0" data-node-id="0:1992" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[21px] text-center tracking-[0.231px] w-[286.653px]" data-node-id="0:1993">
+                <p className="leading-[29.001px]">You can pay over time when you choose to check out with Apple Card Monthly Installments.**</p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:1994" data-name="Learn more about payment plans">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:1995">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="-translate-x-1/2 absolute h-[280.781px] left-[calc(50%+370px)] top-0 w-[370px]" data-node-id="0:1996" data-name="div">
+          <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Helvetica_Neue:Bold'] justify-center leading-[0] left-[184.5px] not-italic text-[#1d1d1f] text-[19px] text-center top-[104.5px] tracking-[0.231px] whitespace-nowrap" data-node-id="0:1997">
+            <p className="leading-[29.001px]">Get help buying</p>
+          </div>
+          <div className="-translate-x-1/2 absolute content-stretch flex flex-col items-center left-[calc(50%-0.01px)] top-[127.39px]" data-node-id="0:1998" data-name="div">
+            <div className="content-stretch flex items-start mb-[-6.609px] pl-[46.531px] pr-[46.797px] relative shrink-0" data-node-id="0:1999" data-name="p">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#1d1d1f] text-[19px] text-center tracking-[0.231px] whitespace-nowrap" data-node-id="0:2000">
+                <p className="leading-[29.001px] mb-0">Have a question? Call a</p>
+                <p className="leading-[29.001px] mb-0">Specialist or chat online.</p>
+                <p className="leading-[29.001px]">Call 1‑800‑MY‑APPLE.</p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-start relative shrink-0" data-node-id="0:2001" data-name="Learn more about online personal sessions">
+              <div className="[word-break:break-word] flex flex-col font-['Helvetica_Neue:Regular'] justify-center leading-[0] not-italic relative shrink-0 text-[#06c] text-[21px] text-center tracking-[0.231px] w-[116.903px]" data-node-id="0:2002">
+                <p>
+                  <span className="leading-[29.001px]">{`Learn more `}</span>
+                  <span className="[word-break:break-word] font-['Inter:Regular'] font-normal leading-[29.001px] not-italic">{`\uF301`}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute h-[75px] left-[149.5px] top-0 w-[71px]" data-node-id="0:2003" data-name="figure">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgFigure2} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.
