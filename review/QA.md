@@ -13,7 +13,8 @@
 | Mobile exports | Expo compiled web plus iOS and Android Hermes bundles |
 | Web responsive widths | 320, 390, 768, 1024, 1440 px emulated via DevTools protocol; no horizontal document overflow with dialogs closed and normal body scrolling |
 | Page audit script | `npm run audit:page` drives headless Chrome, emulates exact viewports, and fails on overflow, broken images, dead anchors, or Figma height drift |
-| Production deploy | <https://a04766320.netlify.app> — live audit green at 320/390/768/1024/1440 px on three consecutive runs; 110 images with 0 broken, 10 sections, 12 chapter-nav links |
+| Production deploy | <https://rasinenitharunchowdary-cmyk.github.io/apple-04/> — live audit green at 320/390/768/1024/1440 px; 110 images with 0 broken after lazy loading settles, 10 sections, 12 chapter-nav links |
+| Netlify mirror | <https://a04766320.netlify.app> — same build, also audit-green on three consecutive runs |
 | Web assets/anchors | No failed loaded images or missing internal anchor targets in DOM audit |
 | Web bag | Yellow iPhone 14 / 256 GB → $899; quantity 2 → $1,798; persistence across reload; remove → empty bag |
 | Web search | Filtering and no-results state; Escape closes dialog and restores focus to Search |
@@ -55,9 +56,16 @@ Screenshots in `screenshots/` distinguish `web-*`, `mobile-*` (React Native web)
 
 - Native iOS simulator evidence is available. Android was compiled/exported; an Android emulator and physical iOS/Android devices were not exercised.
 - The Netlify site is deployed from the CLI, so it is **not** linked to Git and
-  will not rebuild on future pushes. Connecting the repository in the Netlify
-  dashboard enables automatic deploys; `netlify.toml` already supplies the build
-  and publish settings.
+  will not rebuild on future pushes. GitHub Pages is the primary review URL and
+  does rebuild automatically from `.github/workflows/pages.yml`.
+- Chrome displayed a "Dangerous site" interstitial for `a04766320.netlify.app`
+  to one visitor. Google Safe Browsing reports the domain clean (status 6, "no
+  unsafe content found"), the server returns HTTP 200 with the correct body, and
+  a separate Chrome instance loads it with all sections and images present, so
+  this is not an actual finding against the build. The randomly generated
+  subdomain reads as throwaway, which is consistent with a reputation heuristic.
+  GitHub Pages was added as the primary review URL to remove the warning page
+  entirely; Netlify is kept as a mirror.
 - No signed APK/IPA or store release is claimed. The deliverables are the working Expo project, compiled platform bundles, and static web builds.
 - Visual checks were performed in Chromium previews and the iOS simulator. Safari/Firefox, screen-reader traversal, dynamic text at every accessibility size, and exhaustive cross-device regression remain additional review work.
 - Layout dimensions and original artwork were checked, but no automated pixel-diff score against Figma is claimed. Operating-system font rendering can vary.

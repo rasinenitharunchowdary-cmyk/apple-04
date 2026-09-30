@@ -90,6 +90,7 @@ tests/              Catalog behavior and asset integrity checks
 scripts/audit-page.mjs  Headless-Chrome responsive/Fidelity audit
 docs/assets.json    Original asset hashes and byte sizes
 netlify.toml        Netlify build and cache-header configuration
+.github/workflows/  GitHub Pages build and publish pipeline
 review/             QA report, screenshots, build logs, delivery archives
 ```
 
@@ -105,10 +106,15 @@ See [review/QA.md](review/QA.md) for executed checks and the remaining device-te
 
 ## Deploy the web build
 
-**Live:** <https://a04766320.netlify.app> (production deploy of `web/dist`)
+**Live (recommended):** <https://rasinenitharunchowdary-cmyk.github.io/apple-04/>
+**Netlify mirror:** <https://a04766320.netlify.app>
 
-`netlify.toml` builds `npm run build` from the repo root and publishes
-`web/dist`. With the Netlify CLI authenticated:
+GitHub Pages is the primary review URL. `.github/workflows/pages.yml` rebuilds
+and publishes `web/dist` on every push to `main`. Vite emits relative asset paths
+(`base: "./"`), so the build serves correctly from the repository subdirectory.
+
+The Netlify site carries the same build and is configured by `netlify.toml`
+(`npm run build` from the repo root, publishing `web/dist`):
 
 ```sh
 npx netlify-cli deploy --prod --dir=web/dist --site=25dcb4bb-69a2-4798-a009-24954551c4cc
@@ -116,6 +122,14 @@ npx netlify-cli deploy --prod --dir=web/dist --site=25dcb4bb-69a2-4798-a009-2495
 
 Deploy from a directory outside the repo root if the CLI reports multiple
 workspace projects (`@apple04/web`, `@apple04/mobile`); copying `web/dist` to a
-scratch directory and deploying that works. The Vite build uses relative asset
-paths, so it also works when published under a subdirectory. The React Native
-app is not deployable as a web page; use `npm run mobile` or the exports above.
+scratch directory and deploying that works.
+
+Prefer Pages for review links. The Netlify subdomain is randomly generated, and
+Chrome showed one visitor a "Dangerous site" interstitial for it. Google Safe
+Browsing reports the domain clean (status 6) and the build serves correctly, so
+this looks like a heuristic flag on the throwaway-looking hostname rather than a
+real finding — but a security warning on a client-facing link is unacceptable
+either way.
+
+The React Native app is not deployable as a web page; use `npm run mobile` or
+the exports above.
