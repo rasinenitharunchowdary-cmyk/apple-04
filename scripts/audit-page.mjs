@@ -104,6 +104,26 @@ async function connect(port) {
   return { send, evaluate, close: () => ws.close() };
 }
 
+/**
+ * Resolves once every eagerly-loaded image has either completed or failed.
+ * A CDN on a cold edge fetches assets from deploy storage on first request, so
+ * an in-flight image must not be reported as broken.
+ */
+const SETTLE = `new Promise((resolve) => {
+  const deadline = Date.now() + 15000;
+  const pending = () =>
+    [...document.images].filter((i) => i.loading !== "lazy" && !i.complete).length;
+  const tick = () => {
+    if (pending() === 0 || Date.now() > deadline) resolve(pending());
+    else setTimeout(tick, 120);
+  };
+  if (document.readyState !== "complete") {
+    window.addEventListener("load", () => setTimeout(tick, 100), { once: true });
+  } else {
+    tick();
+  }
+})`;
+
 const MEASURE = `(() => {
   const px = (v) => Math.round(parseFloat(v) * 100) / 100;
   const short = (src) => (src || "").replace(/^data:[^,]{0,24},/, "data:…").slice(0, 70);
@@ -195,7 +215,7 @@ for (const width of WIDTHS) {
       mobile: false,
     });
     await cdp.send("Page.navigate", { url: BASE });
-    await sleep(1800);
+    await cdp.evaluate(SETTLE);
     const data = await cdp.evaluate(MEASURE);
     results.push({ width, ...data });
     cdp.close();

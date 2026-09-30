@@ -105,13 +105,17 @@ See [review/QA.md](review/QA.md) for executed checks and the remaining device-te
 
 ## Deploy the web build
 
+**Live:** <https://a04766320.netlify.app> (production deploy of `web/dist`)
+
 `netlify.toml` builds `npm run build` from the repo root and publishes
 `web/dist`. With the Netlify CLI authenticated:
 
 ```sh
-npx netlify-cli deploy --prod
+npx netlify-cli deploy --prod --dir=web/dist --site=25dcb4bb-69a2-4798-a009-24954551c4cc
 ```
 
-The Vite build uses relative asset paths, so it also works when published under
-a subdirectory. The React Native app is not deployable as a web page; use
-`npm run mobile` or the exports described above.
+Deploy from a directory outside the repo root if the CLI reports multiple
+workspace projects (`@apple04/web`, `@apple04/mobile`); copying `web/dist` to a
+scratch directory and deploying that works. The Vite build uses relative asset
+paths, so it also works when published under a subdirectory. The React Native
+app is not deployable as a web page; use `npm run mobile` or the exports above.

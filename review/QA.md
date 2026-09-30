@@ -13,6 +13,7 @@
 | Mobile exports | Expo compiled web plus iOS and Android Hermes bundles |
 | Web responsive widths | 320, 390, 768, 1024, 1440 px emulated via DevTools protocol; no horizontal document overflow with dialogs closed and normal body scrolling |
 | Page audit script | `npm run audit:page` drives headless Chrome, emulates exact viewports, and fails on overflow, broken images, dead anchors, or Figma height drift |
+| Production deploy | <https://a04766320.netlify.app> — live audit green at 320/390/768/1024/1440 px on three consecutive runs; 110 images with 0 broken, 10 sections, 12 chapter-nav links |
 | Web assets/anchors | No failed loaded images or missing internal anchor targets in DOM audit |
 | Web bag | Yellow iPhone 14 / 256 GB → $899; quantity 2 → $1,798; persistence across reload; remove → empty bag |
 | Web search | Filtering and no-results state; Escape closes dialog and restores focus to Search |
@@ -41,10 +42,22 @@ Screenshots in `screenshots/` distinguish `web-*`, `mobile-*` (React Native web)
   `--window-size`, which macOS clamps to ~500 px, so 320 and 390 px were never
   genuinely measured; the audit now emulates those viewports over the DevTools
   protocol. Both widths still report no overflow.
+- Made the audit wait for eagerly-loaded images to settle before measuring. On a
+  cold CDN edge, assets are fetched from deploy storage on first request, and the
+  earlier fixed delay reported those in-flight images as broken; the failure
+  moved between runs and between images, which is what identified it as timing
+  rather than missing files.
+- The first Netlify deploy uploaded only 12 of 48 files because it reused the
+  file list left by a build that had failed in a scratch directory. Redeploying
+  from a clean directory with no `netlify.toml` in scope uploaded all 48.
 
 ## Boundaries
 
 - Native iOS simulator evidence is available. Android was compiled/exported; an Android emulator and physical iOS/Android devices were not exercised.
+- The Netlify site is deployed from the CLI, so it is **not** linked to Git and
+  will not rebuild on future pushes. Connecting the repository in the Netlify
+  dashboard enables automatic deploys; `netlify.toml` already supplies the build
+  and publish settings.
 - No signed APK/IPA or store release is claimed. The deliverables are the working Expo project, compiled platform bundles, and static web builds.
 - Visual checks were performed in Chromium previews and the iOS simulator. Safari/Firefox, screen-reader traversal, dynamic text at every accessibility size, and exhaustive cross-device regression remain additional review work.
 - Layout dimensions and original artwork were checked, but no automated pixel-diff score against Figma is claimed. Operating-system font rendering can vary.
