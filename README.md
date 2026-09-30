@@ -114,15 +114,26 @@ and publishes `web/dist` on every push to `main`. Vite emits relative asset path
 (`base: "./"`), so the build serves correctly from the repository subdirectory.
 
 The Netlify site carries the same build and is configured by `netlify.toml`
-(`npm run build` from the repo root, publishing `web/dist`):
+(`npm run build` from the repo root, publishing `web/dist`). Once the repository
+is connected to the site in the Netlify dashboard, that configuration drives
+automatic deploys.
+
+To publish a prebuilt `web/dist` from the CLI instead, copy only the `[[headers]]`
+blocks from `netlify.toml` into a scratch directory next to the built files:
 
 ```sh
-npx netlify-cli deploy --prod --dir=web/dist --site=25dcb4bb-69a2-4798-a009-24954551c4cc
+npm run build
+mkdir -p /tmp/apple04 && cp -R web/dist /tmp/apple04/dist
+# copy the [[headers]] blocks into /tmp/apple04/netlify.toml
+cd /tmp/apple04
+npx netlify-cli deploy --prod --dir=dist --site=25dcb4bb-69a2-4798-a009-24954551c4cc
 ```
 
-Deploy from a directory outside the repo root if the CLI reports multiple
-workspace projects (`@apple04/web`, `@apple04/mobile`); copying `web/dist` to a
-scratch directory and deploying that works.
+Keeping the `[build]` section in scope makes the CLI run `npm run build` in a
+directory with no repository, which fails. Omitting it makes the CLI publish the
+supplied directory and still apply the cache and security headers. Deploying
+from outside the repo root also avoids the CLI's monorepo prompt about
+`@apple04/web` and `@apple04/mobile`.
 
 Prefer Pages for review links. The Netlify subdomain is randomly generated, and
 Chrome showed one visitor a "Dangerous site" interstitial for it. Google Safe

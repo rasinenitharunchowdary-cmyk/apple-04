@@ -14,7 +14,8 @@
 | Web responsive widths | 320, 390, 768, 1024, 1440 px emulated via DevTools protocol; no horizontal document overflow with dialogs closed and normal body scrolling |
 | Page audit script | `npm run audit:page` drives headless Chrome, emulates exact viewports, and fails on overflow, broken images, dead anchors, or Figma height drift |
 | Production deploy | <https://rasinenitharunchowdary-cmyk.github.io/apple-04/> — live audit green at 320/390/768/1024/1440 px; 110 images with 0 broken after lazy loading settles, 10 sections, 12 chapter-nav links |
-| Netlify mirror | <https://a04766320.netlify.app> — same build, also audit-green on three consecutive runs |
+| Netlify mirror | <https://a04766320.netlify.app> — same build, audit-green on three consecutive runs; `/assets/*` served `public, max-age=31536000, immutable` and security headers verified present |
+| Response headers | `/assets/*` `cache-control: public,max-age=31536000,immutable`; `x-content-type-options: nosniff` and `referrer-policy: strict-origin-when-cross-origin` on all responses |
 | Web assets/anchors | No failed loaded images or missing internal anchor targets in DOM audit |
 | Web bag | Yellow iPhone 14 / 256 GB → $899; quantity 2 → $1,798; persistence across reload; remove → empty bag |
 | Web search | Filtering and no-results state; Escape closes dialog and restores focus to Search |
@@ -55,9 +56,22 @@ Screenshots in `screenshots/` distinguish `web-*`, `mobile-*` (React Native web)
 ## Boundaries
 
 - Native iOS simulator evidence is available. Android was compiled/exported; an Android emulator and physical iOS/Android devices were not exercised.
-- The Netlify site is deployed from the CLI, so it is **not** linked to Git and
-  will not rebuild on future pushes. GitHub Pages is the primary review URL and
-  does rebuild automatically from `.github/workflows/pages.yml`.
+- The first CLI deploys omitted `netlify.toml` to avoid a build command that
+  could not run outside the repository, which silently also dropped the cache and
+  security headers: live assets were being served with
+  `cache-control: public,max-age=0,must-revalidate` and no security headers.
+  Redeploying from a scratch directory carrying only the `[[headers]]` blocks
+  applied them. A `curl` of the site root alone would not have caught this,
+  because `/` still returned HTTP 200.
+- The Netlify site cannot be attached to the repository, renamed, or given build
+  settings through the API token. Build-setting updates returned HTTP 200 but did
+  not persist, `netlify link --git-remote-url` only wrote local CLI state, and
+  every site name except one was rejected as an invalid subdomain. Attaching a
+  repository needs the Netlify dashboard's GitHub App authorization, which is an
+  interactive flow a personal access token cannot perform.
+  warning page entirely; Netlify is kept as a mirror. Connecting the repository
+  to the Netlify site in the dashboard would also give it automatic deploys;
+  that step needs an interactive GitHub authorization.
 - Chrome displayed a "Dangerous site" interstitial for `a04766320.netlify.app`
   to one visitor. Google Safe Browsing reports the domain clean (status 6, "no
   unsafe content found"), the server returns HTTP 200 with the correct body, and
